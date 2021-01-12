@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com"
-title: ExampleSite
+baseURL: "https://ravweinfeld.com"
+title: RavWeinfeld
 paginate: 5
 theme: hugo-PaperMod
 
@@ -18,7 +18,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: ExampleSite
     description: "ExampleSite description"
-    author: Me
+    author: Anonymous
     # author: ["Me", "You"] # multiple authors
 
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -56,7 +56,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Rabbi Wienfeld \U0001F44B"
+        Title: "Rabbi Weinfeld"
         Content: Welcome to my blog
 
     socialIcons:
@@ -74,14 +74,10 @@ params:
 menu:
     main:
         - identifier: categories
-          name: categories
+          name: Categories
           url: /categories/
           weight: 10
         - identifier: tags
-          name: tags
+          name: Tags
           url: /tags/
           weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 30
