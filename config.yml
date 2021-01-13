@@ -81,3 +81,13 @@ menu:
           name: Tags
           url: /tags/
           weight: 20
+        - indentifier: search
+          name: Search
+          url: search/
+          weight: 30
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
