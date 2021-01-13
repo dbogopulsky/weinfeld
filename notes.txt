@@ -1,0 +1,8 @@
+commands:
+    - make publish
+        * This command publishes the site to aws
+    - make start
+        * This command starts the server locally
+
+To preview how the markdown file (any file ending with .md) will look,
+open the file and press ctrl + shift + m

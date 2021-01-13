@@ -1,5 +1,5 @@
 baseURL: "https://ravweinfeld.com"
-title: RavWeinfeld
+title: Rav Weinfeld
 paginate: 5
 theme: hugo-PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: RavWeinfeld
+    description: "Writeups & Parsha Videos of Rav Yecheskel Weinfeld"
     author: Anonymous
     # author: ["Me", "You"] # multiple authors
 
@@ -38,8 +38,8 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /apple-touch-icon.png
+        text:
+        icon:
         iconHeight: 35
 
     # profile-mode
@@ -56,16 +56,16 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Rabbi Weinfeld"
-        Content: Welcome to my blog
+        Title: "Thoughts and Ideas on the Parsha"
+        Content: "Write-Ups & Parsha Videos of Rav Yecheskel Weinfeld"
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+        - name:
+          url:
+        - name:
+          url:
+        - name:
+          url:
 
     analytics:
         google:

@@ -3,7 +3,8 @@ title: "Bereishis 5781"
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 aliases: ["/bereishis5781"]
-tags: ["bereishis", "torah"]
+tags: ["bereishis", "torah", "5781"]
+categories: ["bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -18,11 +19,9 @@ cover:
     relative: false
 comments: false
 ---
-
 1) This Shabbos is referred to as Shabbos Breishis, as opposed to other Shabbosos that we call it Shabbos Parshas Noach and the like. The Gemara in Baba Basra 121a actually refers to every Shabbos as “Shabbos Breishis” in the context that Shabbos does not require Kiddush Beis Din as opposed to the holidays of the year. However, the Minhag Yisrael is to refer to this Shabbos in particular as Shabbos Breishis which would seem to imply that that with this Shabbos we are beginning something new. But it’s a bit difficult to feel that way being that we’ve been here and done that many times before.
 The first Rashi, quoting Reb Yitzchak asks that it wasn’t necessary for the Torah to begin with the story of creation but rather only with החדש הזה לכם-the first Mitzvah of Kiddush HaChodesh. What is the significance of the Mitzvah of Kiddush HaChodesh that the Torah should’ve began with it as opposed to Breishis?
 We see that our ability and mission to be מקדש defines us as we say in Kiddush Levana עטרת תפארת לעמוסי בטן שהם עתידים להתחדש כמותה, that the Levana is considered a crown of beauty for the Jewish people. Additionally we say in the Musaf of Rosh Chodesh כי בעמך ישראל בחרת מכל האמות וחקי ראשי חדשים להם קבעת, that this idea is directly connected to the בחירה of Klal Yisrael that we are מקדש חדשים. And as the Gemara in Brachos 49 says ישראל דקדשינהו לזמנים and that’s why we say מקדש ישראל והזמים. So we see the fact that we are מדקש the זמנים is a consequence of our קדושה. What exactly does that all mean?
-
 There are two types of time. There is natural time, such as the seasons of the year. There is spring, summer, autumn, fall and the Pasuk says about them לא ישבותו-they repeat themselves. Breishis is about natural time which is cyclical. This is all reflected in the solar year which is based on the world going around the sun. As opposed to the concept of a lunar year, there is no objective meaning, rather it’s a human invention. (See Rashi in Breishis 1: 14 and the רא"ם there, and the Ibn Ezra in Shemos 12:2, all discuss this idea that there really is no such thing as a Lunar year).
 Additionally, the Pasuk in Koheles 1:5-6 says וזרח השמש ובא השמש ואל מקומו שואף זורח הוא שם הולך אל דרום וסובב אל צפון סובב סבב הולך הרוח ועל סביבתיו שב הרוח regarding the motion of the sun, describing how it comes back. This is all a description of the cycle of nature. The Ran in Nedarim 25a quoting the Yerushalmi says אין מרובע בבריות-there are no squares among creatures. A square is man-made shape, with human input as opposed to creation which is cyclical. (Rav Hirsch says this idea in Parshas Terumah about theמזבח , on the Pasuk רבוע יהיה-to say that we are not to worship the forces of nature which are round but we are to take control of nature and shape reality.)   
 The Pasuk in Tehillim 12:9 says סביב רשעים יתהלכון that רשעים are going in circles. If a person lives this natural life, then you’re just living a life that repeats itself and there is no real progress.

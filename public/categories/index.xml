@@ -1,9 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on RavWeinfeld</title>
+    <title>Categories on </title>
     <link>https://ravweinfeld.com/categories/</link>
-    <description>Recent content in Categories on RavWeinfeld</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ravweinfeld.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://ravweinfeld.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bamidbar</title>
+      <link>https://ravweinfeld.com/categories/bamidbar/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/bamidbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bereishes</title>
+      <link>https://ravweinfeld.com/categories/bereishes/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/bereishes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bereishis</title>
+      <link>https://ravweinfeld.com/categories/bereishis/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/bereishis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devarim</title>
+      <link>https://ravweinfeld.com/categories/devarim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/devarim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shemos</title>
+      <link>https://ravweinfeld.com/categories/shemos/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/shemos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yom Tovim</title>
+      <link>https://ravweinfeld.com/categories/yom-tovim/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/yom-tovim/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
