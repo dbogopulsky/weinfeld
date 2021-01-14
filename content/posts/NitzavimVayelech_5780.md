@@ -1,10 +1,10 @@
 ---
 title: "Nitzavim Vayelech 5780"
-date: 2020-09-15T11:30:03+00:00
+date: 2020-09-12T11:30:03+00:00
 weight: 1
 aliases: ["/nitzavimvayelech5780"]
-tags: ["devarim", "torah", "5780"]
-categories: ["devarim"]
+tags: ["Devarim", "torah", "5780"]
+categories: ["Devarim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

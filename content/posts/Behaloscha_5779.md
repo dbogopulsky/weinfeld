@@ -1,10 +1,10 @@
 ---
-title: "Behaloscha 5780"
-date: 2020-09-15T11:30:03+00:00
+title: "Behaloscha 5779"
+date: 2019-06-16T11:30:03+00:00
 weight: 1
-aliases: ["/behaloscha5780"]
-tags: ["bamidbar", "torah", "5780"]
-categories: ["bamidbar"]
+aliases: ["/behaloscha5779"]
+tags: ["Bamidbar", "torah", "5779"]
+categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

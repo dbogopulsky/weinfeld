@@ -1,14 +1,14 @@
 ---
 title: "Korach 5779"
-date: 2020-09-15T11:30:03+00:00
+date: 2019-06-29T11:30:03+00:00
 weight: 1
 aliases: ["/korach5779"]
-tags: ["bamidbar", "torah", "5779"]
-categories: ["bamidbar"]
+tags: ["Bamidbar", "torah", "5779"]
+categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false

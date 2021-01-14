@@ -1,9 +1,10 @@
 ---
 title: "Toldos 5781"
-date: 2020-12-15T11:30:03+00:00
+date: 2020-11-21T11:30:03+00:00
 weight: 1
-aliases: ["/toldos5780"]
-tags: ["bereishis", "torah"]
+aliases: ["/toldos5781"]
+tags: ["Bereishis", "torah", "5781"]
+categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -1,10 +1,10 @@
 ---
 title: "Pinchas 5779"
-date: 2020-09-15T11:30:03+00:00
+date: 2019-07-27T11:30:03+00:00
 weight: 1
 aliases: ["/pinchas5779"]
-tags: ["bamidbar", "torah", "5779"]
-categories: ["bamidbar"]
+tags: ["Bamidbar", "torah", "5779"]
+categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

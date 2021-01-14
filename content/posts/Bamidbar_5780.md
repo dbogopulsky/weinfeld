@@ -1,10 +1,10 @@
 ---
 title: "Bamidbar 5780"
-date: 2020-09-15T11:30:03+00:00
+date: 2020-05-23T11:30:03+00:00
 weight: 1
-aliases: ["/bamidbar5780"]
-tags: ["bamidbar", "torah", "5780"]
-categories: ["bamidbar"]
+aliases: ["/Bamidbar5780"]
+tags: ["Bamidbar", "torah", "5780"]
+categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

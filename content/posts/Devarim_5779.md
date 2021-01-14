@@ -1,10 +1,10 @@
 ---
 title: "Devarim 5779"
-date: 2020-09-15T11:30:03+00:00
+date: 2019-08-10T11:30:03+00:00
 weight: 1
-aliases: ["/devarim5779"]
-tags: ["devarim", "torah", "5779"]
-categories: ["devarim"]
+aliases: ["/Devarim5779"]
+tags: ["Devarim", "torah", "5779"]
+categories: ["Devarim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

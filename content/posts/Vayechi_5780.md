@@ -1,10 +1,10 @@
 ---
 title: "Vayechi 5780"
-date: 2020-09-15T11:30:03+00:00
+date: 2020-01-11T11:30:03+00:00
 weight: 1
 aliases: ["/vayechi5780"]
-tags: ["bereishis", "torah"]
-categories: ["bereishes"]
+tags: ["Bereishis", "torah", "5780"]
+categories: ["Bereishis"]
 author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false

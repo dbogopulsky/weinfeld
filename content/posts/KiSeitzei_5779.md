@@ -1,10 +1,10 @@
 ---
 title: "Ki Seitzei 5779"
-date: 2020-09-15T11:30:03+00:00
+date: 2019-09-14T11:30:03+00:00
 weight: 1
 aliases: ["/kiseitzei5779"]
-tags: ["devarim", "torah", "5779"]
-categories: ["devarim"]
+tags: ["Devarim", "torah", "5779"]
+categories: ["Devarim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

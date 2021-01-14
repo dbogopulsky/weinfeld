@@ -1,10 +1,10 @@
 ---
 title: "Haazinu 5781"
-date: 2020-09-15T11:30:03+00:00
+date: 2020-09-26T11:30:03+00:00
 weight: 1
 aliases: ["/haazinu5781"]
-tags: ["devarim", "torah", "5781"]
-categories: ["devarim"]
+tags: ["Devarim", "torah", "5781"]
+categories: ["Devarim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -45,7 +45,7 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
+        title: Rav Weinfeld
         # imageUrl: '<img location>'
         # imageTitle: my image
         buttons:
@@ -53,11 +53,19 @@ params:
               url: posts
             - name: Tags
               url: tags
+            - name: Search
+              url: search
 
     # home-info mode
     homeInfoParams:
         Title: "Thoughts and Ideas on the Parsha"
-        Content: "Write-Ups & Parsha Videos of Rav Yecheskel Weinfeld"
+        Content: >
+            Write-Ups & Parsha Videos of Rav Yecheskel Weinfeld
+
+            -
+
+            - *The written material is based on the understanding of the writer and is not necessarily exactly what was said or intended.*
+
 
     socialIcons:
         - name:

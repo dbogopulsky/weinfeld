@@ -1,10 +1,10 @@
 ---
 title: "Ki Sisa 5780"
-date: 2020-09-15T11:30:03+00:00
+date: 2020-03-14T11:30:03+00:00
 weight: 1
 aliases: ["/kisisa5780"]
-tags: ["bereishis", "torah", "5780"]
-categories: ["shemos"]
+tags: ["Shemos", "torah", "5780"]
+categories: ["Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -1,10 +1,10 @@
 ---
 title: "Vayeitze 5781"
-date: 2020-12-15T11:30:03+00:00
+date: 2020-11-25T11:30:03+00:00
 weight: 1
 aliases: ["/vayeitze5781"]
-tags: ["bereishis", "torah", "5781"]
-categories: ["bereishis"]
+tags: ["Bereishis", "torah", "5781"]
+categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

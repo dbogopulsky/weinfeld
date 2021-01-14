@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Rav Weinfeld</title>
     <link>https://ravweinfeld.com/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Rav Weinfeld</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Dec 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://ravweinfeld.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://ravweinfeld.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bereishis</title>
-      <link>https://ravweinfeld.com/tags/bereishis/</link>
-      <pubDate>Tue, 15 Dec 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/bereishis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>torah</title>
-      <link>https://ravweinfeld.com/tags/torah/</link>
-      <pubDate>Tue, 15 Dec 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/torah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5779</title>
-      <link>https://ravweinfeld.com/tags/5779/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/5779/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5780</title>
-      <link>https://ravweinfeld.com/tags/5780/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/5780/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5781</title>
-      <link>https://ravweinfeld.com/tags/5781/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/5781/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bamidbar</title>
-      <link>https://ravweinfeld.com/tags/bamidbar/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/bamidbar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>devarim</title>
-      <link>https://ravweinfeld.com/tags/devarim/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/tags/devarim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shemos</title>
+      <title>Shemos</title>
       <link>https://ravweinfeld.com/tags/shemos/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 11 Jan 2021 11:30:03 +0000</pubDate>
       
       <guid>https://ravweinfeld.com/tags/shemos/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>torah</title>
+      <link>https://ravweinfeld.com/tags/torah/</link>
+      <pubDate>Mon, 11 Jan 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/torah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5781</title>
+      <link>https://ravweinfeld.com/tags/5781/</link>
+      <pubDate>Sat, 02 Jan 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/5781/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bereishis</title>
+      <link>https://ravweinfeld.com/tags/bereishis/</link>
+      <pubDate>Sat, 02 Jan 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/bereishis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devarim</title>
+      <link>https://ravweinfeld.com/tags/devarim/</link>
+      <pubDate>Sat, 26 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/devarim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5780</title>
+      <link>https://ravweinfeld.com/tags/5780/</link>
+      <pubDate>Sat, 12 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/5780/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Yom Tovim</title>
       <link>https://ravweinfeld.com/tags/yom-tovim/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2020 11:30:03 +0000</pubDate>
       
       <guid>https://ravweinfeld.com/tags/yom-tovim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bamidbar</title>
+      <link>https://ravweinfeld.com/tags/bamidbar/</link>
+      <pubDate>Sat, 04 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/bamidbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5779</title>
+      <link>https://ravweinfeld.com/tags/5779/</link>
+      <pubDate>Sat, 28 Sep 2019 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/tags/5779/</guid>
       <description></description>
     </item>
     

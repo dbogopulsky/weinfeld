@@ -1,62 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on Rav Weinfeld</title>
     <link>https://ravweinfeld.com/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on Rav Weinfeld</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://ravweinfeld.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://ravweinfeld.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bamidbar</title>
-      <link>https://ravweinfeld.com/categories/bamidbar/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/categories/bamidbar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bereishes</title>
-      <link>https://ravweinfeld.com/categories/bereishes/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/categories/bereishes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bereishis</title>
-      <link>https://ravweinfeld.com/categories/bereishis/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/categories/bereishis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>devarim</title>
-      <link>https://ravweinfeld.com/categories/devarim/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://ravweinfeld.com/categories/devarim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shemos</title>
+      <title>Shemos</title>
       <link>https://ravweinfeld.com/categories/shemos/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 11 Jan 2021 11:30:03 +0000</pubDate>
       
       <guid>https://ravweinfeld.com/categories/shemos/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Bereishis</title>
+      <link>https://ravweinfeld.com/categories/bereishis/</link>
+      <pubDate>Sat, 02 Jan 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/bereishis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devarim</title>
+      <link>https://ravweinfeld.com/categories/devarim/</link>
+      <pubDate>Sat, 26 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/devarim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Yom Tovim</title>
       <link>https://ravweinfeld.com/categories/yom-tovim/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2020 11:30:03 +0000</pubDate>
       
       <guid>https://ravweinfeld.com/categories/yom-tovim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bamidbar</title>
+      <link>https://ravweinfeld.com/categories/bamidbar/</link>
+      <pubDate>Sat, 04 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ravweinfeld.com/categories/bamidbar/</guid>
       <description></description>
     </item>
     

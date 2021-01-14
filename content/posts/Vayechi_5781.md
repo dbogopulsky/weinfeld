@@ -1,13 +1,14 @@
 ---
 title: "Vayechi 5781"
-date: 2020-09-15T11:30:03+00:00
+date: 2021-01-02T11:30:03+00:00
 weight: 1
 aliases: ["/Vayechi5781"]
-tags: ["bereishis", "torah"]
+tags: ["Bereishis", "torah", "5781"]
+categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -19,6 +20,7 @@ cover:
 comments: false
 ---
 The Kiddush this Shabbos was sponsored by the Feldinger family in honor of the Bar Mitzvah of their son, Akiva Moshe.
+ ## Connection of Bar Mitzvah to Parsha
 1) This Shabbos is very appropriate for celebrating his Bar Mitzvah not only because it’s actually the week where he is becoming a Bar Mitzvah, but actually because Parshas Vayechi is apropos for a Bar Mitzvah as will be discussed.
 (Once a Rebbe came to a village and a Jew came over to him and said Rebbe, in your on honor I’m going to make my son’s Bar Mitzvah. So the Rebbe asked him how old is he to which the Jew responded the truth is he is eighteen but until now I needed someone to carry my Talis to shul on Shabbos. But in our case, the boy is actually becoming a Bar Mitzvah this Shabbos.)  
 This Shabbos we concluded one chumash which is the completion of one ענין and begin another chumash, another ענין, which is the end of one era and the beginning of another era similar to that of a Bar Mitzvah boy.
@@ -47,16 +49,19 @@ Chanah in her Shira was saying אל תרבו תדברו גבהה גבהה, meani
 Similarly, Yosef was saying התחת אלהים אני that the brothers wanted him to do what is ultimately good for them which would mean to punish them now in order to prevent punishment and pain in the future. To this Yosef responded התחת אלהים אני that as human he can’t do what is ultimately good if it appears bad now, rather all he can do is what appears good now and not give them more pain even if ultimately by doing what appears good now will end up being bad for them because only Hashem is able to do what appears bad now being that it will ultimately be good.
 The Bar Mitzvah boy spells עקיבא with an א but it’s not so simple. In the הקדמה to the אור זרוע he write that he named his sefer as such based on a dream that he had where it was revealed to him that the name Akiva needs to be spelled with a “hey” at the end because the סופי תיבות of אור זרע לצדיק ולישרי לב שמחה are עקיבה and therefore the name should be spelled with a ה. To commemorate that dream, he named his sefer אור זרוע.
 The Bar Mitzvah boy is named after a great grandfather of his who was named Reb Akiva Yosef Schlesinger and he was insistent on writing his name with a “hey” and not an “aleph” based on this אור זרוע. (This Reb Akiva Yosef Schlesinger did some interesting things such as authoring a book about the importance of making a living and he was behind the establishment of the city of Petach Tikvah. He also blew Shofar in Jerusalem on Rosh Hashanah that fell out on Shabbos and he made a whole campaign promoting this. Reb Shmuel Salant signed against it, but they say nevertheless he went to listen behind the window because he figured that he is blowing already.)
+ ## The Kollel Yungerman
 2) The Rav said the following in the name of his father.
 The two Psukim describing the Brachah from יששכר are as follows:
 יִשָּׂשכָר חֲמֹר גָּרֶם רֹבֵץ בֵּין הַמִּשְׁפְּתָיִם:
 וַיַּרְא מְנֻחָה כִּי טוֹב וְאֶת הָאָרֶץ כִּי נָעֵמָה וַיֵּט שִׁכְמוֹ לִסְבֹּל וַיְהִי לְמַס עֹבֵד
 Yisachar is the lamdan, the kollel yungerman who sits and learns. But people might say that he only sits and learns because he is incapable of doing anything else. Comes along the Pasuk that says Yisachar is חמר גרם that he is compared to a donkey who has strong bones and can bear any weight so he really is capable of doing something and he still chooses to sit and learn.
 But still someone might say that he only sits and learns because he has no enjoyment in עולם הזה and he doesn’t care for a good vacation. Comes along the Pasuk that says וירא מנחה כי טוב that he know what a good vacation is all about and he understands the enjoyment of this world. And even with all of this, ויט שכמו לסבול ויהי למס עבד, he bends his shoulder and chooses to sit and learn.
+ ## Switching Hands
 3) וישלח ישראל את ימינו וישת על ראש אפרים והוא הצעיר ואת שמאלו על ראש מנשה שכל את ידיו כי מנשה הבכור (מח,יד)
 The Pasuk is difficult to read because it ends off that Yaakov switched his hands because מנשה was the בכור. The way it should read is that Yaakov switched his hands in spite of the fact that Menashe was the בכור. Some Rishonim do explain the word כי to mean in spite of, but according to the simple reading of the Pasuk, how does it make sense.
 If Yaakov really wanted Menashe on the left side, then he should’ve put him there. But he didn’t put him there rather he just put his left hand on him because he was the בכור and there was a purpose for him to be there. But to show that Ephraim is really the greater achievement, Yaakov put his right hand on him. In Parshas Mikeitz when Yosef has his two sons, he names them based on the things that happened to him. By Menashe, the Pasuk says כִּי נַשַּׁנִי אֱלֹהִים אֶת כָּל עֲמָלִי וְאֵת כָּל בֵּית אָבִי and by Ephraim the Pasuk says כִּי הִפְרַנִי אֱלֹהִים בְּאֶרֶץ עָנְיִי. A person who experiences trauma needs to forget not only the traumatic experience itself but the entire background. That’s why it’s not only forgetting כָּל עֲמָלִי but it’s also כָּל בֵּית אָבִי. He has to forget the entire thing. That is the Menashe. But eventually that enables him to build a life for himself after which he has the ability to see the past in a new light and reframe it. That is Ephraim, כִּי הִפְרַנִי אֱלֹהִים בְּאֶרֶץ עָנְיִי that specifically through his suffering and עוני was he able to reach such high levels and had he remained in the בית אבי, he would never be able to reach such levels.
 First he needs to forget the בית אבי and turn the page and begin a new life. But once he succeeds in building a new life, he realizes that the new levels that he reached in his new life would have been impossible to attain if he would have stayed under his father wing. Therefore he now has a new appreciation for what he once considered as suffering because he understands the positive side. So Yaakov Avinu is saying it’s true in the chronological order of things what happened first was the Menashe, but in terms of חשיבות and the מעלה, one must understand it’s the כִּי הִפְרַנִי אֱלֹהִים בְּאֶרֶץ עָנְיִי which has the bigger מעלה and is more important, to reframe the past.
+ ## Max Nordau
 4) At the end of the Kiddush the Rav said since the Feldingers come from Basel, Switzerland, he wanted to share a story that has to do with this week's Parshah and with Basel.
 The words "V'Shavu Banim l'Gvulam" come from Jeremiah 31:17 meaning "And the children shall return to their own borders." These words were quoted at the First Zionist Congress by Dr. Max Nordau (1849 -1923), an assimilated Jew who once wrote, "when I reached the age of fifteen, I left the Jewish way of life and the study of Torah. Judaism remained a mere memory and since then I have always felt as a German and a German only."
 However a chance encounter with a yeshiva boy who referenced the Cave of Machpela in Hebron brought Nordau to tears and prompted his return to Jewish roots.
@@ -74,3 +79,5 @@ But the Lord responds to her: "Stop your voice from weeping, and your eyes from 
 "And I," says Dr. Max Nordau, "I didn't know what to do with myself. I turned to the window so that the mother and child wouldn't see the tears rolling down my cheeks, and I said to myself, 'Max, aren't you ashamed of yourself? You are an educated man, known as an intellectual, with a doctor's degree, but you don't know anything about the history of your people. From all of the holy scriptures, nothing? And here, this sick child, weak, an immigrant, a refugee. And he speaks of Jacob and Joseph and Jeremiah, and Rachel, as if it was yesterday, it all lives in front of his eyes?'"
 "I wiped the tears from my cheeks and turned to them and said, in my heart, 'a people, with children like this, that actually live their past, they will have a sparkling future."
 The Rav concluded that obviously nobody in this audience will learn from this story to follow in the ways of this "tinok sh'nishbeh", but it's only to show that the pinteleh yid can always be awakened.
+ ## Thursday Night Parsha Shiur
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/rubAQ4OaUpU/0.jpg)](http://www.youtube.com/watch?v=rubAQ4OaUpU "Video Title")
