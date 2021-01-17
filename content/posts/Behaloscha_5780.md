@@ -3,12 +3,12 @@ title: "Behaloscha 5780"
 date: 2020-06-15T11:30:03+00:00
 weight: 1
 aliases: ["/behaloscha5780"]
-tags: ["Bamidbar", "torah", "5780"]
+tags: ["Bamidbar", "torah", "5780", "video"]
 categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -42,3 +42,5 @@ Therefore, Rashi is explaining that although they were complaining, they weren�
 The Sforno seems to say this idea: על טורח הדרך לא מתאוננים בלבם באמת כי לא היתה אצלם שום סבה ראויה לזה שיתאוננו אבל היו מתאוננים בדבריהם לנסות.
 4) The Rav said from his father the following. The Pasuk says והאיש משה ענו מאד מכל האדם אשר על פני האדמה. How could Moshe be such a humble person if he knew what qualities he had and how special and unique he was?
 Moshe saw so many confident people who believed that they were God’s gift to mankind so he started to think that maybe he isn’t so special and unique after all. This reads into to the Pasuk that והאיש משה ענו מאד, from where and how? מכל האדם, from all people, that from seeing how everyone else acted and what they believed about themselves that he started to think of himself as not so special. That’s why he was able to reach such a level of ענו מאוד מכל האדם even with the impressive qualities that he had.
+ ## Thursday Night Parsha Shiur
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/51krHcPcLkw/0.jpg)](http://www.youtube.com/watch?v=51krHcPcLkw "Video Title")

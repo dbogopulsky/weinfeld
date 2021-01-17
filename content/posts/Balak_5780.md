@@ -8,7 +8,7 @@ categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -33,3 +33,5 @@ The Ritva writes נראין דברי האומרים שאין זו פרשת בל�
 See the attached Shtickle by the Rav for this vort.
 3) In the Haftorah, the Navi Michah signs off with הגיד לך אדם מה טוב ומה ה' דורש ממך כי אם עשות משפט ואהבת חסד והצנע לכת עם אלקיך. One would think that such an important and foundational Pasuk should be written in a well-known open pronounced place and not tucked away in Michah. However, that wouldn’t be so צנוע because overly pronounced Tznius is not Tznius.
 Similarly, sometimes people become preoccupied with the means and they lose sight of the goal. Like the guy who comes home Friday night from Shul and the Challah isn’t covered and he screams and embarrasses his wife even though the entire purpose of covering the Challah Friday night is in order not to embarrass the Challah which teaches us about being sensitive to others and not to embarrass others. Also regarding the Halacha to make a cut in the Challah in order to have the cutting and eating as close as possible to the Brachah but then he can’t find it and spends a few minutes locating the cut, completely defeating the purpose of making the incision to begin with. These are examples of how people become preoccupied with the means and lose sight of the goal. Same thing by Tznius, that if you overemphasize Tznius, it no longer becomes Tznius because Tznius is really about a way of life.
+ ## Thursday Night Parsha shiur
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/0BCmvVQBllI/0.jpg)](http://www.youtube.com/watch?v=0BCmvVQBllI "Video Title")
