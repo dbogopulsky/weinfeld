@@ -8,7 +8,7 @@ categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -43,3 +43,5 @@ The truth is that Yaakov was really an individual who displayed the idea that a 
 But we know obviously that Korach was wrong and therefore there must be a difference between Yaakov Avinu and Korach. It could be that Yaakov wanted to move classes but Korach wanted to remove classes, as the Pasuk says כולם קדושים. But that is wrong because a person has to understand where he is and where someone else, and he must understand where he ends and where the other begins. A classless society cannot function and not everyone is created equally. However, each individual must understand that he plays a specific and defined role in society.
 6) The Haftorah for Parshas Korach discusses Shmuel and the people’s complaint and desire to have a king. The Rama Miphano quotes from the Arizal that Shmuel was a gilgul of Korach and he was a תיקון for him. The Arizal writes that when Bilam proclaimed מי יחיה משמו אל, he was saying מי יחיה משמואל, because he was lamenting how there would be know תיקון from him like Korach was going to have שמואל be a תיקון for him. How was Shmuel a תיקון for Korach?
 When Shmuels mother came to Eli HaKohen to daven for a child, she davened that he should be normal and average. Not too short, but not too tall, not too dark but not too light, not too dumb but not too smart. Shmuel was described as מזרע אנשים, meaning average. Yet, we know that משה ואהרן בכהניו שומואל בקוראי שמו, that Shmuel was equal to Moshe and Aaron. How could it be, someone described as מזרע אנשים be equal to Moshe who was אדון הנביאים? The answer is because Shmuel, reached his ultimate potential. With what he was given, he maximized to the fullest and therefore he in considered to be of an equal to Moshe Rabbeinu. But Korach didn’t understand this. He thought, that in order to be great, he needed to be in a different class. He didn’t understand that where a person is, is where he is supposed to be and there is nothing wrong with being in second class. Just that a person must strive for the best he could be and maximize his potential in the class and with the talents he was given which is what Shmuel accomplished. Through this, Shmuel was able to be a tikun for Korach.
+ ## Thursday Night Parsha shiur
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/08I-C8xII5g/0.jpg)](http://www.youtube.com/watch?v=08I-C8xII5g "Video Title")

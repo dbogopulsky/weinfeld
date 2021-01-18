@@ -19,5 +19,5 @@ cover:
     relative: false
 comments: false
 ---
- ## Thursday Night Parsha Videos
+ ## Thursday Night Parsha Video
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/uD7KG_SvYE4/0.jpg)](http://www.youtube.com/watch?v=uD7KG_SvYE4 "Video Title")

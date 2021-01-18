@@ -1,10 +1,10 @@
 ---
-title: "Matos Masei 5780"
-date: 2020-07-22T11:30:03+00:00
+title: "Eikev 5780"
+date: 2020-08-20T11:30:03+00:00
 weight: 1
-aliases: ["/MatosMasei5781"]
-tags: ["Bamidbar", "torah", "5780"]
-categories: ["Bamidbar"]
+aliases: ["/eikev5780"]
+tags: ["Devarim", "torah", "5780"]
+categories: ["Devarim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -20,4 +20,4 @@ cover:
 comments: false
 ---
  ## Thursday Night Parsha Shiur
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HPbiUKfNCWg/0.jpg)](http://www.youtube.com/watch?v=HPbiUKfNCWg "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/VF9a6FFtRXg/0.jpg)](http://www.youtube.com/watch?v=VF9a6FFtRXg "Video Title")

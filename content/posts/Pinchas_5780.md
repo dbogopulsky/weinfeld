@@ -1,9 +1,9 @@
 ---
-title: "Matos Masei 5780"
-date: 2020-07-22T11:30:03+00:00
+title: "Pinchas 5780"
+date: 2020-07-06T11:30:03+00:00
 weight: 1
-aliases: ["/MatosMasei5781"]
-tags: ["Bamidbar", "torah", "5780"]
+aliases: ["/pinchas5780"]
+tags: ["Bamidbar", "torah", "5780", "video"]
 categories: ["Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
@@ -20,4 +20,4 @@ cover:
 comments: false
 ---
  ## Thursday Night Parsha Shiur
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HPbiUKfNCWg/0.jpg)](http://www.youtube.com/watch?v=HPbiUKfNCWg "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/EOe9gxZ6IR8/0.jpg)](http://www.youtube.com/watch?v=EOe9gxZ6IR8 "Video Title")
