@@ -51,8 +51,8 @@ params:
         # imageTitle: my image
         subtitle: >
             ### Write-Ups & Parsha Videos of Rav Yecheskel Weinfeld
-
-            *The written material is based on the understanding of the writer and is not necessarily exactly what was said or intended. To join the Whatsapp group to receive videos and writeups,* [click here](https://chat.whatsapp.com/ICIgzGr2wZA6ElKktq5yfS).
+        #
+            # *The written material is based on the understanding of the writer and is not necessarily exactly what was said or intended. To join the Whatsapp group to receive videos and writeups,* [click here](https://chat.whatsapp.com/ICIgzGr2wZA6ElKktq5yfS).
         buttons:
             - name: Posts
               url: posts
