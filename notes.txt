@@ -3,6 +3,8 @@ commands:
         * This command publishes the site to aws
     - make start
         * This command starts the server locally
+    - make backup
+        * This command backs up all your code to github.com. Go to https://github.com/dbogopulsky/weinfeld to view
 
 To preview how the markdown file (any file ending with .md) will look,
 open the file and press ctrl + shift + m
