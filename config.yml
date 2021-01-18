@@ -32,26 +32,32 @@ params:
     disableSpecial1stPost: false
 
     assets:
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
+        apple_touch_icon: "/apple-touch-icon.png>"
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text:
-        icon:
+        text: "Rav Weinfeld"
+        icon: "/images/profile.jpeg"
         iconHeight: 35
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: Rav Weinfeld
-        # imageUrl: '<img location>'
+        enabled: true # needs to be explicitly set
+        title: Rav Yecheskel Weinfeld
+        imageUrl: "/images/profile.jpeg"
         # imageTitle: my image
+        subtitle: >
+            ### Write-Ups & Parsha Videos of Rav Yecheskel Weinfeld
+
+            *The written material is based on the understanding of the writer and is not necessarily exactly what was said or intended. To join the Whatsapp group to receive videos and writeups,* [click here](https://chat.whatsapp.com/ICIgzGr2wZA6ElKktq5yfS).
         buttons:
             - name: Posts
               url: posts
+            - name: Categories
+              url: categories
             - name: Tags
               url: tags
             - name: Search
@@ -82,6 +88,10 @@ params:
 
 menu:
     main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 1
         - identifier: categories
           name: Categories
           url: /categories/

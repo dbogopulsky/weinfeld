@@ -1,4 +1,4 @@
-### Make commands:
+ ### Make commands:
     - make publish
         * This command publishes the site to aws
     - make start
@@ -8,7 +8,6 @@
 
 
  ### Github commands:
-
     - git add .
         * marks all files as ready to commit
     - git commit -m "{some message here}"
@@ -20,11 +19,14 @@
     - git status
         * prints out some useful stuff about your current git situtation
 
-### For Youtube Video:
+
+ ### For Youtube Video:
 `[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")`
 
+E.G:     [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
-### Notes
+
+ ### Notes
 
 * To preview how the markdown file (any file ending with .md) will look,
 open the file and press ctrl + shift + m
