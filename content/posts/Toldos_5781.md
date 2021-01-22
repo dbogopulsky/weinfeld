@@ -8,7 +8,7 @@ categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -55,3 +55,5 @@ So Reb Chanina could daven better for Reb Yochanan’s sick son, because he only
 The Medrash says אברהם יצא ממנו ישמעאל וכו' יצחק יצא ממנו עשו וכו' אבל יעקב מיטתו שלימה כל בניו צדיקים. The meaning of יצא ממנו could mean that the offspring is really connected to the root of where he came from. Therefore, the קלקל of Yishmael was specifically within the Midah of Avraham Avinu and the קלקל of Eisav was specifically in the Midah of Yitzchak. It’s brought down in the Sefarim HaKedoshim that Yishmael is the פסולת of the מידת החסד ואהבה and Eisav is the פסולת of the מידת הגבורה והיראה. When Hashem offered the Torah to other nations, Yishmael rejected because of לא תנאף which has to do with the Midah of Chessed as it says by the עריות-חסד הוא because it is the excess of אהבה and Eisav rejected because of לא תרצח which has to do with the Midah of Gevurah which is the root of כעס.
 It’s clear in the Parshah that Eisav had this מידת היראה והגבורה within him. Eisav had the respect and חשיבות for the Avodah in the Beis Hamikdash however he had a fear from it. This פחד ויראה that Eisav had which is the reason he הנה אנכי הולך למות is the פסולת of פחד יצחק היה לי.  The Gemara says that the Torah can either be the סם החיים or the סם המות. If a person looks at everything in the Torah as an awesome opportunity and responsibility and he rises to the challenge, then for such a person the Torah will be סם החיים as it’ll be empowering. However, if a person see everything in the Torah and throws in the towel and says הנה אנכי הולך למות, then for him it will be paralyzing and will be סם המות.
 The פחד ויראה that Eisav experienced was paralyzing. It caused him to have יאוש and he lacked the self confidence that was needed to rise to the challenge. Instead of having this פחד ויראה empower him, he allowed it to paralyze him. Only once he let that fear paralyze him, only then does it say ויבז עשו את הבכרה because a person can’t live with himself that he gave up and gave in on a major opportunity. Therefore only as a result of passing up on the בכרה did he disgrace it and say that it had no value.
+ ## Thursday Night Parsha Shiur
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/3XqUdwEOqhs/0.jpg)](http://www.youtube.com/watch?v=3XqUdwEOqhs "Video Title")

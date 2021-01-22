@@ -8,7 +8,7 @@ categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -41,3 +41,5 @@ The Rav wanted to suggest that although it could be it wasn’t Parshas Miketz, 
 In the dream, Pharaoh is standing over on/over the river. Regarding this point, the Medrash Rabba says the following:
 א"ר יוחנן הרשעים מתקיימין על אלהיהם, ופרעה חולם והוא עומד על היאור, אבל הצדיקים אלהיהם מתקיים עליהם, (בראשית כח) והנה ה' נצב עליו
 When it comes to the רשעים they are מתקיימין על אלהיהם which means that they seek that their אלוהים is something that serves them, as it says Pharaoh was standing on it. It’s interesting to note that the highest symbol in Christianity is the crucifixion which is what they consider to be a deity and it’s sacrificing itself for the sake of man. This is exactly the idea that רשעים are מתקיימין על אלהיהם. However when it comes to Judaism, the highest symbol is actually the Akeidah which is man sacrificing himself for Hashem which is the idea הצדיקים אלהיהם מתקיים עליהם and the meaning of תנו עז לאלהים על ישראל גאותו (תהלים סח,לה) that when a Jew lives properly, he is giving עוז לאלוקים. We are not looking out for ourselves rather we are looking out for him!
+ ## Thursday Night Parsha Shiur
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/AwcAYMsT_UQ/0.jpg)](http://www.youtube.com/watch?v=AwcAYMsT_UQ "Video Title")

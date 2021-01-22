@@ -8,7 +8,7 @@ categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -56,3 +56,5 @@ The same idea is said by the Rebbe Reb Shmelka of Nikolsburg on the Pasuk in Teh
 In the same vein, Reb Yitzchak Charif, the Rav of Sombor, on the Pasuk before, explains this same idea. The beginning of the Perek begins כאיל תערג על אפיקי מים. The word כאיל is masculine and תערג is feminine. The Pasuk should’ve remained consistent and said either כאילת תערוג or וכאיל יערוג. Rashi points this out and explains that the איל is crying out both as a זכר and as a נקבה. The נקיבה cries out when she is כורעת לילד, and Hashem arranges for a snake to be present to bite her stomach to assist in the birth. The איל is חסידה שבחיות and when there is a need for rain, all the animals come to him and cries out on their behalf.
 So Reb Yitzchak Charif asked what happens if while she is in labor, all the animals come to her for her to daven for the rain?  So the Pasuk says כאיל תערג על אפיקי מים, that she makes herself like (כ) an איל, meaning like a male who does not need to give birth, and על אפיקי מים, davens for the rain on behalf of the animals.
 The Rav suggested that this is the same idea as mentioned above in the next Pasuk ואראה פני אלקים and they go hand in hand. Just like the female deer has the ability to forgo her own needs of needing the snake and she cares for the other animals by davening for them for the rain, so to Dovid HaMelech says צמאה נפשי לאלהים לאל חי מתי אבוא ואראה פני אלהים, that it’s not about us seeing our creator for our our needs rather it’s about us being seen by our creator, for Hashem’s needs to be met.
+ ## Thursday Night Parsha Shiur
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/6-AH3FmL7hk/0.jpg)](http://www.youtube.com/watch?v=6-AH3FmL7hk "Video Title")

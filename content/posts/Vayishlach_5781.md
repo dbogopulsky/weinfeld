@@ -8,7 +8,7 @@ categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -45,3 +45,5 @@ Rashi writes on the words היטב איטיב the following: היטב בזכות
 Avraham Avinu was the Midah of Chessed, and Yitzchak was the Midah Gevurah. These midos are the opposites of each other, but Yaakov, the Midah of Tiferes brings them together. Regarding תפארת, the RaMak speaks about how the combination of various colors is what creates beauty and he writes the following:
 צריך שידע עוד כי מפעולות התפארת הפאר וההדר ושמה יעיד על זה. והטעם כי ההדר והיופי הוא מורכב מהלובן והאודם כאמרו דודי צח ואדום. וכן כל הענינים שיורכבו מהאודם והלובן והאש והמים והחמימות והלחות והדין והחסד הם בסוד מידה זו עכ"ל.
 Additionally, at this point, Yaakov is trying to tell Eisav that he is the בעל הברכות because he is saying by Yitzchak it doesn’t say the איטב and it only says the איטיב בזכות אבותיך by Yaakov. So the טוב of Yitzchak is only coming out by Yaakov, just like the טוב of יום שני only came out by יום שלישי. But Eisav has the גבורת יצחק but only the יראה aspect of it without the combination of אהבה, meaning the Chessed and therefore it deteriorates and he gives up the בכורה. But Yaakov who synthesizes the יראה of Yitzchak with the חסד, the אהבה of Avraham is able to bring it to the right place and is able to have the בכורה and the Brachos.
+ ## Thursday Night Parsha Shiur
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/UfibDiaGBO4/0.jpg)](http://www.youtube.com/watch?v=UfibDiaGBO4 "Video Title")

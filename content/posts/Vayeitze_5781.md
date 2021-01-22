@@ -8,7 +8,7 @@ categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -49,10 +49,11 @@ So when Lavan said, יש לאל ידי, he was referring to the anti קל וחו
 פסוקי הפרשה (לא, כט) שאמר לבן ליעקב, יש לאל ידי לעשות עמכם רע ואלהי אביכם אמש אמר אלי השמר לך מדבר כו'. ויש לתמוה, מאחר שהשם יתברך הזהירו א"כ אין לאל ידו. גם לשון לאל ידי, אמת שמצינו בספרי נ"ך (מיכה ב, א) שהוא לשון כח, אבל בתורה לא מצינו לשון זה בלתי כאן וכו' ויובן כל זה, בהקדם ששמעתי אומרים בשם הרב הקדוש המגיד מוהר"ר דובער זללה"ה ממעזריטש, בענין משה רבינו ע"ה כשהתפלל על אחותו (במדבר יב, יג) השיבהו בדרך ק"ו (שם, יד) ואביה ירוק ירק כו'. ואמר, לפי שי"ג מדות שהתורה נדרשת בהן נמשכים מי"ג מדות על הסדר, והתוספות בר"ה (יז: ד"ה שלש) דעתם שהי"ג מדות מתחילין מתיבת אל רחום, נמצא מדה ראשונה דהיינו קל וחומר הוא נמשך מן שם אל, ולפי שהתפלל אל נא רפא נא כו', ורצה להמשיך הרפואה מן שם א"ל, לכן באה לו התשובה ק"ו, כך שמעתי בשמו, ודפח"ח וכו'
 אמנם את הכל עשה ה' את זה לעומת זה, וכל מה שיש בקדושה יש דוגמתה בקליפה, והוא הפכה והתנגדותה, ועשה ה' זאת כדי שיהיה בחירה, ולכן כנגד שם אלהים יש בקליפה אלהים אחרים, והוא מורה היפך קדושת שם אלהים המורה לקיים מה שצוה עליו ולברוח ממה שהזהיר, ואלהים אחרים נמשך ממנו התאוה ויצה"ר באדם המפתהו לעשות מכל מצות ה' אשר לא תעשינה ובטול מצותיו וכדומה. ונגד קדושת שם אל, יש בקליפה אל אחר, נגדיית לקדושת שם אל המורה שיקיים האדם אף מה שלא צוה הש"י עליו בפירוש רק שנוכל להבין בשכלנו שיהיה בזה רצון הש"י, דהיינו מדת הק"ו, ואל אחר מקיל לאדם בתאוותיו ומפתהו לומר, בשלמא מה שצוה עליו בפירוש מוכרח לקיים מיראתו, משא"כ מה שלא צוה עליו למה לך לקיים, וכן על דרך זה בכל דבר קדושה יש הפכו והתנגדותו בקליפה.
 והנה הש"י אמר ללבן השמר לך מדבר עם יעקב כו', הנה הזהירו מדברו אליו רע, ולא הזהירו עדיין לבלתי עשות לו רע, והוא, כי מובן הדבר מפאת ק"ו שאם על דיבור רע הוא מקפיד כ"ש על עשות לו רע, אולם לבן מצד אל אחר אשר הוא מסטרא דידיה, התיר לעצמו עשיית רע מאחר שלא הזהירו עליו, ולז"א יש לאל ידי לעשות עמכם רע, לעשות דייקא, ור"ל ע"י שם אל דידיה שהוא אל אחר יש לו כח לעשיית רע, דהא אלהי אביכם אמש אמר אלי השמר לך "מדבר" דייקא וכאמור, והבן.
-
 7) ועיני לאה רכות (כט,יז)
 What is the meaning of רכות? The Targum writes ועיני לאה יאין meaning beautiful. The Ibn Ezra quotes a יש שואלים regarding why her eyes were like that and he doesn’t understand the question because obviously people look different as all people are not created the same. (ויש שואלים למה היה כן, בעבור שחשבו שמחשבות השם כמחשבותיהם, וכל הנבראים ראויות צורתן להיות שוות.) But then he quotes another answer as follows: ובן אפרים אמר שהוא חסר אל"ף, וטעמו ארוכות, והוא היה חסר אל"ף. The Ibn Ezra is not happy with this suggested answer that it’s חסר אלף and therefore says the בן אפרים is חסר א making his name בן פרים.
 But it’s surprising because the Gemara in Bava Basra 123a seems to say exactly that as the Gemara says:
 ועיני לאה רכות, מאי רכות? אילימא רכות ממש, אפשר? בגנות בהמה טמאה לא דבר הכתוב, דכתיב: מן הבהמה הטהורה ומן הבהמה אשר איננה טהורה, בגנות צדיקים דבר הכתוב? אלא א"ר אלעזר: שמתנותיה ארוכות
 The Rashbam writes that מתנותיה ארוכות is referring to the greatness in that would come from her, the כהונה from לוי and the מלכות from Yehudah.
 The Maharsha points out that it would seem from the Gemara that the word רכות is really חסר א as the Pshat brought by the Ibn Ezra in the name of בן אפרים. Therefore it’s kind of surprising how the Ibn Ezra attacks the בן אפרים so sharply if it’s a blatant Gemara. But the Maharsha goes on to explain that the Gemara is not expounding on the word רכות like the בן אפרים but rather the word רכות means greatness as follows: ונראה לפרש שנדרש לשון רכות הכתוב מלשון לא ריכא ולא בר ריכא דפרק השותפין שהוא מלשון גדולה וחשיבות שמתנותיה חשובות כהונה ולויה ומלכות וק"ל.  The word ריכא which is a לשון of גדולה comes from the word “reich”. Therefore the claim of the Ibn Ezra against the בן אפרים is really a legitimate claim and it’s not that he is saying the same as the Gemara.
+ ## Thursday Night Parsha Shiur
+  [![IMAGE ALT TEXT](http://img.youtube.com/vi/nz7AaC3cclc/0.jpg)](http://www.youtube.com/watch?v=nz7AaC3cclc "Video Title")

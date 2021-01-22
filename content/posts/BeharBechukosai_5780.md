@@ -1,10 +1,10 @@
 ---
-title: "Matos Masei 5780"
-date: 2020-07-22T11:30:03+00:00
+title: "Behar Bechukosai 5780"
+date: 2020-05-16T11:30:03+00:00
 weight: 1
-aliases: ["/MatosMasei5781"]
-tags: ["Bamidbar", "torah", "5780"]
-categories: ["Bamidbar"]
+aliases: ["/beharbechukosai5780"]
+tags: ["Vayikra", "torah", "5780", "video"]
+categories: ["Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -20,4 +20,4 @@ cover:
 comments: false
 ---
  ## Thursday Night Parsha Shiur
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HPbiUKfNCWg/0.jpg)](http://www.youtube.com/watch?v=HPbiUKfNCWg "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/TS_8pRqdGdI/0.jpg)](http://www.youtube.com/watch?v=TS_8pRqdGdI "Video Title")
