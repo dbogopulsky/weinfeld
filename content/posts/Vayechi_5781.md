@@ -81,3 +81,5 @@ But the Lord responds to her: "Stop your voice from weeping, and your eyes from 
 The Rav concluded that obviously nobody in this audience will learn from this story to follow in the ways of this "tinok sh'nishbeh", but it's only to show that the pinteleh yid can always be awakened.
  ## Thursday Night Parsha Shiur
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/rubAQ4OaUpU/0.jpg)](http://www.youtube.com/watch?v=rubAQ4OaUpU "Video Title")
+ ## 5772
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/ubOQcYTp6qk/0.jpg)](http://www.youtube.com/watch?v=ubOQcYTp6qk "Video Title")

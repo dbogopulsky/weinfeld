@@ -7,7 +7,7 @@ tags: ["Shemos", "torah", "5780"]
 categories: ["Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false

@@ -7,8 +7,8 @@ tags: ["Yom Tovim", "torah", "5780", "video"]
 categories: ["Yom Tovim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: true
+showToc: false
+TocOpen: false
 draft: false
 hidemeta: false
 disableShare: false

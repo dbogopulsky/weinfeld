@@ -8,7 +8,7 @@ categories: ["Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -51,4 +51,4 @@ To explain this, the Rav read the following from the שערי תשובה (שער
 Rabbeinu Yonah is comparing how a person is to rule over his own גוף just like he rules over שאר בעלי חיים שאינם מדברים and Hashem gave him this power to rule over himself just life he has this power to rule over שאר בעלי חיים.
 A person, to an extent, has within him the beast, a נפש בהמות, and it’s his mission in life to control and contain the zoo that some of us have within us. That’s the message of the Pasuk that man’s mission statement is וירדו בדגת הים ובעוף השמים ובבהמה, to control, contain, and harness the beast within.  
  ## Thursday Night Parsha Shiur
- [![IMAGE ALT TEXT](http://img.youtube.com/vi/Gc3EklQn-ss/0.jpg)](http://www.youtube.com/Gc3EklQn-ss "Video Title")
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/Gc3EklQn-ss/0.jpg)](http://www.youtube.com/watch?v=Gc3EklQn-ss "Video Title")

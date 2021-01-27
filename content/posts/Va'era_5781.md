@@ -84,3 +84,5 @@ There was a great Gaon known as the Minsker Gadol and his name was Reb Yerucham 
 In a similar vein, the Ostrovtser Rebbe (Reb Meir Yechiel Halevi Halstock 1852-1928) who if one looks at his seforim could see what a genius, was once attending a gathering of Chassidish Rebbes. Each of them were saying over a vort from their father, the previous rebbes. But he, whose father was a baker, said over that his father used to say that fresh bread is better than stale bread.
  ## Thursday Night Parsha Shiur
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/2CTf5f7zsLA/0.jpg)](http://www.youtube.com/watch?v=2CTf5f7zsLA "Video Title")
+ ## 5772
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/nUCp5HDPknY/0.jpg)](http://www.youtube.com/watch?v=nUCp5HDPknY "Video Title")

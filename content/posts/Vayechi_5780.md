@@ -6,7 +6,7 @@ aliases: ["/vayechi5780"]
 tags: ["Bereishis", "torah", "5780"]
 categories: ["Bereishis"]
 author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
