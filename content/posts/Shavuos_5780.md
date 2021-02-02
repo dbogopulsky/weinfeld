@@ -19,10 +19,12 @@ cover:
     relative: false
 comments: false
 ---
- ## Thursday Night Shiur 1
+ ### Thursday Night Shiur 1
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/yRw_KcYDGI8/0.jpg)](http://www.youtube.com/watch?v=yRw_KcYDGI8 "Video Title")
- ## Thursday Night Shiur 2
+ ### Thursday Night Shiur 2
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/I2NJg01bzR8/0.jpg)](http://www.youtube.com/watch?v=I2NJg01bzR8 "Video Title")
+ ### Vayichan: Ilu Keirvanu Lifnei Har Sinai... Dayeinu
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/ymdej8NkCIQ/0.jpg)](http://www.youtube.com/watch?v=ymdej8NkCIQ "Video Title")
 
 There is a  מנהג in כלל ישראל to put non-bearing fruit trees in shuls on שבועות because on עצרת the judgement for the upcoming year’s fruit tree is decided (מג"א או"ח ס' תצד ס"ק ה). There are two questions that can be asked. Firstly, if we are judged in regard to fruit bearing trees, why do we put non fruit bearing trees in shul? Secondly, why is it that on  ט"ו בשבת which is ראש השנה לאלנות do we celebrate by eating fruit and not with trees, an on שבועות which we are judged for the upcoming year’s fruit do we celebrate by putting trees in shuls, it should be the opposite?
 When אדם הראשון sinned and was punished, the ground was also punished because it did not produce trees that tasted like its fruit. The fact that some trees don’t produce fruits can be understood as an extension of this punishment. In fact, in the beginning of פרשת בחקותי, on the Pasuk “ועץ השדה יתן פריו”, Rashi says it is referring to non-bearing fruit trees which will produce fruits in the future.
