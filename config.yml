@@ -75,12 +75,12 @@ params:
 
 
     socialIcons:
-        - name:
-          url:
-        - name:
-          url:
-        - name:
-          url:
+        - name: "email"
+          url: "mailto:ravweinfeldparsha@gmail.com?subject=I%20would%20like%20to%20subscribe%21&body=Please%20add%20me%20to%20the%20Rav%20Weinfeld%20Parsha%20email%20list."
+        - name: "youtube"
+          url: "https://www.youtube.com/channel/UCEFFHXbme18LYIZZWcAcNkg/videos"
+        - name: "whatsapp"
+          url: "https://chat.whatsapp.com/ICIgzGr2wZA6ElKktq5yfS"
 
     analytics:
         google:

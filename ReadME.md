@@ -30,3 +30,5 @@ E.G:     [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jp
 
 * To preview how the markdown file (any file ending with .md) will look,
 open the file and press ctrl + shift + m
+
+mailto:ravweinfeldparsha@gmail.com?subject=I%20would%20like%20to%20subscribe%21&body=Please%20add%20me%20to%20the%20Rav%20Weinfeld%20Parsha%20email%20list.
