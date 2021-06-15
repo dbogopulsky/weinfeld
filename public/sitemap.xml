@@ -3,97 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ravweinfeld.com/posts/yisro_5781/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <loc>https://ravweinfeld.com/posts/korach/</loc>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/beshalach_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/shelach/</loc>
+    <lastmod>2021-06-01T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/behaloscha/</loc>
+    <lastmod>2021-05-26T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/naso/</loc>
+    <lastmod>2021-05-19T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/bamidbar/</loc>
+    <lastmod>2021-05-12T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/beharbechukosai/</loc>
+    <lastmod>2021-05-06T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/emor/</loc>
+    <lastmod>2021-05-02T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/lagbaomer/</loc>
+    <lastmod>2021-04-28T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/achareikedoshim/</loc>
+    <lastmod>2021-04-22T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/tazraimetzorah/</loc>
+    <lastmod>2021-04-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/shemini/</loc>
+    <lastmod>2021-04-08T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/pesach/</loc>
+    <lastmod>2021-03-24T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/vayikra/</loc>
+    <lastmod>2021-03-18T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/vayakhelpekudei/</loc>
+    <lastmod>2021-03-11T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/kisisa/</loc>
+    <lastmod>2021-03-04T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/purim/</loc>
+    <lastmod>2021-02-23T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/terumah/</loc>
+    <lastmod>2021-02-17T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/mishpatim/</loc>
+    <lastmod>2021-02-09T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/yisro/</loc>
+    <lastmod>2021-02-06T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/posts/beshalach/</loc>
     <lastmod>2021-01-26T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/alhatzadikim_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/alhatzadikim/</loc>
     <lastmod>2021-01-22T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/bo_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/bo/</loc>
     <lastmod>2021-01-21T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vaera_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vaera/</loc>
     <lastmod>2021-01-18T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/shovavim_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/shovavim/</loc>
     <lastmod>2021-01-14T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/shemos_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/shemos/</loc>
     <lastmod>2021-01-11T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vayechi_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vayechi/</loc>
     <lastmod>2021-01-02T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vayigash_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vayigash/</loc>
     <lastmod>2020-12-26T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/miketz_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/miketz/</loc>
     <lastmod>2020-12-19T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vayeshev_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vayeshev/</loc>
     <lastmod>2020-12-12T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vayishlach_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vayishlach/</loc>
     <lastmod>2020-12-05T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vayeitze_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vayeitze/</loc>
     <lastmod>2020-11-25T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/toldos_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/toldos/</loc>
     <lastmod>2020-11-21T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/chayeisara_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/chayeisara/</loc>
     <lastmod>2020-11-14T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/vayera_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/vayera/</loc>
     <lastmod>2020-11-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/lechlecha_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/lechlecha/</loc>
     <lastmod>2020-10-31T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/noach_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/noach/</loc>
     <lastmod>2020-10-24T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/bereishis_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/bereishis/</loc>
     <lastmod>2020-10-17T11:30:03+00:00</lastmod>
   </url>
   
@@ -113,7 +203,7 @@
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/roshhashana_5781/</loc>
+    <loc>https://ravweinfeld.com/posts/roshhashana/</loc>
     <lastmod>2020-09-17T11:30:03+00:00</lastmod>
   </url>
   
@@ -158,118 +248,28 @@
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/pinchas_5780/</loc>
+    <loc>https://ravweinfeld.com/posts/pinchas/</loc>
     <lastmod>2020-07-06T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/balak_5780/</loc>
+    <loc>https://ravweinfeld.com/posts/balak/</loc>
     <lastmod>2020-07-04T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/chukas_5780/</loc>
+    <loc>https://ravweinfeld.com/posts/chukas/</loc>
     <lastmod>2020-06-27T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/korach_5780/</loc>
-    <lastmod>2020-06-27T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/shelach_5780/</loc>
-    <lastmod>2020-06-18T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/behaloscha_5780/</loc>
-    <lastmod>2020-06-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/naso_5780/</loc>
-    <lastmod>2020-06-01T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/shavuos_5780/</loc>
+    <loc>https://ravweinfeld.com/posts/shavuos/</loc>
     <lastmod>2020-05-29T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/bamidbar_5780/</loc>
-    <lastmod>2020-05-23T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/beharbechukosai_5780/</loc>
-    <lastmod>2020-05-16T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/lagbaomer_5780/</loc>
-    <lastmod>2020-05-12T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/emor_5780/</loc>
-    <lastmod>2020-05-09T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/achareikedoshim_5780/</loc>
-    <lastmod>2020-05-02T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/kisisa_5780/</loc>
-    <lastmod>2020-03-14T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/purim/</loc>
-    <lastmod>2020-03-08T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/tetzaveh_5780/</loc>
+    <loc>https://ravweinfeld.com/posts/tetzaveh/</loc>
     <lastmod>2020-03-05T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/terumah_5780/</loc>
-    <lastmod>2020-02-29T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayechi_5780/</loc>
-    <lastmod>2020-01-11T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayigash_5780/</loc>
-    <lastmod>2020-01-04T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayeshev_5780/</loc>
-    <lastmod>2019-12-20T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayishlach_5780/</loc>
-    <lastmod>2019-12-14T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/lechlecha_5780/</loc>
-    <lastmod>2019-11-09T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/noach_5780/</loc>
-    <lastmod>2019-11-02T11:30:03+00:00</lastmod>
   </url>
   
   <url>
@@ -328,53 +328,8 @@
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/pinchas_5779/</loc>
-    <lastmod>2019-07-27T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/balak_5779/</loc>
-    <lastmod>2019-07-20T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/chukas_5779/</loc>
-    <lastmod>2019-07-06T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/korach_5779/</loc>
-    <lastmod>2019-06-29T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/shelach_5779/</loc>
-    <lastmod>2019-06-24T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/behaloscha_5779/</loc>
-    <lastmod>2019-06-16T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/naso_5779/</loc>
-    <lastmod>2019-06-14T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/yisro_5778/</loc>
-    <lastmod>2018-02-01T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/hidabroot_5776/</loc>
+    <loc>https://ravweinfeld.com/posts/hidabroot/</loc>
     <lastmod>2016-02-02T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/roshhashana_5772/</loc>
-    <lastmod>2012-09-13T11:30:03+00:00</lastmod>
   </url>
   
   <url>
@@ -388,153 +343,73 @@
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/balak_5772/</loc>
-    <lastmod>2012-07-02T11:30:03+00:00</lastmod>
+    <loc>https://ravweinfeld.com/tags/bamidbar/</loc>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/posts/chukas_5772/</loc>
-    <lastmod>2012-06-28T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/korach_5772/</loc>
-    <lastmod>2012-06-19T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/shelach_5772/</loc>
-    <lastmod>2012-06-12T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/behaloscha_5772/</loc>
-    <lastmod>2012-06-07T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/shavuos_5772/</loc>
-    <lastmod>2012-05-24T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/bechukosai_5772/</loc>
-    <lastmod>2012-05-17T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/emor_5772/</loc>
-    <lastmod>2012-05-09T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/achareikedoshim_5772/</loc>
-    <lastmod>2012-05-01T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/tazriametzora_5772/</loc>
-    <lastmod>2012-04-26T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/pesach_5772/</loc>
-    <lastmod>2012-04-05T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayikra_5772/</loc>
-    <lastmod>2012-03-21T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayakhelpekudei_5772/</loc>
-    <lastmod>2012-03-15T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/tetzaveh_5772/</loc>
-    <lastmod>2012-02-29T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/terumah_5772/</loc>
-    <lastmod>2012-02-22T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/mishpatim_5772/</loc>
-    <lastmod>2012-02-16T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/yisro_5772/</loc>
-    <lastmod>2012-02-08T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/beshalach_5772/</loc>
-    <lastmod>2012-02-01T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/bo_5772/</loc>
-    <lastmod>2012-01-24T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vaera_5772/</loc>
-    <lastmod>2012-01-19T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/posts/vayechi_5772/</loc>
-    <lastmod>2012-01-05T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/tags/5781/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <loc>https://ravweinfeld.com/categories/bamidbar/</loc>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ravweinfeld.com/categories/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ravweinfeld.com/posts/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ravweinfeld.com/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/tags/shemos/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/categories/shemos/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ravweinfeld.com/tags/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ravweinfeld.com/tags/torah/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-07T11:30:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ravweinfeld.com/tags/video/</loc>
-    <lastmod>2021-02-02T11:30:03+00:00</lastmod>
+    <lastmod>2021-05-26T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/tags/vayikra/</loc>
+    <lastmod>2021-05-06T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/categories/vayikra/</loc>
+    <lastmod>2021-05-06T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/tags/yom-tovim/</loc>
+    <lastmod>2021-04-28T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/categories/yom-tovim/</loc>
+    <lastmod>2021-04-28T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/tags/shemos/</loc>
+    <lastmod>2021-03-11T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ravweinfeld.com/categories/shemos/</loc>
+    <lastmod>2021-03-11T11:30:03+00:00</lastmod>
   </url>
   
   <url>
@@ -568,13 +443,8 @@
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/tags/yom-tovim/</loc>
-    <lastmod>2020-10-09T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/categories/yom-tovim/</loc>
-    <lastmod>2020-10-09T11:30:03+00:00</lastmod>
+    <loc>https://ravweinfeld.com/tags/5781/</loc>
+    <lastmod>2020-09-26T11:30:03+00:00</lastmod>
   </url>
   
   <url>
@@ -588,38 +458,8 @@
   </url>
   
   <url>
-    <loc>https://ravweinfeld.com/tags/bamidbar/</loc>
-    <lastmod>2020-07-22T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/categories/bamidbar/</loc>
-    <lastmod>2020-07-22T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/tags/vayikra/</loc>
-    <lastmod>2020-05-16T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/categories/vayikra/</loc>
-    <lastmod>2020-05-16T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ravweinfeld.com/tags/5779/</loc>
     <lastmod>2019-09-28T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/tags/5778/</loc>
-    <lastmod>2018-02-01T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/tags/5776/</loc>
-    <lastmod>2016-02-02T11:30:03+00:00</lastmod>
   </url>
   
   <url>
@@ -634,12 +474,7 @@
   
   <url>
     <loc>https://ravweinfeld.com/tags/5772/</loc>
-    <lastmod>2012-09-13T11:30:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ravweinfeld.com/tags/breishis/</loc>
-    <lastmod>2012-01-05T11:30:03+00:00</lastmod>
+    <lastmod>2012-09-06T11:30:03+00:00</lastmod>
   </url>
   
   <url>
