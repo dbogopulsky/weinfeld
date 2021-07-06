@@ -3,8 +3,8 @@ title: "Korach"
 date: 2021-06-07T11:30:03+00:00
 weight: 1
 aliases: ["/korach"]
-tags: ["Bamidbar", "torah"]
-categories: ["Bamidbar"]
+tags: ["Korach"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

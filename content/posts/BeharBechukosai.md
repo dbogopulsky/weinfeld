@@ -3,8 +3,8 @@ title: "Behar Bechukosai"
 date: 2021-05-06T11:30:03+00:00
 weight: 1
 aliases: ["/BeharBechukosai"]
-tags: ["Vayikra", "torah", "video",]
-categories: ["Vayikra"]
+tags: ["Behar Bechukosai"]
+categories: ["3. Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -3,8 +3,8 @@ title: "Vayigash"
 date: 2020-12-26T11:30:03+00:00
 weight: 1
 aliases: ["/vayigash"]
-tags: ["Bereishis", "torah",]
-categories: ["Bereishis"]
+tags: ["Vayigash"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

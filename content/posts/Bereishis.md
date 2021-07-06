@@ -3,8 +3,8 @@ title: "Bereishis"
 date: 2020-10-17T11:30:03+00:00
 weight: 1
 aliases: ["/Bereishis"]
-tags: ["Bereishis", "torah"]
-categories: ["Bereishis"]
+tags: ["Bereishis"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

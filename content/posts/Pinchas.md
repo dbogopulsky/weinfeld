@@ -1,10 +1,10 @@
 ---
 title: "Pinchas"
-date: 2020-07-06T11:30:03+00:00
+date: 2021-06-29T11:30:03+00:00
 weight: 1
 aliases: ["/pinchas"]
-tags: ["Bamidbar", "torah", "video"]
-categories: ["Bamidbar"]
+tags: ["Pinchas"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -19,6 +19,53 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5781
+ ### Yahrzeit, the Churban, and Moadim
+ The Kiddush was sponsored by Sender Galbut לעלוי נשמת his father, Reb Boruch Tzvi Ben Reuven Nosson Z”L. Dr. Galbut had visited the shul twice when he was already terminally ill and nevertheless he had a captivating smile and radiated Simchah. He was Zocheh that his Yahrzeit be during the ימי המצרים which are anyways days of mourning so he didn’t add another day of sadness.  
+
+ Every death is really connected to the Churban Habayis as we see when we comfort a mourner we say המקום ינחם אתכם בתוך שאר אבלי ציון וירושלים. The reason is because every Jew takes part in the mission of revealing כבוד שמים in this world which is the essence of the Beis HaMikdash. Therefore, every Jew with his life, in a sense, is connected with the loss of the Beis HaMikdash.   
+
+ The Halachos of Aveilus appear in the Masechta Moed Kattan which is dedicated to the Halachos of Chol Hamoed which is called a Moed Kattan. It would seem that Aveilus as well, in a sense, is considered a Moed Kattan. This is apparent from the Halacha in Shulchan Aruch 131:4 which says one doesn’t say Tachanun in a בית האבל. The source for this Halacha is in the Shibolei Haleket, as quoted by the Beis Yosef, which says we don’t say Tachanun in a בית האבל because אבילות is איתקש לחג. The reason is because the Pasuk in Amos 8:10 says והפכתי חגיכם לאבל. This seems strange because all the Pasuk says is that Hashem will transform חגיכם into אבל which makes it sound like they are opposites so where do we see that there is a הקש?       
+
+ It would seem that the idea of a חג that it’s a מועד is because it’s an opportunity for a human being to meet his creator like it says שלש פעמים בשנה יראה כל זכורך אל פני האדן ה'. The word מועדים also has a meaning of meeting, like the אוהל מועד. When we are busy with our daily routine, we don’t pay attention and we sometimes lose connection with the Borei Oilam. Whereas on the חגים, we meet the creator.
+
+ There is a meeting with the creator in the extraordinary festivities and there is a meeting with the creator in the negative experiences. When a person’s daily life is shaken up with a tragedy, it is also an opportunity to break out of his shell and see the Borei Oilam. This is why Aveilus and Chag are two sides of the same idea. This could be why the Halachos of Aveilus are placed in Masechta Moed kattan.  Laslty, the three weeks always begin with Parshas Pinchas which includes the Korbanos for all the Moadim to express this idea as well.
+ ### The Tamid-Habitual Yet Fresh
+ The first of the Korbanos discussed in the Parshah is the Korban Tamid. Although we don’t have the Korban Tamid anymore, as it was בטל on י"ז תמוז, nevertheless the Gemara in Brachos says that our davening is כנגד תמידים תיקנום. The Tefilos of Shacharis and Minchah correspond to the תמיד של שחר and to the תמיד של בין הערבים.  But what exactly are we sacrificing when we daven because after all, we are asking Hashem for a lot of things so where are we giving up anything when davening?
+
+ However, that which we are admitting that we are not in control of our own lives; that we have to come on to Hashem for everything, that is the ultimate sacrifice. To get rid of our ego and come to the realization that we can’t do it on our own. We as humans like to believe that we are independent and in control but when we say אתה חונן לאדם דעת, רפאנו ה' ונרפא, ברך עלינו ה', we are proclaiming that we are completely dependent on Hakadosh Boruch Hu.
+
+ The Zohar says שעת צלותא שעת קרבא (חלק ג רמג ע"א, חלק א רמ ע"א, תקונ"ז כט ע"ב) that when we go to daven, we are waging war. Additionally the Pasuk in Parshas Vayechi 48:22 says בחרבי ובקשתי and the Targum Onkeles writes בצלותי ובבעותי. Who is a person waging war against when he goes to daven? The answer could be that he is waging war with himself, his ego. Although the only way a person can function and accomplish is by having that sense of self, nevertheless the sense of self needs to be imbued with the realization that he is completely dependent on Hashem and it’s up to Hashem who is to be or not to be.  
+
+ The Hakdamah to the Ein Yaakov brings a Machlokes Tanaim as to what Pasuk in the Torah is כולל יותר. After the Psukim of שמע ישראל and ואהבת לרעך כמוך are suggested, שמעון בן פזי says את הכבש האחד תעשה בבוקר וגו'. The reason why this Pasuk, expressing the aspect of consistency by the Tamid, is the most important כלל in the Torah is because Judaism puts an emphasis on habitual behavior. Although a person might be better off if he would start davening at a later stage of life when he has a deeper understanding of everything, nevertheless he starts as a child who lacks understanding. The reason is because Judaism has an emphasis on building a habit and doing things day in and day out. This is the principle of אדם נפעל לפי פעולתיו ואחרי הפעולתה נמשך אל לבבות mentioned in חינוך מצוה טז. Behavior is what shapes the human personality.
+
+ The Pasuk says עלת תמיד העשיה בהר סיני and Rashi gives two explanations on the words העשיה בהר סיני. Either העשויה בהר סיני is כאותן שנעשו בימי המילואים, or it’s to compare this תמיד to the תמיד at הר סיני that it says וישם באגנות to be מלמד שטעונה כלי. According to the first explanation, what is the Torah telling us by comparing the daily Korban Tamid to the Tamid that was done בימי המילואים. Even according to the second explanation that העשויה בר סיני is coming to teach us that the Korban Tamid is טעון כלי just like the Korban brought by Har Sinai, there probably is meaning to the fact that the source for this din is in the עלת תמיד that was done at Har Sinai.   
+
+ The explanation could be that being that the תמיד is brought every day, there is concern here more than any other korban that it will become routine and regular and it will lose its meaning. Therefore we say that every day the תמיד is brought should be like that day by הר סיני which was the first time. Every day should be like the time בימי המילואים where they inaugurated the משכן and it should never become old, rather it should be fresh and new every day.     
+
+ According to this, although the Korban Tamid represents consistency and habitual behavior, it nevertheless needs to be העשויה בהר סיני, with that freshness and newness. Therefore, being that our davening is כנגד תמידים תיקנום, the challenge is that every day’s tefilah should be done as if a person never davened before. Just like the Korban Tamid every day should be done as if it was never done before, so too when a Jew davens, he should try to make it new, fresh, and meaningful every day. As the Mishna in Avos 2:13 saysאל תעש תפלתך קבע אלא תחנונים לפני המקום that even though we daven the same tefilah every single day, we should do it as something new.
+ ### Moshe Rabbeinu as a Leader
+ As a leader, it’s clear that Moshe Rabbeinu was selfless and completely dedicated to the Jewish people. So much so, that by the חטא העגל, when Hashem suggested destroying the entire Jewish people and rebuilding with Moshe, Moshe Rabbeinu says מחני נא מספרך. However, Rashi says כיון ששמע משה שאמר לו המקום תן נחלת צלפחד לבנותיו אמר הגיע שעה שאתבע צרכי שיירשו בני את גדולתי. How could these two ideas be understood together?
+
+ The answer could be that there is nothing wrong with looking out for one’s own children, because chessed starts at the home. This teaches us that although Moshe Rabbeinu was a selfless leader of Klal Yisrael, he nevertheless did not neglect his own children. But once Hashem said לא כך עלתה במחשבה לפני, כדאי הוא יהושע ליטול שכר שמושו, he accepted it wholeheartedly.
+ ### פני משה כפני חמה פני יהושע כפני לבנה
+ On the Pasuk ונתתה מהודך עליו, Rashi פני משה כחמה פני יהושע כלבנה. The source for this is Baba Basra 75a which says as follows:
+
+ ונתתה מהודך עליו - ולא כל הודך, זקנים שבאותו הדור אמרו: פני משה כפני חמה, פני יהושע כפני לבנה, אוי לה לאותה בושה, אוי לה לאותה כלימה
+
+ The Rashbam understands this to mean that the זקנים שבאותו הדור were lamenting the התקטנות הדורות that within such a short time, the successor, Yehoshua, was not as great as Moshe Rabbeinu- שבזמן מועט נתמעט הכבוד כל כך שהרי יהושע היה נביא ומלך כמשה ולא יכול להגיע לכבודו. They were saying אוי לה לאותה בושה, אוי לה לאותה כלימה about Yehoshua.
+
+ However, Reb Itzeleh Volozhiner in a הגה at the beginning of Ruach Chaim has a different explanation. He says that the זקנים שבאותו הדור were saying אוי לה לאותה בושה, אוי לה לאותה כלימה about themselves that if they would have made the effort like Yehoshua did, then they could’ve become like him. Just like the moon shines because it reflects light from the sun, so to Yehoshua is כפני לבנה because he made the effort and was מקבל from Moshe Rabbeinu and was a reflection of Moshe who was כפני חמה. The זקנים שבאותו הדור weren’t embarrassed that they weren’t like Moshe because they understood that Moshe was like a gift from God, something they couldn’t become. But Yehoshua who was only כפני לבנה was something they could’ve become. So they were saying about themselves אוי לה לאותה בושה, אוי לה לאותה כלימה because they were embarrassed that had they tried like Yehoshua, they could’ve reached his level.
+
+ Another explanation was heard from Simcha Raz (author of the book A Tzadik in our Times) in the name of Reb Aryeh Levine based on the Medrash that says Yehoshua was Zocheh to take over the position of Moshe because he was מסדר את הספסלים in the Beis HaMedrash. So when theזקנים שבאותו הדור were saying אוי לה לאותה בושה, אוי לה לאותה כלימה, they were saying since they were too embarrassed to be מסדר את הספסלים, therefore they weren’t able to reach the greatness of Yehoshua.
+
+ Lastly, when the late Satmer Rebbe, Reb Moshe Teitelbaum, was inaugurated to take over for his uncle Reb Yoelish Teitelbaum, he said the following idea in his drashah. In Parshas Breishis, Rashi brings that since Hashem minimized the moon after it complained, he was מפייס the לבנה by giving it the stars to accompany the לבנה to be מאיר בלילה. So the זקנים שבאותו הדור were saying that Moshe was כפני חמה and provided the entire אור himself. But now that Yehoshua is just כפני לבנה, so he needs the כוכבים to accompany him in being מאיר which are obviously the זקנים שבאותו הדור. So they were saying אוי לה לאותה בושה, אוי לה לאותה כלימה because they didn’t feel worthy of being the accompanying כוכבים to the לבנה, who was Yehoshua.      
+ ### Small Actions Bear Great Results
+ In his Sefer on the Chumash, the Chofetz Chaim makes the following point. He says that the tribe of Binyamin total count was forty five thousand, six hundred. However the tribe of Dan was totaled at sixty four thousand, four hundred. The tribe of Dan ended up having almost twenty thousand more people than the tribe of Binyamin. Binyamin had ten children and Dan only had one son, חוש, who was deaf (Sotah 13a). In spite of this fact, Dan still managed to have almost twenty thousand more people in their tribe then Binyamin who had ten children. The Chofetz Chaim concludes with the following:
+
+ ומכאן יש ללמוד שמי שה' חפץ בו יוכל להצליחו מבן אחד יותר ממי שיש לו עשרה בנים. וכן הדין עם נכסים יש לך עני מצליח ושמח בחלקו, ולהפך יש עשיר שאינו מצליח כ"כ, ועושה כולם ה'.  
+
+ Sometimes a person pushes himself to do something and he feels he wasn’t so successful. He feels that it didn’t come out right and specifically the small point which he did didn’t even come out right. But nevertheless it’s specifically that action that bears more fruit than the big actions he did which he thought would be so much more successful.
  ## 5779
  ### קנאות
  People say that sometimes חקת and בלק are together and sometimes they are separate, as are מטות and, מסעי but פנחס is always by itself because the קנאי is always by himself.
@@ -73,5 +120,7 @@ comments: false
 
  The explanation is, being that the תמיד is brought every day, there is concern here more than any other korban that it will become routine and regular and it will lose its meaning. Therefore we say that every day the תמיד is brought should be like that day by הר סיני which was the first time. Every day should be like the time בימי המילואים where they inaugurated the משכן and it should never become old, rather it should be fresh and new every day.
  ## Videos
+ ### Thursday Night Parsha Shiur 5781
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/3snWQGDkNBY/0.jpg)](http://www.youtube.com/watch?v=3snWQGDkNBY "Video Title")
  ### Thursday Night Parsha Shiur 5780
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/EOe9gxZ6IR8/0.jpg)](http://www.youtube.com/watch?v=EOe9gxZ6IR8 "Video Title")

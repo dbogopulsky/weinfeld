@@ -1,14 +1,14 @@
 ---
-title: "Shabbos Shuva 5781"
+title: "Shabbos Shuva"
 date: 2020-09-24T11:30:03+00:00
 weight: 1
-aliases: ["/Shabbosshuva5781"]
-tags: ["Yom Tovim", "torah", "5781", "video"]
-categories: ["Yom Tovim"]
+aliases: ["/Shabbosshuva"]
+tags: ["Shabbos Shuva"]
+categories: ["Moadim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
+showToc: true
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -19,5 +19,6 @@ cover:
     relative: false
 comments: false
 ---
- ## Thursday Night Shiur
+ ## Videos
+ ### Thursday Night Shiur 5781
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GKeUerzs5gU/0.jpg)](http://www.youtube.com/watch?v=GKeUerzs5gU "Video Title")

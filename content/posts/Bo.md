@@ -3,8 +3,8 @@ title: "Bo"
 date: 2021-01-21T11:30:03+00:00
 weight: 1
 aliases: ["/Shemos"]
-tags: ["Shemos", "torah",]
-categories: ["Shemos"]
+tags: ["Bo"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -1,10 +1,10 @@
 ---
 title: "Chukas"
-date: 2020-06-27T11:30:03+00:00
+date: 2021-06-15T11:30:03+00:00
 weight: 1
 aliases: ["/Chukas"]
-tags: ["bamidbar", "torah","video"]
-categories: ["Bamidbar"]
+tags: ["Chukas"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -53,7 +53,18 @@ comments: false
 
  Why is it לשון יוני? רבינו יונה on that Mishnah says that חכם is הלומד מכל אדם because the Greeks say that “philo sophy” means a love of חכמה. What defines a חכם is not how much he knows but how much he wants to know. Therefore, he is a חכם even if he doesn’t know that much because he learns from everyone and is always searching for knowledge. That’s why the Greeks call the מורים את מוריהם שוטים because it’s the opposite of חכמה and הלומד מכל אדם.
  ## Videos
+ ### Shiurim in Los Angeles 5781
+ #### Parshas Chukas
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/_Eugolhusu4/0.jpg)](http://www.youtube.com/watch?v=_Eugolhusu4 "Video Title")
+ #### Parshas Chukas
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/7aHqd7ALy7Y/0.jpg)](http://www.youtube.com/watch?v=7aHqd7ALy7Y "Video Title")
+ #### Parshas Chukas
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/x9zN30ceQr8/0.jpg)](http://www.youtube.com/watch?v=x9zN30ceQr8 "Video Title")
+ #### Parshas Chukas
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/bHJZbNNFOnQ/0.jpg)](http://www.youtube.com/watch?v=bHJZbNNFOnQ "Video Title")
  ### Thursday Night Parsha Shiur 5780
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/uD7KG_SvYE4/0.jpg)](http://www.youtube.com/watch?v=uD7KG_SvYE4 "Video Title")
+ ### Thursday Night Parsha shiur 5780
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/lowsIhv_KkE/0.jpg)](http://www.youtube.com/watch?v=lowsIhv_KkE "Video Title")
  ### Ashes and Living Water 5772
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/f7yksf1A-Ac/0.jpg)](http://www.youtube.com/watch?v=f7yksf1A-Ac "Video Title")

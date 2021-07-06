@@ -1,14 +1,14 @@
 ---
-title: "Bein HaMitzarim 5780"
+title: "Bein HaMitzarim"
 date: 2020-07-24T11:30:03+00:00
 weight: 1
-aliases: ["/Beinhamitzarim5780"]
-tags: ["Yom Tovim", "torah", "5780", "video"]
-categories: ["Yom Tovim"]
+aliases: ["/Beinhamitzarim"]
+tags: ["Bein Hamitzarim"]
+categories: ["Moadim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
+showToc: true
+TocOpen: true
 draft: false
 hidemeta: false
 disableShare: false
@@ -19,5 +19,6 @@ cover:
     relative: false
 comments: false
 ---
- ## Thursday Night Shiur
+ ## Videos
+ ### Thursday Night Shiur 5780
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/b2z9ivW7G04/0.jpg)](http://www.youtube.com/watch?v=b2z9ivW7G04 "Video Title")

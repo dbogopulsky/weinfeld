@@ -3,8 +3,8 @@ title: "Noach"
 date: 2020-10-24T11:30:03+00:00
 weight: 1
 aliases: ["/Noach"]
-tags: ["Bereishis", "torah"]
-categories: ["Bereishis"]
+tags: ["Noach"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

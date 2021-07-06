@@ -3,8 +3,8 @@ title: "Pesach"
 date: 2021-03-24T11:30:03+00:00
 weight: 1
 aliases: ["/Pesach"]
-tags: ["Yom Tovim", "torah", "video",]
-categories: ["Yom Tovim"]
+tags: ["Pesach"]
+categories: ["Moadim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -3,8 +3,8 @@ title: "Bamidbar"
 date: 2021-05-12T11:30:03+00:00
 weight: 1
 aliases: ["/Bamidbar"]
-tags: ["Bamidbar", "torah",]
-categories: ["Bamidbar"]
+tags: ["Bamidbar"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

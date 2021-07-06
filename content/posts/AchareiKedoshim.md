@@ -3,8 +3,8 @@ title: "Acharei Kedoshim"
 date: 2021-04-22T11:30:03+00:00
 weight: 1
 aliases: ["/AchareiKedoshim"]
-tags: ["Vayikra", "torah", "video",]
-categories: ["Vayikra"]
+tags: ["Acharei Kedoshim"]
+categories: ["3. Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

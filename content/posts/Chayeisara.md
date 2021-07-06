@@ -3,8 +3,8 @@ title: "Chayei Sara"
 date: 2020-11-14T11:30:03+00:00
 weight: 1
 aliases: ["/Chayeisara"]
-tags: ["Bereishis", "torah"]
-categories: ["Bereishis"]
+tags: ["Chayei Sara"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

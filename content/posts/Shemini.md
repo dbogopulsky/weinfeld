@@ -3,8 +3,8 @@ title: "Shemini"
 date: 2021-04-08T11:30:03+00:00
 weight: 1
 aliases: ["/Shemini"]
-tags: ["Vayikra", "torah", "video",]
-categories: ["Vayikra"]
+tags: ["Shemini"]
+categories: ["3. Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: false

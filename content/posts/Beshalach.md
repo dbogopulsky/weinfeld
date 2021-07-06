@@ -3,8 +3,8 @@ title: "Beshalach"
 date: 2021-01-26T11:30:03+00:00
 weight: 1
 aliases: ["/Beshalach"]
-tags: ["Shemos", "torah", "video"]
-categories: ["Shemos"]
+tags: ["Beshalach"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

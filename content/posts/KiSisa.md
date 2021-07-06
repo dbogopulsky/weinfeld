@@ -3,8 +3,8 @@ title: "Ki Sisa"
 date: 2021-03-04T11:30:03+00:00
 weight: 1
 aliases: ["/kisisa5780"]
-tags: ["Shemos", "torah"]
-categories: ["Shemos"]
+tags: ["Ki Sisa"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

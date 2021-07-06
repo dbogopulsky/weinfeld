@@ -3,8 +3,8 @@ title: "Vayeitze"
 date: 2020-11-25T11:30:03+00:00
 weight: 1
 aliases: ["/vayeitze"]
-tags: ["Bereishis", "torah",]
-categories: ["Bereishis"]
+tags: ["Vayetze"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

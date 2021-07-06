@@ -3,8 +3,8 @@ title: "Vayikra"
 date: 2021-03-18T11:30:03+00:00
 weight: 1
 aliases: ["/Vayikra"]
-tags: ["Vayikra", "torah", "video"]
-categories: ["Vayikra"]
+tags: ["Vayikra"]
+categories: ["3. Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

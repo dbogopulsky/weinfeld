@@ -3,8 +3,8 @@ title: "Terumah"
 date: 2021-02-17T11:30:03+00:00
 weight: 1
 aliases: ["/terumahzachor"]
-tags: ["Shemos", "torah",]
-categories: ["Shemos"]
+tags: ["Terumah"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

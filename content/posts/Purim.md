@@ -3,8 +3,8 @@ title: "Purim"
 date: 2021-02-23T11:30:03+00:00
 weight: 1
 aliases: ["/purim"]
-tags: ["Yom Tovim", "torah"]
-categories: ["Yom Tovim"]
+tags: ["Purim"]
+categories: ["Moadim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -21,6 +21,7 @@ comments: false
 ---
  ## 5780
 Haman thought that Adar was a month of bad luck for the Jews because of the death of Moshe and it was probably a painful and difficult day for the Jews being that they lost the greatest leader in history. But the Jews pulled it together and on that day they learned a very important lesson. They learned that as a people we must keep moving on and with the death comes a new beginning and opportunity. The death of Moshe was so important not only because of how essential of a leader he was but because the Jews response to his death showed us how we should react by every Jewish death.
+
 The Gemara in Megilah 3a says that Haman didn’t know that he died and was born on the seventh of Adar. The Gemara is seemingly backwards as it should have said that Haman didn’t realize that he was born and died on the seventh, but instead it says that Haman didn’t know that he died and was born on that day. But it could be that Haman didn’t understand this idea that death is an opportunity to get to a place and level that wasn’t attainable during the life time of the individual. As the Gemara in Temurah 16b says the day Moshe died, 3,000 Halachos we forgotten and עתניאל בן קנז was mechadesh them through pilpul. This method would never have come to be if not for the death of Moshe. Therefore as painful as a Yahrzeit is in terms of the loss of the past, it also creates an opportunity for growth and in building a future.
 
 This idea is also one of the messages of Purim and why we say עד דלא ידע בין ארור המן לברוך מרדכי because with all the events of Purim brought tremendous potential for growth so we are not even sure if it was a bad thing, everything that transpired, because of the growth that it brought.

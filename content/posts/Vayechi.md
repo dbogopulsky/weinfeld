@@ -3,8 +3,8 @@ title: "Vayechi"
 date: 2021-01-02T11:30:03+00:00
 weight: 1
 aliases: ["/Vayechi"]
-tags: ["Bereishis", "torah"]
-categories: ["Bereishis"]
+tags: ["Vayechi"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

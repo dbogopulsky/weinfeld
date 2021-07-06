@@ -1,10 +1,10 @@
 ---
 title: "Balak"
-date: 2020-07-04T11:30:03+00:00
+date: 2021-06-21T11:30:03+00:00
 weight: 1
 aliases: ["/balak"]
-tags: ["Bamidbar", "torah",]
-categories: ["Bamidbar"]
+tags: ["Balak"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -89,7 +89,7 @@ Similarly, sometimes people become preoccupied with the means and they lose sigh
 
  The Gemara in Sanhedrin on דף קה. Says בלעם is בלא עם, that he has no nation. The simple understanding is that he was like a prophet for hire and he didn’t have any sense of loyalty, and he didn’t belong to any people, and was just a mercenary. But a person who has an עם is a person who doesn’t live for himself, rather he is able to see beyond his selfish self. But if a person is בלא עם, then he is just out for himself. Somebody like that, anything that interferes with his self-interest doesn’t exist and therefore he can have the biggest מפלה like בלעם.
  ## Videos
- ### Thursday Night Parsha shiur 5780
- [![IMAGE ALT TEXT](http://img.youtube.com/vi/0BCmvVQBllI/0.jpg)](http://www.youtube.com/watch?v=0BCmvVQBllI "Video Title")
+ ### Thursday Night Parsha Video 5781
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/mp27jcThD84/0.jpg)](http://www.youtube.com/watch?v=mp27jcThD84 "Video Title")
  ### Self-Centered Vision 5772
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/CHgn_OXTRLk/0.jpg)](http://www.youtube.com/watch?v=CHgn_OXTRLk "Video Title")

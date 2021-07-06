@@ -3,8 +3,8 @@ title: "Shelach"
 date: 2021-06-01T11:30:03+00:00
 weight: 1
 aliases: ["/shelach"]
-tags: ["Bamidbar", "torah",]
-categories: ["Bamidbar"]
+tags: ["Shelach"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -3,8 +3,8 @@ title: "Vayera"
 date: 2020-11-07T11:30:03+00:00
 weight: 1
 aliases: ["/Vayera"]
-tags: ["Bereishis", "torah",]
-categories: ["Bereishis"]
+tags: ["Vayera"]
+categories: ["1. Bereishis"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

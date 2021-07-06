@@ -3,8 +3,8 @@ title: "Tazria Metzorah"
 date: 2021-04-15T11:30:03+00:00
 weight: 1
 aliases: ["/TazriaMetzorah"]
-tags: ["Vayikra", "torah"]
-categories: ["Vayikra"]
+tags: ["Tazria Metzorah"]
+categories: ["3. Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

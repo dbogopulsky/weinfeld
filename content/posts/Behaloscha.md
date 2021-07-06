@@ -3,8 +3,8 @@ title: "Behaloscha"
 date: 2021-05-26T11:30:03+00:00
 weight: 1
 aliases: ["/behaloscha5781"]
-tags: ["Bamidbar", "torah", "video"]
-categories: ["Bamidbar"]
+tags: ["Behaloscha"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

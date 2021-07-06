@@ -3,8 +3,8 @@ title: "Lag Baomer"
 date: 2021-04-28T11:30:03+00:00
 weight: 1
 aliases: ["/LagBaomer"]
-tags: ["Yom Tovim", "torah", "video"]
-categories: ["Yom Tovim"]
+tags: ["Lag Baomer"]
+categories: ["Moadim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

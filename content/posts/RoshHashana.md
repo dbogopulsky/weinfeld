@@ -3,8 +3,8 @@ title: "Rosh Hashana"
 date: 2020-09-17T11:30:03+00:00
 weight: 1
 aliases: ["/Roshhashana"]
-tags: ["Yom Tovim", "torah", "video"]
-categories: ["Yom Tovim"]
+tags: ["Rosh Hashana"]
+categories: ["Moadim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

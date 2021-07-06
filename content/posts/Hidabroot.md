@@ -3,7 +3,7 @@ title: "Lashon Hara"
 date: 2016-02-02T11:30:03+00:00
 weight: 1
 aliases: ["/Lashonhara"]
-tags: ["torah", "Inyanim"]
+tags: ["Lashon Hara"]
 categories: ["Inyanim"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors

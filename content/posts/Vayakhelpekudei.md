@@ -3,8 +3,8 @@ title: "Vayakhel Pekudei"
 date: 2021-03-11T11:30:03+00:00
 weight: 1
 aliases: ["/Vayakhelpekudei"]
-tags: ["Shemos", "torah", "video"]
-categories: ["Shemos"]
+tags: ["Vayakhel Pekudei"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

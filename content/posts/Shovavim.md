@@ -3,8 +3,8 @@ title: "Inyanei Shovavim"
 date: 2021-01-14T11:30:03+00:00
 weight: 1
 aliases: ["/InyaneishovavimandVa'era"]
-tags: ["Shemos", "torah","Shovavim"]
-categories: ["Shemos"]
+tags: ["Shovavim"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: false

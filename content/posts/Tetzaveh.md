@@ -3,8 +3,8 @@ title: "Tetzaveh"
 date: 2020-03-05T11:30:03+00:00
 weight: 1
 aliases: ["/tetzaveh"]
-tags: ["Shemos", "torah"]
-categories: ["Shemos"]
+tags: ["Tetzaveh"]
+categories: ["2. Shemos"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true

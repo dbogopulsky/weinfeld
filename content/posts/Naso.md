@@ -3,8 +3,8 @@ title: "Naso"
 date: 2021-05-19T11:30:03+00:00
 weight: 1
 aliases: ["/naso"]
-tags: ["Bamidbar", "torah", "video"]
-categories: ["Bamidbar"]
+tags: ["Naso"]
+categories: ["4. Bamidbar"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
 showToc: true
