@@ -1,6 +1,6 @@
 ---
 title: "Bereishis"
-date: 2020-10-17T11:30:03+00:00
+date: 2021-09-29T11:30:03+00:00
 weight: 1
 aliases: ["/Bereishis"]
 tags: ["Bereishis"]
@@ -78,5 +78,7 @@ Rabbeinu Yonah is comparing how a person is to rule over his own גוף just lik
 
 A person, to an extent, has within him the beast, a נפש בהמות, and it’s his mission in life to control and contain the zoo that some of us have within us. That’s the message of the Pasuk that man’s mission statement is וירדו בדגת הים ובעוף השמים ובבהמה, to control, contain, and harness the beast within.  
  ## Videos
- ### Thursday Night Parsha Shiur
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/N0k3H7pkiDw/0.jpg)](http://www.youtube.com/watch?v=N0k3H7pkiDw "Video Title")
+ ### Thursday Night Parsha Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/Gc3EklQn-ss/0.jpg)](http://www.youtube.com/watch?v=Gc3EklQn-ss "Video Title")

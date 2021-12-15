@@ -1,6 +1,6 @@
 ---
 title: "Noach"
-date: 2020-10-24T11:30:03+00:00
+date: 2021-10-06T11:30:03+00:00
 weight: 1
 aliases: ["/Noach"]
 tags: ["Noach"]
@@ -66,5 +66,7 @@ The Chidah explains the first Pasuk as follows. אלה תולדות, this that p
 
  A person shouldn’t underestimate anything that he does because anything a person does as small and insignificant as he thinks it is, it really has significance way beyond a person can imagine.  
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/58-7r3F6Y08/0.jpg)](http://www.youtube.com/watch?v=58-7r3F6Y08 "Video Title")
  ### Thursday Night Parsha Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/V7G3p1F8mRI/0.jpg)](http://www.youtube.com/watch?v=V7G3p1F8mRI "Video Title")

@@ -1,6 +1,6 @@
 ---
 title: "Eikev"
-date: 2020-08-20T11:30:03+00:00
+date: 2021-07-27T11:30:03+00:00
 weight: 1
 aliases: ["/eikev"]
 tags: ["Eikev"]
@@ -107,5 +107,5 @@ comments: false
 
  It’s generally assumed that a person is the sum total of his memory. But the truth is that a person’s memory depends on who he is. If a person puts himself in a different place, than certain parts of his memory become irrelevant because he is in a different place. Those memories will fade away and he will forget them because people only remember that which is relevant. Our minds delete what is irrelevant. Therefore, all people really have selective memory and what we remember depends on what’s relevant to us. When a person does Teshuva and brings himself to a different place where only the positive memories have relevance only that is remembered and plays a role in his life. Hashem remembers us as we remember ourselves. Therefore, when the Jews do Teshuva and are living a life with the אנכי being relevant and the אלה תשכחנה referring to the עגל being irrelevant, that’s how Hashem will remember us as well.
  ## Videos
- ### Thursday Night Parsha Shiur
+ ### Thursday Night Parsha Shiur 5780
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/VF9a6FFtRXg/0.jpg)](http://www.youtube.com/watch?v=VF9a6FFtRXg "Video Title")

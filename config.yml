@@ -81,6 +81,8 @@ params:
           url: "https://www.youtube.com/channel/UCEFFHXbme18LYIZZWcAcNkg/videos"
         - name: "whatsapp"
           url: "https://chat.whatsapp.com/ICIgzGr2wZA6ElKktq5yfS"
+        - name: "spotify"
+          url:  "https://open.spotify.com/show/5lgpKyIvWKgiFmJFI2shSz"
 
     analytics:
         google:

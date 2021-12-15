@@ -1,6 +1,6 @@
 ---
 title: "Vayera"
-date: 2020-11-07T11:30:03+00:00
+date: 2021-10-19T11:30:03+00:00
 weight: 1
 aliases: ["/Vayera"]
 tags: ["Vayera"]
@@ -81,5 +81,7 @@ Shmuel in Beitzah 15b explaining where we know the concept of עירוב תבש�
 
 So also here, it’s true that man is forgetful and unreliable, but that is what qualifies his ongoing attempt to remember what needs to be remembered which is expressed by the Bris Milah because what qualifies the זכרהו is the אחר שבא להשכיחו. The אחר is all the challenges that humans face, and that qualifies our ongoing attempt to remember in face of all the challenges-מאחר שבא להשכיחו.
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/OpiKNEqKanU/0.jpg)](http://www.youtube.com/watch?v=OpiKNEqKanU "Video Title")
  ### Thursday Night Parsha Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/urSinSxjUnA/0.jpg)](http://www.youtube.com/watch?v=urSinSxjUnA "Video Title")

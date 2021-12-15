@@ -1,6 +1,6 @@
 ---
 title: "Vayigash"
-date: 2020-12-26T11:30:03+00:00
+date: 2021-12-07T11:30:03+00:00
 weight: 1
 aliases: ["/vayigash"]
 tags: ["Vayigash"]
@@ -130,5 +130,7 @@ The Rav suggested that this is the same idea as mentioned above in the next Pasu
 
  This powerful message is displayed in a story that happened in the Holocaust that was recorded by someone who witnessed it. In the summer of 1944 when the Germans brought the Jews of Hungary to Auschwitz, there was an overload of Jews. In a short period of time, they transported 500,000 Jews from Hungary to Auschwitz. Usually, from the cattle car they would go straight to the selection process. But one time, since there was such an overload of people, they just left them by the cattle cars. At that time, it happened to have been Shabbos afternoon so while they were sitting and waiting there, they davened Minchah. These were people who knew what was coming for them, they were smelling the stench of human flesh being burned, and they nevertheless proceeded to daven Shabbos Minchah and says אתה קדוש ושמך קדוש. This is the idea of Jewish resilience.
  ## Videos
+  ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/Bo02Z-c8zFI/0.jpg)](http://www.youtube.com/watch?v=Bo02Z-c8zFI "Video Title")
  ### Thursday Night Parsha Shiur 5781
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/6-AH3FmL7hk/0.jpg)](http://www.youtube.com/watch?v=6-AH3FmL7hk "Video Title")

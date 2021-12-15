@@ -1,6 +1,6 @@
 ---
 title: "Vayeshev"
-date: 2020-12-12T11:30:03+00:00
+date: 2021-11-23T11:30:03+00:00
 weight: 1
 aliases: ["/Vayeshev"]
 tags: ["Vayeshev"]
@@ -115,5 +115,5 @@ On the contrary, in Novardik  they would say that man is so low, that even when 
 
  Similarly, the חובות הלבבות in שער היחוד פרק ו says כי המעט הזך הוא רב והרב בלתי זך הוא מעט, ואין בו תועלת. Therefore, it’s more important to recognize the importance of the small and the few of quality than the more without quality.
  ## Videos
- ### Thursday Night Parsha Shiur 5781
- [![IMAGE ALT TEXT](http://img.youtube.com/vi/05K4fGE_wY8/0.jpg)](http://www.youtube.com/watch?v=05K4fGE_wY8 "Video Title")
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/dQAZMB4CcIw/0.jpg)](http://www.youtube.com/watch?v=dQAZMB4CcIw "Video Title")

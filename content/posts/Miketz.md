@@ -1,6 +1,6 @@
 ---
 title: "Miketz"
-date: 2020-12-19T11:30:03+00:00
+date: 2021-11-30T11:30:03+00:00
 weight: 1
 aliases: ["/Miketz"]
 tags: ["Miketz"]

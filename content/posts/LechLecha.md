@@ -1,6 +1,6 @@
 ---
 title: "Lech Lecha"
-date: 2020-10-31T11:30:03+00:00
+date: 2021-10-13T11:30:03+00:00
 weight: 1
 aliases: ["/lechlecha"]
 tags: ["Lech Lecha"]
@@ -118,3 +118,6 @@ The Pasuk says ויבא אל הגר ותהר ותרא כי הרתה ותקל ג�
  אמרה שרי זו אין סתרה כגלויה, מראה עצמה כאלו היא צדקת ואינה צדקת, שלא זכתה להריון כל השנים הללו, ואני נתעברתי מביאה ראשונה.
 
 Hagar’s attitude and approach was that success is a yardstick by which we could measure a person’s level, and since Sarah hadn’t had children yet, she must be a fraud and not the person she is perceived as. But the house of Avraham understood that success and failure don’t show if you are great or not. Therefore Hagar immediately had to leave the house of Avraham because she didn’t understand this fundamental idea that success or lack of it is not an indication for where a person is holding and what level they are on.
+ ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/uKpKASgIDRU/0.jpg)](http://www.youtube.com/watch?v=uKpKASgIDRU "Video Title")

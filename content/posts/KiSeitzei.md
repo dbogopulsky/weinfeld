@@ -1,6 +1,6 @@
 ---
 title: "Ki Seitzei"
-date: 2019-09-14T11:30:03+00:00
+date: 2021-08-18T11:30:03+00:00
 weight: 1
 aliases: ["/kiseitzei"]
 tags: ["Ki Seitzei"]
@@ -65,5 +65,7 @@ Many of the commentaries such as the רא"ם and the גור אריה ask that wh
 
 The פרקי דרבי אליעזר in פרק ל records a story with Avraham and the wives of Yishmael. Three years after Yishmael took his first wife, Avraham set out on a journey to go visit him, but Sarah made his promise that he wouldn’t get of his camel. When he came to Yishmael’s house, only his wife was home because Yishmael and his mother were out picked dates. Avraham asked for some water and bread and she responded that they didn’t have any. Avraham told her to tell Yishmael what had happened and he left. She told Yishmael that an old man came from כנען to see you and Yishmael divorced her and sent her away. This exact occurrence happened three years later with Yishmael’s new wife but this time she provided Avraham with bread and water. Avraham stood up and prayed on behalf of Yishmael and his house was filled with Brachah. When Yishmael came back and his wife told him what happened, it says וידע ישמעאל שעד עכשו רחמי אביו עליו, שנאמר [תהלים קג, יג] כרחם אב על בנים. This רחמים which existed between Avraham and Yishmael could be why he was judged באשר הוא שם and not על שם סופו, because when there is such רחמים and connection, the child will return. And In the end of פרשת חיי שרה, the Pasuk says ויקברו אתו יצחק וישמעאל and Rashi says מכאן שעשה ישמעאל תשובה והוליך את יצחק לפניו. We see that Yishmael was able to do Teshuva and it was because Avraham never stopped loving him and never abandoned him.
  ## Videos
+ ### Thursday Night Parsha Shiur 5781
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/1hBWLTIbR0Q/0.jpg)](http://www.youtube.com/watch?v=1hBWLTIbR0Q "Video Title")
  ### Human Dignity 5772
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/hUPXkeKvB4o/0.jpg)](http://www.youtube.com/watch?v=hUPXkeKvB4o "Video Title")

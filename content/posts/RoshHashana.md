@@ -1,6 +1,6 @@
 ---
 title: "Rosh Hashana"
-date: 2020-09-17T11:30:03+00:00
+date: 2021-09-02T11:30:03+00:00
 weight: 1
 aliases: ["/Roshhashana"]
 tags: ["Rosh Hashana"]
@@ -20,6 +20,8 @@ cover:
 comments: false
 ---
  ## Videos
+ ### Thursday Night Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/lkhUtpOQGD0/0.jpg)](http://www.youtube.com/watch?v=lkhUtpOQGD0 "Video Title")
  ### Thursday Night Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/v_Is7WsDt1o/0.jpg)](http://www.youtube.com/watch?v=v_Is7WsDt1o "Video Title")
  ### Sicha on Rosh Hashana 5772

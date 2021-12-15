@@ -111,5 +111,7 @@ At this point, the Jews are about to enter EY. One would think that now is an op
 
 על דרך צחות- The Pesukim here list the Bnos Tzlafchad according to their age but elsewhere it lists them according to their wisdom. They say when a girl is single, we don’t talk about her age as that’s a sensitive topic so we talk about her wisdom. But once married, we can talk about her age. An even more cynical explanation is that once a girl is married, her wisdom is irrelevant.
  ## Videos
+ ### Thursday Night Parsha Shiur-Bein Hamitzarim 5781
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/_2LO9TaMdTA/0.jpg)](http://www.youtube.com/watch?v=_2LO9TaMdTA "Video Title")
  ### Thursday Night Parsha Shiur 5780
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HPbiUKfNCWg/0.jpg)](http://www.youtube.com/watch?v=HPbiUKfNCWg "Video Title")

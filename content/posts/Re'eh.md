@@ -1,6 +1,6 @@
 ---
 title: "Re'eh"
-date: 2020-08-15T11:30:03+00:00
+date: 2021-08-03T11:30:03+00:00
 weight: 1
 aliases: ["/reeh"]
 tags: ["Re'eh"]
@@ -19,7 +19,105 @@ cover:
     relative: false
 comments: false
 ---
- ## 5780
+ ## 5781
+ ### Kiddush Sponsorship
+ The Kiddush this Shabbos was sponsored by Reb Matisyahu Ginsberger in honor of the birth of a baby boy. Although usually a boy has the bris and a baby girl has a Kiddush, the Baal Simchah felt, due to a variety factors, that the birth of this child warranted an additional Kiddush. Regarding this feeling that was felt by the Baal Simchah, the Rav said over the following Radak.
+
+ הושע writes of Hashem’s wrath towards בני ישראל with vivid imagery. He describes the way in which Hashem will act as the revenge of a mother bear whose young children have been snatched from her protection (הושע - י״ג, ח׳). The רד״ק wonders about the choice of animal in the metaphor; why not a lion or leopard? Are they not more ferocious! He explains that unlike other animals, the mother bear is a very active participant in bringing her children into this world. She must bite through a very thick placenta to release the cub from within. Due to her invested effort, she clings to her children more than other animals. The deep love she has for them results in a tremendous pain, and thus fury, in the event of their death. What we learn from mother bear is the reality of how to create a deep connection with something. The more we invest and effort and difficulty we put into something, the deeper and more real the product.
+ ### Re'eh and Chodesh Elul
+ Parshas Re’eh usually falls out right before Rosh Chodesh Elul. The Shelah writes that the timing of when Parshiyos fall out are usually connected to that time period. Therefore, there must be a connection to Parshas Re’eh and Chodesh Elul.   
+
+Perhaps the connection could be understood based on the Rambam in Hilchos Teshuva. The Rambam has three chapters in Hilchos Teshuva (5-7) dedicated to the topic of בחירה-free will. It’s clear that the entire concept of Teshuva could only exist if there is such a thing as free will and free choice. If a person doesn’t believe that he has free will and that everything is predetermined based on his DNA and natural surroundings, then Teshuva has no meaning to him because he can’t be held accountable for his actions and choices. But if a person believes that he has free will and that he is responsible for his actions, then there could be a concept of Teshuva. As the source for free will, the Rambam in Hilchos Teshuva 5:3 brings the first Pasuk in the Parshah ראה אנכי נותן לפניכם היום.
+
+The Rambam in the כותרת to Hilchos Teshuva writes וביאור מצוה זו ועיקרים הנגררים עמה בגללה בפרקים אלו. It would seem that the Rambam is referring to the Perakim that discuss בחירה when he writes ועיקרים הנגררים עמה בגללה because if not for בחירה, there wouldn’t be Teshuva.
+
+At the end of the fifth Perek in Hilchos Teshuva, the Rambam raises the famous question of בחירה and ידיעה that how could there be free will if Hashem knows what’s going to be. To which he responds אין דעתו של אדם יכולה להשיג דבר זה and he ends with הוא שהנביא אמר כי לא מחשבותי מחשבותיכם. The meaning of כי לא מחשבותי מחשבותיכם could be that in spite of the fact that in the realm of מחשבותיכם we can’t understand or see how free choice coexists with Hashem’s knowing of the future, nevertheless in the realm of מחשבותי these two things coexist.
+
+ This Pasuk appears in the context of the Navis call for Teshuva as the he says יעזב רשע דרכו ואיש און מחשבתיו וישב אל ה' וירחמהו ואל אלקינו כי ירבה לסלוח: כי לא מחשבותי מחשבותיכם ולא דרכיכם דרכי נאם ה'. So the Navi is saying יעזב רשע דרכו ואיש און מחשבתיו וישב אל ה' וירחמהו, but the person might be thinking that Teshuva doesn’t make sense because everything is predestined, preordained and there is no choice. So to that the Navi concludes כי לא מחשבותי מחשבותיכם that even though man can’t understand it, one nevertheless does have free choice and therefore a person is responsible for what he did and is also capable of doing Teshuva. So that which the Rambam is bringing כי לא מחשבותי מחשבותיכם as the basis for Teshuva is really explicit in the Psukim, in the Navis call for Teshuva.    
+ ### The ראה, the לפניכם, and the היום
+ The Parsha begins ראה אנכי נתן לפניכם היום ברכה וקללה. The Baal HaTurim, among others, asks why does the Pasuk begin with ראה which is singular and conclude with לפניכם which is plural. The Baal HaTurim has a few answers but another explanation could be as follows.
+
+ The ראה-seeing expresses that each person has their own psychological makeup and unique way of thinking. Therefore, the path to Torah is for the individual. But the destination is one. That’s why the ראה is singular to indicate that the path is individual but the destination is לפניכם, which is the same for everyone but each person is only reaching the common destination through his individual path.
+
+ Another explanation could be based on the Rambam Hilchos Teshuva 3:4 that says:
+
+ לפיכך צריך כל אדם שיראה עצמו כל השנה כולה כאילו חציו זכאי וחציו חייב, וכן כל העולם חציו זכאי וחציו חייב, חטא חטא אחד הרי הכריע את עצמו ואת כל העולם כולו לכף חובה וגרם לו השחתה, עשה מצוה אחת הרי הכריע את עצמו ואת כל העולם כולו לכף זכות וגרם לו ולהם תשועה והצלה.
+
+ A person has to view himself and the world as חציו זכאי וחציו חייב and one Mitzvah could tip the scale for the whole world- עשה מצוה אחת הרי הכריע את עצמו ואת כל העולם כולו לכף זכות.
+ According to this, the ראה in singular form is to show that each individual can be responsible for the rest of the world, the לפניכם in plural form. So ראה אנכי נתן לפניכם is that not only does the fate of the individual depend on himself as indicated by the ראה in singular form but also the fate of the entire world depends on the individuals’ ראה because his ראה is נתן לפניכם.       
+
+ Lastly, the היום is that Hashem is giving us the ability to focus on the “now”, the present- אנכי נתן לפניכם היום that Hashem is giving us the היום. People have a tendency of harping on the past and dreaming about the future. But the truth is that it’s all about the היום-the now, because it’s the “now” that could really shape the past.
+
+ This three part explanation of the Pasuk ראה אנכי נתן לפניכם היום ברכה וקללה is expressed in the Mishna in Avos 1:14 אם אין אני לי מי לי וכשאני לעצמי מה אני ואם לא עכשיו אימתי. The ראה in singular form is the אם אין אני לי מי לי that a person must first recognize himself that his fate depends on himself. The לפניכם which is plural is the וכשאני לעצמי מה אני that a person mustn’t remain to himself but must realize that he can’t do it on his own and he must be part of the Tzibur. Lastly, the היום is the ואם לא עכשיו אימתי.      
+
+ Additionally, the Pasuk can be telling us ראה אנכי נתן לפניכם, “SEE” meaning Hashem is giving us the power of seeing. The power to see is because depending on how a person subjectively sees and experiences the objective reality transforms a קללה into a ברכה and a ברכה into a קללה. What really matters is if through his life experience he comes to תשמעו or he comes to לא תשמעו.  
+ ### Purpose of Maser Sheni
+ The concept of Maser Sheni is also discussed in the Parsha (chapter 14 Pasuk 22). The other things to give such as Terumah, Maser Rishon, and Maser Ani are understandable because the recipients of those tithes are poor. However, what is the meaning of Maser Sheni that a person is obligated to take his produce, or at least its value on redeemed money, to be eaten and used in Yerushalayim?
+
+The Chinuch in the end of Parshas Bechukosai discussing Maser B’Heimah, which is מענינא דיומא because Rosh Chodesh Elul is Rosh Hashanah for Maser B’Heimah (Rosh Hashana 2a), gives an explanation for the purpose of Maser Sheni:
+
+ משרשי המצוה, שהאל ברוך הוא בחר בעם ישראל וחפץ למען צדקו להיות כולם עוסקי תורתו ויודעי שמו, ובחכמתו משכם במצוה זו למען ילמדו יקחו מוסר, כי יודע אלהים שרוב בני אדם נמשכים אחר החומר הפחות בשגם הוא בשר, ולא יתנו נפשם בעמל התורה ובעסקה תמיד, על כן סיבב בתבונתו ונתן להם מקום שידעו הכל דברי תורתו על כל פנים, שאין ספק כי כל אדם נמשך לקבוע דירתו במקום שממונו שם. ולכן בהעלות כל איש מעשר כל בקר וצאן שלו שנה שנה במקום שעסק החכמה והתורה שם והיא ירושלים, ששם הסנהדרין יודעי דעת ומביני מדע, וכמו כן נעלה לשם מעשר תבואתנו בארבע שני השמיטה, כמו שידוע שמעשר שני נאכל שם, וכן נטע רבעי שנאכל שם, על כל פנים או ילך שם בעל הממון עצמו ללמוד תורה או ישלח לשם אחד מבניו שילמד שם ויהיה ניזון באותן פירות.
+
+ ומתוך כך יהיה בכל בית ובית מכל ישראל איש חכם יודע התורה, אשר ילמד בחכמתו כל בית אביו, ובכן תימלא הארץ דעה את יי. כי אם חכם אחד לבד יהיה בעיר או אפילו עשרה, יהיו הרבה מבני אדם שבעיר וכל שכן הנשים והילדים שלא יבואו לפניהם כי אם פעם אחת בשנה, או אפילו ישמעו דבריהם פעם בשבוע ילכו הבית וישליכו כל דברי החכם אחרי גום, אבל בהיות המלמד בכל בית ובית שוכן שם ערב ובוקר וצהרים ויזהירם תמיד, אז יהיו כולם, אנשים ונשים וילדים מוזהרים ועומדים ולא ימצא ביניהם שום דבר חטא ועוון, ויזכו למה שכתוב [ויקרא כ"ו, י"א - י"ב] ונתתי משכני בתוככם וגו' והייתם לי לעם ואנכי אהיה לכם לאלהים.
+
+ The idea is that people naturally are pulled to live where there Parnassa is. But in order to have a steady connection to Yerushalayim, where במקום שעסק החכמה והתורה שם, Hashem commands us to go there to eat Maser Sheni, or at least send it there for one of his children who are living there- או ישלח לשם אחד מבניו שילמד שם ויהיה ניזון באותן פירות. As a result, each family will have at least one family member living in Yerushalayim who is איש חכם יודע התורה and he will be able to teach the rest of his extended family who don’t live in Yerushalayim.
+ ### What's the Reward For
+The Parsha discusses the Mitzvah of Tzedakah. The Psukim sayכי יהיה בך אביון מאחד אחיך באחד שעריך בארצך אשר יקוק אלהיך נתן לך לא תאמץ את לבבך ולא תקפץ את ידך מאחיך האביון: נתון תתן לו ולא ירע לבבך בתתך לו כי בגלל הדבר הזה יברכך יקוק אלהיך בכל מעשך ובכל משלח ידך.
+
+ The Gemara in Ksubos 49b says כי הא דרבא כפייה לרב נתן בר אמי, ואפיק מיניה ד' מאה זוזי לצדקה that Rava forced Rav Nosson Bar Ami to give 400 zuz to Tzedakah. Tosfos asks how was Rava allowed to be כופה if Tzedakah is a Mitzvah that has מתן שכרה בצדה because the Pasuk says יברכך יקוק אלהיך בכל מעשך and the Gemara in Chulin 110b says כל מצות עשה שמתן שכרה בצדה אין בית דין של מטה מוזהרין עליה? Tosfos gives a variety of answers, one of them being that Tzedakah has תרתי לאוי לא תאמץ ולא תקפוץ and therefore could be כופה.
+
+ However, the Avnei Miluim (71:4) has a unique reading of the Pasuk in order to get out of the question of Tosfos. The Pasuk says נתון תתן לו ולא ירע לבבך בתתך לו כי בגלל הדבר הזה יברכך. The Avnei Miluim understands that when the Pasuk says כי בגלל הדבר הזה יברכך, it’s not going on the dry action of giving Tzedakah rather it’s going on the ולא ירע לבבך as if to say that a person only gets the מתן שכרה בצדה if he gives the Tzedakah in way that is לא ירע לבבך. But since this person is being כופה to give, then he isn’t giving Tzedakah as לא ירע לבבך and therefore there is no מתן שכרה בצדה and there could be כפייה. The Baal HaTanya makes the same suggestion as the Avnei Miluim as well in the מאמרי אדמור הזקן תקע"ב דף רי as does the Rashash in Baba Basra 8b and the Minchas Chinuch in Mitzvah תעט. It interesting that all these four people said the same thing on their own without having seen it from each other.
+
+ The משנה למלך alludes to this reading of the Pasuk in Hilchos Avadim Chapter 3 when he discusses whether or not we are כופה a אדון to מעניק his עבד. He says maybe there shouldn’t be כפייה because it’s a מ"ע שמתן שכרה בצדה because the Pasuk says לא יקשה בעיניך וגו' וברכך ה' אלהיך בכל אשר תעשה. And then he says the following:
+
+ ועוד היה נ"ל חילוק אחר דאפשר דאין המתן שכר דהענקה אלא על מה שלא יקשה בעיניו אלא שמעניק בלב טוב ובנפש חפצה ואם אינו מעניק לו בלב טוב זהו עונשו שלא יהיה מבורך מה' אבל על הענקה עצמה לא שמענו לא עונש ולא שכר ולפי זה כייפינן ליה וזה היה נ"ל חילוק נכון אלא דקשיא לי צדקה דהתם נמי כתיב ולא ירע לבבך בתתך לו כי בגלל הדבר הזה וגו' וא"כ נימא דהמתן שכר לא קאי אלא על לא ירע לבבך אבל על הצדקה עצמה ליכא מתן שכר ומש"ה אכפייה רבא
+
+ It’s clear that he has an option to learn like the Avnei Miluim by Tzedakah but rules it out because Tosfos clearly holds that the כי בגלל הדבר הזה יברכך is going on the giving and not on the לא ירע לבבך and he therefore asks his question.
+
+ The Ramban, in the end of Sefer Hamitzvos in his section called מצות ששכח אותן הרב ממצות לא תעשה כפי דעת הרמב"ן writes the following:
+
+ מצוה יז שנמנענו גם כן שלא יחר לנו בתתנו צדקה לעניים ולא נתן אותה אליהם בעין רעה ונחשוב אותה מיעוט לנו, אבל יהיה זה בעינינו שכר ותועלת ותוספת בממונו, לפי שהוא ית' ישלם לנו הכל בכמה כפלים והוא אמרו יתעלה נתן תתן לנו ולא ירע לבבך בתתך לו כי בגלל הדבר הזה יברכך ה' אלקיך בכל מעשיך ובכל משלח ידך.
+
+ When the Ramban explains the לאו that should be counted, he says that a person shouldn’t consider giving Tzedakah to be a loss rather he should consider it to be a gain. Because the כי בגלל הדבר הזה יברכך is giving reason to why a person should be נתון תתן לו ולא ירע לבבך בתתך לו that he shouldn’t resent giving because Hashem will repay him with much more and it’s because he is giving that Hashem will repay him. According to this, it’s clear that the Ramban learned like Tosfos (and not like the Avnei Miluim) that בגלל הדבר הזה יברכך is not going on the ולא ירע לבבך בתתך rather it’s going on the actual giving because it’s saying a person shouldn’t be ירע לבבך בתתך and feel bad when giving because its גופא because of his giving that Hashem will bless him- כי בגלל הדבר הזה יברכך.   
+ ### Tzedakah- To Perfect One's Character
+The Pasuk by Tzedakah says כי לא יחדל אביון מקרב הארץ על כן אנכי מצוך לאמר פתח תפתח את ידך לאחיך לעניך ולאבינך בארצך. What is the meaning of this Pasuk? The implication of the Pasuk is that there is a Mitzvah to give Tzedakah only because there are poor people that because poor people will not cease to exist, therefore there is the commandment of Tzedakah. But why is the Pasuk depending the Mitzvah of Tzedakah on the fact that there will always be poor people?
+
+The Rav said in the name of his father the following answer. If people knew that they could solve the problem of poverty by giving charity, then there would be no need for a Mitzvah because most people aren’t cruel by nature and therefore they would be happy and willing to give. However, once the Torah tells us כי לא יחדל אביון מקרב הארץ that there will never be a solution to poverty and giving charity is like throwing money to bottomless pit, now there needs to be a Mitzvah of Tzedakah because otherwise people wont give. Therefore the Pasuk says כי לא יחדל אביון מקרב הארץ that because there will never be a solution to poverty, על כן אנכי מצוך לאמר פתח תפתח את ידך-therefore there is the Mitzvah of Tzedakah. And that’s why on the Pasuk נתון תתן לו, Rashi says אפילו מאה פעמים because the Torah is emphasizing that a person might have to give and give again and give again because there is no getting rid of the problem.
+
+Additionally, this that the Pasuk by Tzedakah says נתון תתן לו ולא ירע לבבך בתתך לו and Rashi writes אפילו מאה פעמים could be understood as follows.
+The Rambam in Avos (3:15) הכל לפי רוב המעשה. He writes that if a person has an opportunity to give small amounts of Tzedaka on a daily basis or a onetime large sum of money, it’s better for him to do the daily small amount. That’s the idea behind רוב המעשה, that we acquire the מידה of נדיבות by doing small acts of נדיבות over and over again and not by doing one large act of נדיבות. The more times we repeat simple acts of kindness, that’s what will make us into a better person. So when Rashi says נתון תתן לו - אפילו מאה פעמים, it’s through the many giving’s that a person will develop the character trait of נדיבות and will be לא ירע לבבך בתתך לו that he won’t regret giving it.
+
+The Mitzvah of Tzedakah is not really that the needs of the poor should be fulfilled because the world could’ve been set up in a way that there are no needy people. Rather the purpose is to allow people to develop the character trait of generosity. Therefore Hashem says כי לא יחדל אביון מקרב הארץ and he say’s נתון תתן לו- אפילו מאה פעמים because it’s not something that people could get rid of rather it’s something that Hashem want’s people to practice over and over again.
+
+At the end of the Parsha of Ir Nidachas, the Pasuk says ונתן לך רחמים ורחמך (יג,יח) and the Ohr Hachaim explains the following:
+
+ כוונת מאמר זה כאן לפי שצוה על עיר הנדחת שיהרגו כל העיר לפי חרב ואפילו בהמתם מעשה הזה יוליד טבע האכזריות בלב האדם, כמו שספרו לנו הישמעאלים כת הרוצחים במאמר המלך כי יש להם חשק גדול בשעה שהורגים אדם ונכרתה מהם שורש הרחמים והיו לאכזר, והבחינה עצמה תהיה נשרשת ברוצחי עיר הנדחת לזה אמר להם הבטחה שיתן להם ה' רחמים הגם שהטבע יוליד בהם האכזריות מקור הרחמים ישפיע בהם כח הרחמים מחדש לבטל כח האכזריות שנולד בהם מכח המעשה.
+
+ After this killing of all the people and animals in an Ir Nidachas, there is concern that it’ll be יוליד טבע האכזריות בלב האדם-it’ll turn people cruel. Therefore there is a special promise from Hashem that he will restore within us the מדה of רחמנות and then as a result of Hashem restoring with in us the מדה of רחמנות, then it’ll be ורחמך.
+
+ The Ohr Hachaim says that he heard from the ישמעאלים that the executioners for the king would develop a negative character and they actually enjoy what they are doing. It interesting that the Chinuch says this as well in Mitzvah 16 when he says כי האדם נפעל כפי פעולותיו ולבו וכל מחשבותיו תמיד אחר מעשיו שהוא עושה בהם, he discusses the same thing that the Ohr Hachaim says hundreds of years later about the ישמעאלים but the the Ohr Hachaim doesn’t mention the Chinuch.
+
+ Dovid HaMelech says אחת שאלתי מאת ה' אותה אבקש. Besides for the fact that this sounds repetitious, to first be שאל and then again to be אבקש, the first time it’s said in past tense- שאלתי but then אבקש could either be present or future tense. So did Dovid HaMelech ask? Is he going to ask?
+
+ The idea is that there is a difference between the word שאלה which means to ask and the word אבקש which means to want. So Dovid Hamelech says אחת שאלתי, that he always asked for one thing and it was through that, that he reached a level of אותה אבקש. Sometimes a person needs to act before he has the feeling for it as was mentioned from the Chinuch above that expressions create impressions and shape our character. Similarly, the Mesilas Yesharim says this in Chapter 7:
+
+ ואמנם, התבונן עוד, שכמו שהזריזות הוא תולדת ההתלהטות הפנימי, כן מן הזריזות יולד ההתלהטות. והיינו, כי מי שמרגיש עצמו במעשה המצוה כמו שהוא ממהר תנועתו החיצונה, כן הנה הוא גורם שתבער בו תנועתו הפנימית כמו כן, והחשק והחפץ יתגבר בו וילך. אך אם יתנהג בכבדות בתנועת איבריו, גם תנועת רוחו תשקע ותכבה. וזה דבר שהנסיון יעידהו.
+
+ The way a person acts, he actually becomes that. Therefore, its not only that he does what he is but also that he is what he does. So this concept is seen on the negative side by the Ir Nidachas and is seen on the positive side by the נתון תתן לו. This is why most of the 613 Mitzvos are about what to do and what not to do and very few deal with what a person should or should not be thinking, believe or not believe, and the reason is because what a person becomes is based on how he acts and not what he thinks.
+
+ This idea is also seen in the Gemara Baba Metziah 61a that says why do we need לא תגנבו if it could be learned out from רבית ואונאה to which the Gemara answers לכדתניא: לא תגנב - על מנת למיקט, לא תגנב על מנת לשלם תשלומי כפל. Rashi says לא תגנב על מנת לשלם תשלומי כפל is שרוצה לההנותו, ויודע בו שלא יקבל that he knows a person needs money but wont take it. So he orchestrates a whole גניבה and goes through all the embarrassment of a court case in order that he should be able to give the person תשלומי כפל. The Rambam in Hilchos Gneivah 1:2 says the reason why this is Assur is שלא ירגיל עצמו בכך. So we see even though this person had all the right intentions, there is nevertheless a concern that he’ll become רגיל עצמו בכך and therefore the Torah prohibits it. This is another example that a person’s actions make much more of an impact on who he is than what he thinks.                 
+ ### Machlokes Reb Yishmael and Tana Kama
+The Pasuk says ונתצתם את מזבחתם ושברתם את מצבתם ואשריהם תשרפון באש ופסילי אלהיהם תגדעון ואבדתם את שמם מן המקום ההוא that when Klal Yisrael enters Eretz Yisrael, they are obligated to destroy the מזבחתם of the Goyim. The next Pasuk says לא תעשון כן ה' אלהיכם.
+
+Rashi brings a Machlokes between Reb Yishmael and the Tana Kama regarding the Pasuk of לא תעשון כן ה' אלהיכם:
+ דבר אחר ונתצתם את מזבחותם ואבדתם את שמם לא תעשון כן, אזהרה למוחק את השם ולנותץ אבן מן המזבח או מן העזרה. אמר רבי ישמעאל וכי תעלה על דעתך שישראל נותצין את המזבחות אלא שלא תעשו כמעשיהם, ויגרמו עונותיכם למקדש אבותיכם שיחרב.
+
+Why is Reb Yishmael so bothered with the explanation of the Tana Kama, that it’s a אזהרה for removing a stone from the Mizbeach because we find many אזהרות for things that we wouldn’t think people would do and yet Reb Yishmael doesn’t question it and say וכי תעלה על דעתך. So what is unique here that Reb Yishmael questions and says וכי תעלה על דעתך?
+
+An explanation could be because the Jewish people are now about to enter Eretz Yisrael and are commanded to destroy all the מזבחותם of the Goyim. But nobody would think that commandment should apply to the מזבח of Hashem. There is a clear distinction between the מזבחותם and the מזבח in the Mishkan. Therefore, Reb Yishmael questions and says וכי תעלה על דעתך and comes up with a new explanation שלא תעשו כמעשיהם, ויגרמו עונותיכם למקדש אבותיכם שיחרב.
+
+But a possible explanation for the opinion of the Tana Kama who understands that לא תעשון כן ה' אלהיכם is a אזהרה לנותץ אבן מן המזבח is as follows. The Rambam in Moreh Nevuchim writes that the purpose of Korbanos was in order to rehabilitate Klal Yisrael from all the Avodah Zara and animal sacrifice in Mitzrayim. Being that it would be too difficult for Klal Yisrael to completely stop, Hashem created Korbanos as a solution. However, now that Klal Yisrael was about to enter Eretz Yisrael, there was a serious concern that they might feel they no longer have a purpose for Korbanos because they have now been rehabilitated. Therefore, there was a concern that they might destroy the Mizbeach of Hashem along with the מזבחותם of the Goyim. Therefore there is a need to say לא תעשון כן ה' אלהיכם to be a אזהרה לנותץ אבן מן המזבח.  
+ ## 5779
  ### Shabbos Rosh Chodesh Elul
  This week is Shabbos Rosh Chodesh Elul. One would think that when comparing the two, Shabbos is greater than Rosh Chodesh. However, from the Gemara in זבחים דף צא ע"א it appears that Rosh Chodesh is greater and more holy because the Gemara wants to prove that תדיר precedes מקודש because the musafei Shabbos come before the musafei Rosh Chodesh which is תדיר even though Rosh Chodesh is more מקודש. How can we understand this?
 
@@ -74,5 +172,7 @@ comments: false
  Chazal learn from לא תתגודדו שלא תעשו אגודות אגודות that can’t have a place with two Minhagim. How did Chazal get to that Halacha from the main prohibition of not tearing out your flesh?
  The prohibition of ripping out ones flesh is giving prominence to the body. But if we identify as our soul, then we are all one and we are expected to live like one in harmony and unison. Therefore, לא תתגודדו שלא תעשו אגודות אגודות is only possible on the level of the physical. But if we experience ourselves as spiritual beings, then we experience ourselves as all one and we will therefore not be אגודות אגודות.
  ## Videos
+ ### Thursday Night Parsha Shiur 5781
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/ELv-TwgIcT0/0.jpg)](http://www.youtube.com/watch?v=ELv-TwgIcT0 "Video Title")
  ### Thursday Night Parsha Shiur 5780
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NyKN1Hp7big/0.jpg)](http://www.youtube.com/watch?v=NyKN1Hp7big "Video Title")

@@ -1,6 +1,6 @@
 ---
 title: "Haazinu"
-date: 2020-09-26T11:30:03+00:00
+date: 2021-09-16T11:30:03+00:00
 weight: 1
 aliases: ["/haazinu"]
 tags: ["Haazinu"]

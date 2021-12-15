@@ -1,6 +1,6 @@
 ---
 title: "Vayechi"
-date: 2021-01-02T11:30:03+00:00
+date: 2021-12-14T11:30:03+00:00
 weight: 1
 aliases: ["/Vayechi"]
 tags: ["Vayechi"]
@@ -174,7 +174,7 @@ By Yaakov, the Pasuk says ויקרבו ימי ישראל למות. Why are his d
 
  The Chasam Sofer answers as follows. The Ramban learns that בנים אתם לה' אלוקיכם is a reason for לא תתגודדו ולא תשימו קרחה בין עיניכם למת because being children of Hashem, we understand that when a person dies, he is going back to his father and to a better place. Therefore, there is seemingly no reason for mourning. But the Ramban says in תורת האדם that still mourning, ג' לבכי ז' לאבל, is permissible but not excessive. According to this, it makes sense why we can learn ז' ימי המשתה from before we got the Torah because if there was a reason to have a party before we got the Torah and had mitzvos, then all the more so after we got the Torah and there is the Mitzvah of פריה ורביה is there a reason to have ז' ימי המשתה. But by אבילות, before we got the Torah and had בנים את לה' אלוקיכם, there was a reason to mourn because it was the end of life. But now that we got the Torah and are בנים את לה' אלוקיכם, there is technically no reason to mourn because we understand that when a person dies, he is just returning to his father. Therefor the source to mourn cannot be from Psukim before מתן תורה.
  ## Videos
- ### Thursday Night Parsha Shiur
+ ### Thursday Night Parsha Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/rubAQ4OaUpU/0.jpg)](http://www.youtube.com/watch?v=rubAQ4OaUpU "Video Title")
  ### 5772
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/ubOQcYTp6qk/0.jpg)](http://www.youtube.com/watch?v=ubOQcYTp6qk "Video Title")

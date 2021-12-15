@@ -1,6 +1,6 @@
 ---
 title: "Vayeitze"
-date: 2020-11-25T11:30:03+00:00
+date: 2021-11-09T11:30:03+00:00
 weight: 1
 aliases: ["/vayeitze"]
 tags: ["Vayetze"]
@@ -19,6 +19,76 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5782
+ ### Impact of the Departure
+ ויצא יעקב מבאר שבע וילך חרנה
+
+Regarding why the Torah says ויצא and וילך, Rashi writes לא היה צריך לכתוב אלא וילך יעקב חרנה, ולמה הזכיר יציאתו, אלא מגיד שיציאת צדיק מן המקום עושה רושם, שבזמן שהצדיק בעיר הוא הודה הוא זיוה הוא הדרה, יצא משם פנה הודהה פנה זיוה פנה הדרה. It’s not clear what the תועלת is in telling us that יציאת צדיק מן המקום עושה רושם. But perhaps it’s to place responsibility on the Tzadik that he should know to what extent his behavior impacts his surroundings.
+
+A simple explanation for why the Torah says ויצא יעקב מבאר שבע and וילך חרנה could’ve been because these were two separate happenings. He left באר שבע and only many years later it was וילך חרנה because after ויצא יעקב מבאר שבע, he was נטמן בבית עבר י"ד שנים and only after that was it וילך חרנה. However, since Rashi says וילך חרנה means יצא ללכת לחרן, which happened immediately, therefore Rashi couldn’t say this simple explanation. Since Rashi explains וילך חרנה means that he went with the intention of going to חרן so that happened immediately upon his departure from באר שבע. Therefore there is room for Rashi to be bothered with why the Torah needs to mention both ויצא יעקב מבאר שבע and וילך חרנה being that they both happened at the same time.        
+
+The Beis HaLevi has another explanation as to why the Pasuk needs to say both ויצא יעקב מבאר שבע and וילך חרנה. He says that when a person travels from one place to another, the תכלית is either because he needs to leave the place he is in, or it’s because he needs to get to the place that he is going to. Regarding Yaakov’s journey, both were the תכלית. Rivka told Yaakov הנה עשו אחיך מתנחם לך להרגך and therefore וקום ברח לך אל לבן אחי חרנה. For this purpose, the תכלית was just to get out of באר שבע to be away from Eisav. But Yitzchak only instructed Yaakov not to take a wife from כנען rather וקח לך משם אשה מבנות לבן in which case the תכלית of Yitzchaks command was regarding the destination and not his departure. This is why the Torah stresses both ויצא יעקב מבאר שבע and וילך חרנה because there was a focus to both his departure point, fulfilling his mother’s command, and to his destination which was fulfilling his fathers command.
+
+Rashi says the fact that ויצא appears independently is to emphasize the impact that the ויצא had on his surroundings. However, we could add that it also emphasizes the impact the ויצא had on himself because this was not merely a journey from one place to another rather is was a life altering journey. ויצא יעקב is not just that he left but that he’s gone out of the home of his parents where he’s spent many decades of his life up until now. His parent’s home wasn’t just comfortable and familiar in the simple sense but the Ramban in Sefer Shemos writes about the השראת השכינה in the Mishkan that it was אל מעלות אבותם ישובו-returning to the level of the Avos. The reason being because the Avos were הן הן המרכבה. So the Mishkan was going back to that madreigah and restoring that which existed in the homes of the Avos. So Yaakov’s journey now was disconnecting from all of this, from being in the shadow of Yitzchak and Rivka. It also a ויצא now that he is leaving Eretz Yisrael, the Promised Land.
+
+So the וילך חרנה is kind of a frightening journey. It was only once he dreamt his dream that he learned that although the Malachim of Eretz Yisrael were leaving him, but there were special Malachim designated for escorting him in חוץ לארץ. These Malachim are שייך to the unique and special purpose of being in חוץ לארץ. Then Yaakov says אכן יש ה' במקום הזה ואנכי לא ידעתי. Until now, he didn’t realize that he had that potential, to be שייך to the השראת השכינה on his own- אנכי לא ידעתי. Until now, he only knew about the השראת השכינה while living in the shadows of his parents. But now that he experienced this השראת השכינה away from his parents, now he understood that he had that potential. Reb Hershel from Ostropol explains this Pasuk that Yaakov said I knew that אכן (אריה, כרוב נשר) was on the כסא הכבוד but I didn’t know that אנכי-I was also there.  
+ ### Yaakov As The Unifier
+ויקח מאבני המקום וישם מראשתיו וישכב במקום ההוא     
+
+Rashi writes עשאן כמין מרזב סביב לראשו שהיה ירא מפני חיות רעות. התחילו מריבות זו עם זו, זאת אומרת עלי יניח צדיק את ראשו, וזאת אומרת עלי יניח, מיד עשאן הקדוש ברוך הוא אבן אחת, וזהו שנאמר (פסוק יח) ויקח את האבן אשר שם מראשותיו. Regarding this point that the stones were fighting, the Maharal in Gur Aryeh says as follows:
+
+ואם תאמר מה ריב היה לאבנים שאין בהם דעת, כך שואלים בני אדם, ולא ידעו אלו בני אדם דעת חכמים (חולין צא ע"ב), ואכתוב אלו דברים. והנה אם היה המריבה לאלו האבנים בלי ענין ובלי סבה - היה קשה מה ענין המריבה-
+
+Rav commented, because only humans who have דעת could fight and have מחלוקת for no reason, but stones who have no דעת can’t be fighting for no reason or purpose.
+
+אבל המריבה היתה לסבה גדולה, כמו שאמרנו; דע כי מעלת יעקב מעלה נפרדת ומיוחדת מאוד וכו' וידוע כי יעקב עיקר האחדות, ולפיכך אמרו בני יעקב אל יעקב 'כשם שאין בלבך אלא אחד כך אין בלבבינו אלא אחד' (פסחים נו.). ומפני זה היה המחלוקת של האבנים, כי דבר שהוא נבדל הוא אחד מכל צד, ולא יצטרף אליו רבוי כלל רק אחדות, לכך היה המריבה 'עלי יניח צדיק את ראשו'
+
+Yaakov, who is the מדה of תפארת is a unifier of everything. People wander aimlessly, they are torn apart wanting different things, conflicting things. But Yaakov had it all together and he brings together creation. A person who lives in his own life, a life of meaning and purpose, brings meaning and purpose to all of creation and everything around him.
+
+ובין שתאמר כי כך היה בפועל שנעשו כל האבנים אבן אחד, ודבר זה אין פלא ואין ראוי להפליא על זה, ובין שנאמר שבעת המראה היו אבן אחד כאשר עלה יעקב במעלתו, ואחר כך חזר להיות [כמו] (כמ) בראשונה, כמו הרבה נסים שהיה המטה לנחש (שמות ד, ג) שחזר לקדמותו (שם שם ד), אין הפרש.
+
+The Maharal says that whether you say that this actually happened that all the stones became one or whether it was בעת המראה that they became one stone, אין הפרש-it doesn’t matter. The idea is that Yaakov, because of his מדרגה, is able to bring it all together.
+ ### Mind Over Matter
+But the above stones are not the only stones that are in the Parshah. Later on by the well, the Pasuk says ויהי כאשר ראה יעקב את רחל בת לבן אחי אמו ואת צאן לבן אחי אמו ויגש יעקב ויגל את האבן מעל פי הבאר. On the words ויגש יעקב ויגל Rashi says כזה שמעביר את הפקק מעל פי צלוחית להודיעך שכחו גדול. How did Rashi know that Yaakov removed it so easily indicating that he was כחו גדול? It could be because the Pasuk says ויגש and ויגל. Obviously he was ויגש because he couldn’t do it remotely so if he was ויגל את האבן, then it had to be ויגש יעקב. It must be coming to stress that there was no pause between when he approached the stone and when removed, that as soon as he walked over to it, he removed the stone, that it was easy for him.
+
+But what is the message in telling us that Yaakov was כחו גדול? After all, it says in Tehillim 147:10לא בגבורת הסוס יחפץ לא בשוקי האיש ירצה that we don’t really value physical strength. Rather we value what is decided by a person, רוצה ה' את יראיו and it says הכל בידי שמים חוץ מיראת שמים. So what is the significance that Yaakov was very strength?
+
+Rav Berel Soloveitchik suggested that the Torah is alerting us to the fact that Hashem was fulfilling his promise to Yaakov in which he guaranteed to accompany him throughout his travels (כ״ח, ט״ו). Rashi tells us that Yaakov was afraid of both Lavan and Esav. Hashem was promising him the ability to overcome them both. The strength which was displayed by Yaakov in uncovering the well seems to be the fulfillment of Hashem’s promise of אנכי עמך.
+
+The difficulty with this answer is that we are told כי פדה ה' את יעקב וגאלו מיד חזק ממנו. Yaakov’s adversaries were still stronger than him! So the question still remains what is the Pasuk coming to teach us that Yaakov was כחו גדול?
+
+An explanation could be as follows. The Baalei Mussar say that it says in the Piyut of Geshem- יחד לב וגל אבן מפי באר מים כנאבק לו שר בלול מאש וממים. Being that this is comparing the fight that Yaakov had with the שרו של עשו to when he removed the stone from the well, it is obviously not referring to physical strength rather יחד לב. Many people have abilities but the issue is do they tap into those abilities, into the deepest reservoirs of strength. Yaakov Avinu cared enough about the wasted time of the shepherds and therefore יחד לב וגל אבן that he was able to remove the rock and do something that ordinarily people can’t do. But when a person is escaping a fire, he discovers abilities and strength that he didn’t know he was capable of. So by telling us about Yaakov Avinus strength, the Torah is teaching us about his ability to bring forth his strengths and that is the יחד לב וגל אבן.
+
+The first Pasuk in this Perek says וישא יעקב רגליו וילך ארצה בני קדם. Obviously when a person walks, he lifts up his legs. So why does the Pasuk need to say וישא יעקב רגליו? Rashi writes משנתבשר בשורה טובה שהובטח בשמירה, נשא לבו את רגליו ונעשה קל ללכת that when Hashem promised him that he was going to protect him, so his heart lifted his legs and it made it easy to walk. Just like the idea explained above of יחד לב וגל אבן, so too נשא לבו את רגליו. When a person is excited and there is a נשא לבו, then it’s not just about what he physically could do ordinarily.
+
+This is the idea that the Maharal was explaining regarding the stones becoming one. It could be a perception and it could be a reality- its two levels of mind over matter. The first level is mind over matter, meaning that if in one’s perception everything is unified, so that’s one level of unifying creation. The second level of mind over matter is that a person can reshape matter and reality with his mind.
+ ### Stone Faced Shepherds
+In between the incidents of the stones becoming one and Yaakov removing the stone from the well, there is an interesting interaction between Yaakov and the רועים. He attempts to strike up a conversation with them by saying אחי מאין אתם, “brothers, where are you from” and they respond מחרן אנחנו. Then Yaakov asks הידעתם את לבן בן נחור and once again they respond curtly, in a brief manner, ידענו. In a last attempt, Yaakov says השלום לו and they simply respond שלום, without any additional words. The Pasuk then concludes והנה רחל בתו באה עם הצאן. On this interaction, the Medrash Rabbah says the following:
+ואין פוטטין את בעי, והנה רחל בתו באה עם הצאן, הדא אמרת שהדבור מצוי בנשים
+
+The רועים said to Yaakov ואין פוטטין את בעי that if you want to chat, then הנה רחל בתו באה עם הצאן, that you could chat with her because הדבור מצוי בנשים. So they were willing to answer his questions but they weren’t interested in getting into a conversation. So these stone faced shepherds were stone walling and even though Yaakov Avinu was able to unify multiple stones and make them one, and was able to lift the stone of the באר, nevertheless he was unable to move these shepherds. The reason is because the אבן of a בעל בחירה could only be softened by himself.     
+ ### Party for Leah but not Rachel
+ויאסף לבן את כל אנשי המקום ויעש משתה
+
+Lavan only makes a party when it comes to marrying of Leah but not Rachel. Why did he not make a party the second time? Reb Berel Soloveitchik answered this based on the following Medrash Rabbah:
+
+כינס כל אנשי מקומו אמר להם יודעים אתם שהיינו דחוקים למים וכיון שבא הצדיק הזה לכאן נתברכו המים אמרין ליה ומה אהני לך, אמר להון אין בעיין אתון אנא מרמי ביה ויהב ליה לאה דהוא רחים להדא רחל סגי, והוא עבד הכא גבכון שבעה שנין אוחרין, אמרין ליה עביד מה דהני לך, אמר להון הבו לי משכון דלית חד מנכון מפרסם ויהבון ליה משכונין ואזל ואייתי עליהון חמר משח וקופר, הוי למה נקרא שמו לבן הארמי שרימה באנשי מקומו
+
+Lavan explained to the people that they needed rain and the Brachah of rain came when Yaakov came. So he asked them if he should switch Rachel for Leah in order to keep Yaakov in town for another seven years. The people told him he should do whatever he wants. In order to make sure they wouldn’t reveal his plan, he took משכונות from everyone. But Lavan went ahead and sold all the משכונות to buy food and drinks for the party and when the people wanted there משכונות back, they needed to buy it back. Such a scheme only worked once. Therefore he was only able to make a party for Leah but not for when he married off Rachel.
+Additionally, Reb Berel answered that the party was not really for the wedding rather the party was for the fact that he was able to trick Yaakov. So there was no need for a second party at Rachel’s wedding.
+ ### The Alshich  
+ויגנב יעקב את לב לבן הארמי על בלי הגיד לו כי ברח הוא
+
+The Alshich explains this Pasuk as follows:
+הנה קשה כי מה שלא הגיד לו אינו גניבת לב. ועוד שאילו היה מגיד לו לא היה לו לומר בורח אני כי אם הולך אני, ואיך יאמר כי על בלי הגיד לו כי בורח הוא. ועוד אומרו על בלי והיה לו לומר שלא הגיד. וגם ה"א של הגיד היה ראוי תנקד בפת"ח. אך יאמר כי דרך לב האדם לאדם לעורר לו מה שבלב חברו לעשות לו, ולכן היה קרוב שיתן לב לבן לו כי יעקב בורח הוא ממנו. אך יעקב גנב לב לבן על עשותו שלא הגיד לו לבו כי בורח יעקב, והיה כי היה מראה יעקב ללבן כי טוב לו עמו. והוא מראה לו כי טוב לו שבת אתו ועל ידי כן לא הגיד לב לבן אותו כי בורח הוא, כאשר אם היה מראה יעקב שהכיר כי אין פני לבן אתו כתמול שלשום, וזהו אומרו ויגנוב יעקב את לב לבן הארמי על בלי הגיד לו כי בורח הוא
+
+There is a story that the Alshich was darshening in Tzfas and listing all of the tricks that Lavan did. The Arizal was in the audience and at one point laughed. When they asked him why he laughed he said that Lavan was in the audience too and was nodding during the drasha. At one point though Lavan was shaking his head because one of the tricks the Alshich mentions even he failed to think of.
+ ### Rachel At Night Leah By Day
+The Pasuk says ויהי בבקר והנה הוא לאה. Rashi writes אבל בלילה לא היתה לאה, לפי שמסר יעקב לרחל סימנים, וכשראתה רחל שמכניסין לו לאה אמרה עכשיו תכלם אחותי, עמדה ומסרה לה אותן סימנים. On this, the Gur Aryeh writes the following:
+
+פירוש הא דכתיב "ויהי בבקר והנה היא לאה" והלא אף בלילה היא לאה, דאין לומר שפירוש הכתוב שבבוקר ראה שהיא לאה, דאם כן לכתוב 'ויהי בבוקר ויאמר אל לבן מה זאת עשית' ותו לא, אלא ודאי הכי פירושו "והנה היא לאה" - בבקר, אבל בלילה לא היתה לאה, לפי שמסרה לה הסימנין, וקיימא לן דסימנין דאורייתא, והוי סימן מובהק, ולפיכך בלילה הרי היא רחל לענין דינא לסמוך עליו
+
+At night, על פי דין, she was Rachel and therefore she was only Leah in the morning but at night, it wasn’t Leah.  
  ## 5781
  ### You are where your mind is
 The Pasuk in the end of the Parshah says ויעקב הלך לדרכו ויפגעו בו מלאכי אלוקים. Rashi, quoting the Tanchuma, writes מלאכים של ארץ ישראל באו לקראתו ללוותו לארץ. This would seem to indicate that the Malachim went outside of Eretz Yisrael because Yaakov had not yet entered into Eretz Yisrael and the Malachim were already coming to greet him to escort him into Eretz Yisrael. The Ramban asks on Rashi how could this be because we know from the beginning of the Parshah, the Pasuk says והנה מלאכי אלוקים עולים וירדים בו and Rashi says מלאכים שליווהו בארץ אין יוצאים חוצה לארץ ועלו לרקיע וידרדו מלאכי חוצה לארץ ללוותו. So it’s clear that the Malachei Eretz Yisrael did not leave the land so how could Rashi write that the Malachim were greeting him if he had not yet entered Eretz Yisrael?
@@ -87,5 +157,7 @@ But it’s surprising because the Gemara in Bava Basra 123a seems to say exactly
 The Rashbam writes that מתנותיה ארוכות is referring to the greatness in that would come from her, the כהונה from לוי and the מלכות from Yehudah.
 The Maharsha points out that it would seem from the Gemara that the word רכות is really חסר א as the Pshat brought by the Ibn Ezra in the name of בן אפרים. Therefore it’s kind of surprising how the Ibn Ezra attacks the בן אפרים so sharply if it’s a blatant Gemara. But the Maharsha goes on to explain that the Gemara is not expounding on the word רכות like the בן אפרים but rather the word רכות means greatness as follows: ונראה לפרש שנדרש לשון רכות הכתוב מלשון לא ריכא ולא בר ריכא דפרק השותפין שהוא מלשון גדולה וחשיבות שמתנותיה חשובות כהונה ולויה ומלכות וק"ל.  The word ריכא which is a לשון of גדולה comes from the word “reich”. Therefore the claim of the Ibn Ezra against the בן אפרים is really a legitimate claim and it’s not that he is saying the same as the Gemara.
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/FS36bSHhdsM/0.jpg)](http://www.youtube.com/watch?v=FS36bSHhdsM "Video Title")
  ### Thursday Night Parsha Shiur 5781
   [![IMAGE ALT TEXT](http://img.youtube.com/vi/nz7AaC3cclc/0.jpg)](http://www.youtube.com/watch?v=nz7AaC3cclc "Video Title")
