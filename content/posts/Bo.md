@@ -1,6 +1,6 @@
 ---
 title: "Bo"
-date: 2021-01-21T11:30:03+00:00
+date: 2022-01-03T11:30:03+00:00
 weight: 1
 aliases: ["/Shemos"]
 tags: ["Bo"]
@@ -19,6 +19,52 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5782
+ ### Nachas Ruach from the struggle
+ The Parshah begins with Hashem telling Moshe בא אל פרעה and the reason is כי אני הכבדתי את לבו. It’s interesting that Moshe is being told to come to Pharaoh-כי-because Hashem hardened his heart. On the contrary, כי אני הכבדתי את לבו would be more of a reason for him not to go to Pharaoh. But it’s possible to translate the word כי as “even if” like is found in Parshas Ki Sisa 34:9 ילך נא אדני בקרבנו כי עם קשה ערף הוא וסלחת לעוננו ולחטאתנו ונחלתנו that כי there means even if. Therefore, Hashem was saying to Moshe come Pharaoh even though he is hardening his heart.
+
+Furthermore, The Zohar asks if Hashem is telling Moshe to go to Pharaoh, it would be more proper for the Pasuk to say לך אל פרעה so why does the Pasuk says בא?
+The Kotzker Rebbe once said that if it said לך instead of בא, then we wouldn’t have שובבי"ם. The Chidushei Harim said that everyone thinks that this is a מליצה, but it is really a real vort and that is what Shovavim is all about.  
+
+The Rav went on to elaborate on what the Chidushei Harim meant.
+
+The כי in the Pasuk could really mean “because” like the simple explanation of the Pasuk. But the emphasis of the Pasuk shouldn’t be on the הכבדתי את לבו rather it should be on the אני that I Hashem, was הכבדתי את לבו. Hashem was telling him to not be overwhelmed by his hardening of heart and not to despair and be discouraged even though he wasn’t making any progress. Because it’s all Hashem who is hardening his heart and Moshe wasn’t being sent to deal with an outside power rather Hashem is there and present in that struggle. It’s true the Jews weren’t being released at that point but nevertheless Hashem wanted Moshe to go and warn Pharaoh about the Makkos because it wasn’t about accomplishing the immediate goal of freeing the Jews from Mitzrayim. Rather it was למען שתי אתתי אלה בקרבו that they are creating the story. So the בא אל פרעה כי אני הכבדתי את לבו was Hashem inviting Moshe to talk to Pharaoh because Hashem was, as if to say, behind Pharaoh, meaning behind Pharaohs stubbornness. That is the בא and not the לך because Hashem was saying come here and that is where Hashem is! Whatever nisayon that you may encounter in life, I am there because Hashem is present on both sides and Hashem is in our struggle.
+
+This is the message of שובו בנים שובבים being understood in the בא אל פרעה. Even when a person doesn’t succeed in conquering his own stubbornness and winning the battle, the Ribbono Shel Oilam derives a nachas ruach from the struggle itself. Therefore, a person shouldn’t be discouraged rather he should bounce back and try again because the Ribbono Shel Oilam enjoys the ongoing struggle. This is what Hashem was wanting from Moshe as the Pasuk says ולמען תספר באזני בנך ובן בנך את אשר התעללתי במצרים, that Hashem played the game on him and Hashem wants a person to be מתעלל with his Yetzer Hara. This is a person’s mission and therefore he should not give up when he fails time and time again because every try and effort makes a difference and changes the world!
+
+On this idea, the Chozeh M’Lublin would say over the following Mashal. There once was a poor and disheveled peasant who would play his violin on the street. While he played, if a string would pop off, he would tie it this way and that way and improvise and continue playing. One day, the king passed by this peasant and he listened to the beautiful music and watched everything that the peasant was doing and how he fixed things and improvised to keep playing. The king decided that he wanted this person to play the violin for him in the palace. So they took him, gave him a haircut, a shower, a fresh pair of clothing, and a new violin. When he was brought in front of the king and began to play, the king made a face that he was unsatisfied with what he was hearing. The king realized that he had hundreds of the finest musicians and well-dressed people who could play for him. What he appreciated in this peasant playing on the street in his rags and broken violin is the constant effort, improvising, and never giving up.
+ ### The Sight of Food
+By the Makkah of Arbeh, the Pasuk says וכסה את עין הארץ ולא יוכל לראת את הארץ (י,ה). Rashi writes הרואה לראות את הארץ, ולשון קצרה דבר that the Pasuk was speaking בלשון קצר because it left out “who” will be unable to see the land. So Rashi adds הרואה, that the “seer” won’t be able to see the land.
+
+But the Keli Yakar offers another explanation and he writes the following:
+
+ואומר אני, שמהידוע שכל סומים אוכלים ואינן שבעים כך ארבה זה על ידי שריבוים גורם שתחשך הארץ גם הארבה אינו יכול לראות מה שהוא אוכל והרי הוא אוכל כסומא בארובה ולא ישבע ועל כן יאכל את כל אשר בשדה, ועוד לא ישבע עד שיכנס מן השדה גם אל הבתים ומלאו בתיך וגו', וזה שאמר ולא יוכל לראות היינו הארבה שהזכיר לפנים לא יוכל לראות הארץ, ועל ידי שלא יראה הארבה את הארץ יאכל את הכל ולא ישבע עד אשר יבקש אחר כך גם אשר בבתים
+
+The Keli Yakar explains that just like a blind person eats but isn’t fully satisfied because part of the enjoyment of seeing what you are eating, so too the Arbeh didn’t get satisfied because they couldn’t see what they were eating. The large amounts of Arbeh which caused the land to be dark and unable to be seen caused that the Arbeh couldn’t see what they were eating and therefore couldn’t be satisfied. Because of this, the Arbeh continued to eat everything because they weren’t able to be satisfied. According to this, the לא יוכל לראת את הארץ was going on the Arbeh and the significance of it was that it was the reason why the Arbeh continued eating until they consumed everything.
+
+According to this, it could be understood what the Jews complained about the מן when they said ועתה נפשנו יבשה אין כל בלתי אל המן עינינו (בהעלותך יא:ו). They were saying with our eyes we only see מן and the taste that we taste in the מן can’t be seen with our eyes and therefore we don’t have a full appreciation for the all the tastes because their eyes only see it as מן.
+ ### Taking Reparations
+The Pasuk says דבר נא באזני העם וישאלו איש מאת רעהו ואשה מאת רעותה כלי כסף וכלי זהב. Hashem tells Moshe to ask the Jews to request from the Mitzriim gold and silver. Rashi writes אין נא אלא לשון בקשה, בבקשה ממך הזהירם על כך שלא יאמר אותו צדיק אברהם (בראשית טו יג) ועבדום וענו אותם קיים בהם, (שם יד) ואחרי כן יצאו ברכוש גדול לא קיים בהם. It was probably a difficult thing for the Jews to ask the Mitzriim for these things. The Mitzriim enslaved them for hundreds of years and killed their children and some gold and silver probably wasn’t a sufficient replacement for everything they endured by the hand of the Mitzriim. Also, it could be the Jews wanted to move on and put those experiences behind them so they therefore wouldn’t want to have anything from the Mitzriim.
+
+Similarly, in the 1950’s, there was much debate as to whether or not the Jews who survived the Holocaust should take reparations from the Germans. People were against it because by taking money from them, it gave the impression that they were forgiving them for all the atrocities that they did to the Jews. Reb Shlomo Lorincz asked this question to the Chazon Ish and he told him to come back in a few days because he needed to think about it. A few days later, he came back to the Chazon Ish and the Chazon Ish answered him that he didn’t know the answer to whether or not the Jews should take the money from the Germans!
+
+People like everything to be black and white and yes and no. It is hard to live in the gray area. However, the Pasuk in Parshas Ki Seitzei 23:8 says לא תתעב מצרי כי גר היית בארצו and Rashi writes מכל וכל אף על פי שזרקו זכוריכם ליאור מה טעם שהיו לכם אכסניא בשעת הדחק. Rashi writes even though a Jew might feel he has a right to act a certain way because of how he was treated, שזרקו זכוריכם ליאור, nevertheless he should not and the reason why Jews have to accept a Mitzri is because they were our hosts. So we see that things are not black and white and we have to be able to live in the gray area.
+ ### Spiritual רכוש גדול
+On the Pasuk דבר נא באזני העם וישאלו איש מאת רעהו, Rashi writes בבקשה ממך הזהירם על כך שלא יאמר אותו צדיק אברהם (בראשית טו יג) ועבדום וענו אותם קיים בהם, (שם יד) ואחרי כן יצאו ברכוש גדול לא קיים בהם. The רכוש גדול wasn’t only in the material sense but also in the spiritual sense. The Arizal says the yidden took the ניצוצות של קדושה-holy sparks out of Mitzrayim.
+
+One could ask that even if Avraham Avinu wouldn’t raise such a claim on behalf of his descendants, nevertheless Hashem would have to keep to his promise of ואחרי כן יצאו ברכוש גדול. So what exactly was the claim of Avraham Avinu?
+
+The Rav said in the name of his father, Reb Avraham Weinfeld the following answer. When it was time for the Jews to get the רכוש גדול, Hashem could have said that the promise was made to Jews as Jews should be. But once they fell to the low level ofהללו עובדי עבודה זרה והללו עובדי עבודה זרה, they are not worthy of the רכוש גדול. So Avraham Avinu said ועבדום וענו אותם קיים בהם that they were good enough Jews for the pain, torture, and the suffering but for the רכוש גדול they weren’t good enough Jews? That is the meaning of קיים בהם that with these Jews Hashem was מקיים the ועבדום וענו אותם and therefore with these Jews Hashem should be מקיים the יצאו ברכוש גדול.   
+
+An additional point could be, based on the Arizal quoted above, that Hakadosh Baruch Hu would be מקיים the ואחרי כן יצאו ברכוש גדול with the higher level yidden with ruchniyus רכוש גדול. But the claim of Avraham Avinu would be should the lower grade Jews who have no appreciation for the spiritual רכוש גדול lose out on the reward? They also suffered - ועבדום וענו אותם קיים בהם and since they also suffered, the רכוש גדול needs to be in the physical material sense as well.
+
+But this spiritual רכוש גדול could be understood as follows. In today’s world, people that were treated poorly either have a sense of entitlement because of the way they were treated or they want others to be treated poorly so they should have the same experience they did. However, that is not the Jewish approach. The Pasuk in Parshas Mishpatim 22:20 says וגר לא תונה ולא תלחצנו כי גרים הייתם בארץ מצרים. We are commanded not to taunt or oppress גרים because we were גרים in Mitzrayim. The idea is that we as Jews don’t have a sense of entitlement nor wish bad upon others because of the experiences we had. On the contrary, we try to make sure that no one else should ever experience the harsh circumstances that we endured. This was a sensitivity that the Jews developed in Mitzrayim, the רכוש גדול in the spiritual sense.
+
+This could be an explanation for what we say in the הגדה של פסח when we say הא לחמא עניא דאכלו אבהתנא בארעא דמצרים כל דכפין ייתי ויכל כל דצריך ייתי ויפסח. The connection between these two statements is that when we look at the bread of affliction, instead of telling ourselves therefore everyone owes us for our suffering or therefore we should spoil ourselves, we actually remember how we suffered and we make a commitment that we are going to make sure no one else suffers like we suffered. Therefore we say כל דכפין ייתי ויכל. This is also part of the רכוש גדול that we took out of Mitzrayim that we take out from our suffering the sensitivity and empathy for other people’s suffering and we commit to make sure that we will do whatever we can to make sure other people don’t suffer.     
+ ### Teffilin in the Midbar
+At the end of the Parshah, it discusses the Mitzvah of Teffilin. On the words ולטוטפת בין עיניך, Rashi writes תפילין, ועל שם שהם ארבעה בתים קורין טוטפות. However, in Parshas VaEschanan, Rashi writes והיו לטטפת בין עיניך - אלו תפילין שבראש ועל שם מנין פרשיותיהם נקראו טטפת. Why does Rashi write in Bo that טוטפות is because of ארבעה בתים but in VaEschana Rashi writes that טוטפות is because of the ארבעה פרשיות?
+
+It could be because by Parshas Bo, the Jews only had the first two Parshiyos in the Teffilin and the latter two only came later. Therefore, the Jews in the Midbar wore Teffilin with ארבעה בתים but only two Parshiyos. The topic regarding what Teffilin the Jews wore in the Midbar is discussed at length elsewhere, in the מיוחס להרשב"א on Masechta Menachos.
  ## 5781
  ### Yartzeit of Reb Avraham Weinfeld
 This week will be the Yahrzeit of the Rav’s father, Reb Avraham Weinfeld, on the 15th of Shevat. He was born in 1930, came to the United States in 1947 on the 15th of Shevat and passed away in 1987.
@@ -93,7 +139,9 @@ The Christian wanted to prove to the Rashba that Mashiach already came because t
 
 The Rav once heard that the Pasuk says (יב,יג)  והיה הדם לכם לאת על הבתים which means that they were to put the blood on the doorposts as a sign as to which house was a Jewish house and which was a Mitzri house, meaning the blood was a sign for the house. But על דרך צחות, when it says והיה הדם לכם לאת, it’s referring to the מכת דם which was the אות האחרון after the first two מופתים of the נחש and the צרעת, that it’s an אות על הבתים because it proves that in the Pasuk גדול יהיה כבוד הבית הזה האחרון מן הראשון that the בית שני is not the last בית and there will be another!
  ## Videos
- ### Video: Thursday Night Parsha Shiur
+ ### Video: Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/8WCl0UCG1F8/0.jpg)](http://www.youtube.com/watch?v=8WCl0UCG1F8 "Video Title")
+ ### Video: Thursday Night Parsha Shiur 5781
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Hvs3AXl6-ds/0.jpg)](http://www.youtube.com/watch?v=Hvs3AXl6-ds "Video Title")
  ### Video: Thinking Positive 5772
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/EXu2PeW6KlE/0.jpg)](http://www.youtube.com/watch?v=EXu2PeW6KlE "Video Title")

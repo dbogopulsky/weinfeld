@@ -1,6 +1,6 @@
 ---
 title: "Pesach"
-date: 2021-03-24T11:30:03+00:00
+date: 2022-04-07T11:30:03+00:00
 weight: 1
 aliases: ["/Pesach"]
 tags: ["Pesach"]
@@ -20,9 +20,13 @@ cover:
 comments: false
 ---
  ## Videos
+ ### Shiras HaYam 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/iy4Tx73gU2w/0.jpg)](http://www.youtube.com/watch?v=iy4Tx73gU2w "Video Title")
+ ### Sippur Yetzias Mitzrayim 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/TOY62dzA12I/0.jpg)](http://www.youtube.com/watch?v=TOY62dzA12I "Video Title")
  ### Krias Yam Suf 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/15DIBr6bR0w/0.jpg)](http://www.youtube.com/watch?v=15DIBr6bR0w "Video Title")
- ### Inyanei Haggadah
+ ### Inyanei Haggadah 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/XgOlNCiv27A/0.jpg)](http://www.youtube.com/watch?v=XgOlNCiv27A "Video Title")
  ### The Order on the Seder Night 5772
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/QXTcJc8KlMU/0.jpg)](http://www.youtube.com/watch?v=QXTcJc8KlMU "Video Title")

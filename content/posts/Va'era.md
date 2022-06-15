@@ -1,6 +1,6 @@
 ---
 title: "Va'era"
-date: 2021-01-18T11:30:03+00:00
+date: 2021-12-29T11:30:03+00:00
 weight: 1
 aliases: ["/Va'era"]
 tags: ["Va'era"]
@@ -19,6 +19,110 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5782
+ ### Humble Beginnings
+The Parshah begins with a discussion between Moshe and Hashem. Hashem tells Moshe to go to Pharaoh and tell him to let the Jews go and Moshe responds that the Jews have not listened and certainly Pharaoh won’t either. In the middle of this dialogue, the Torah deviates and begins talking about the lineage of the Shevatim beginning with Reuven going down to Moshe and Aharon from Levi. Regarding why the Torah needed to do this, Rashi writes on the Pasuk אלה ראשי בית אבתם
+that מתוך שהוזקק ליחס שבטו של לוי עד משה ואהרן, בשביל משה ואהרן התחיל ליחסם דרך תולדותם מראובן. But the question still remains. Why did the Torah need to tell us the lineage of Moshe and Aharon? It was already clear from the previous Parshah that they were the descendent of Levi so why now does the Torah need to spell the lineage of Moshe and Aharon?
+
+An answer could be because Moshe and Aharon were now becoming the leaders of the Jewish people. They were being tasked with taking the Jews out of Mitzrayim. Such people might be perceived as super human and larger than life individuals. Therefore, the Torah specifically reiterated their lineage to show that they come from people just like everyone else. Not only that, but they come from Levi, the third born. Furthermore, Moshe and Aharon come from Kehas, the second child of Levi, not even the firstborn of Levi. It could be all these details were to express the point that as great as Moshe and Aharon were, they came from the same people as everyone else.
+ ### Balance between Concealing and Revealing
+The Parshah begins אל אברהם אל יצחק ואל יעקב באל שדי ושמי ה' לא נודעתי להם. Hashem tells Moshe that he appeared to Avraham, Yitzchak, and Yaakov as קל שקי but not with the Shem Havayeh. A few Psukim later, on Pasuk ט, Rashi writes the following:
+
+ורבותינו דרשוהו לענין של מעלה, שאמר משה (לעיל ה כב) למה הרעותה אמר לו הקדוש ברוך הוא חבל על דאבדין ולא משתכחין. יש לי להתאונן על מיתת האבות, הרבה פעמים נגליתי אליהם באל שדי ולא אמרו לי מה שמך, ואתה אמרת (לעיל ג יג) מה שמו מה אומר אליהם.
+
+Hashem is saying that he revealed himself with the name קל שקי to the Avos and they didn’t dig deeper and ask מה שמך. But Moshe, asked מה שמו. What is the meaning behind this that the Avos never asked for more than the revelation of קל שקי and now Moshe in the name of the Jewish people are asking for a revelation beyond the name of קל שקי?
+
+Furthermore, on the word וארא Rashi says אל האבות. What is Rashi coming to explain?
+
+The Sifsei Chachamim tries to explain that Rashi was writing אל האבות as opposed to אל אברהם אל יצחק ואל יעקב, which is said in the Pasuk, because he writes בלשון קצר.
+
+But the question is that Rashi usually explains and elaborates on what the Pasuk says so if the Pasuk already spelled out אל אברהם אל יצחק ואל יעקב, then why does Rashi feel the need to shorten that? More so, the Pasuk doesn’t need any explanation because it says אל אברהם אל יצחק ואל יעקב so what is Rashi coming to do? It could be that Rashi is explaining that it’s specifically because they were the אבות, the founding/finding fathers of the Jewish people, that Hashem didn’t over reveal himself to them. Hashem kept himself concealed without revealing himself with the Shem Havayeh in order that the Avos, with their own effort, should be able to find him in spite of the concealment.  
+
+The name of Hashem, שקי, appears in Parshas Mikeitz and Parshas Lech Lecha. In Parshas Mikeitz, it appears in the context of Yaakov allowing the brothers to take Binyamin down to Mitzrayim at the request of Yosef. Before the brothers go down to Mitzrayim, Yaakov says ואל שדי יתן לכם רחמים (מג,יד). Explaining the word שקי, Rashi writes ומדרשו מי שאמר לעולם די יאמר די לצרותי, שלא שקטתי מנעורי, צרת לבן, צרת עשו, צרת רחל, צרת דינה, צרת יוסף, צרת שמעון, צרת בנימין. Meaning, the one who said “enough” to the world (Hashem) should say enough to my (Yaakov’s) troubles.
+
+What is the meaning of מי שאמר לעולם די? The Medrash Tanchuma there explains, at length, that when Hashem created the world, it was expanding and not stopping until Hashem said די-“enough” and it stopped. But a deeper meaning is that the word עולם comes from the word העלם-hidden. The idea is that Hakadosh Boruch Hu created a world where he conceals himself. If he wouldn’t be concealed and his presence would be obvious, then man wouldn’t have a בחירה. However, if there would be too much concealment of Hashem, then people would never find him and be able to recognize him. Therefore, מי שאמר לעולם די is that Hashem created a world with just enough, די, concealment that he could be found by those who seek him and still leaving man with בחירה.
+
+This idea could be found in the Sefer מאור ושמש written by the early Chassidic master Reb Kalonymus Kalman Halevi Epstein (1753-1825) in Parshas Vaeschanan:
+
+ונראה דקב"ה ברא כל עלמין היה רצונו הפשוט רק להיטיב לברואיו אך שרצונו היה להטיב להם ע"י שיעשו שעשועין לפניו ית"ש לכן צימצם אלהותו ית"ש מעילה לעילה עד שברא עולם הגשמיי הזה ונתן לפניהם את הרע ואת הטוב כדי שיבחור אדם בחיים ע"י שימשול ביוצרו וימאוס ברע ויבחור בטוב ואין שום דבר שלא יהיה בו פנימיות אלהותו ממש ואף בזה העולם מאיר פנימיות אלהותו רק שהיא בהעלם מאד לכן יכול האדם לנטות א"ע לאיזה דרך שיבחר ואם האדם נתפס חלילה באיזה עבירה יכול להזכיר א"ע לחזור בתשובה לפניו מחמת פנימיות אלהותו שמאיר בזה העולם והבין הקב"ה בחכמתו אם יצמצם אלהותו יותר יתגשם העולם יותר ויהיה בלתי אפשרי שהאדם יוכל לנטות את עצמו לדרך הטוב לעשות רצונו ית"ש ולא יוכל לקבל הטובות מאת המקום ב"ה ועיקר כוונת הבריאה הי' כדי להשפיע להם טובה לכן אמר לעולמו די
+
+Therefore, when Yaakov said to his children מי שאמר לעולם די יאמר די לצרותי, he was expressing that up until this point in his life, he was able to live with the concealment of Hashem. Meaning he was still able to recognize Hashems Chessed and grace in the suffering of his personal life and difficult experiences and was therefore still able to grow and see through the cloud of his personal difficulties. However, now with the potential loss of Binyamin, it was too much and he felt that additional יסורים will not help him grow because he will not be able to see through the cloud of difficulty. That was the meaning behind מי שאמר לעולם די יאמר די לצרותי that just like Hashem said די to the העלם in the world because anymore would make it too difficult for people to find him, so to Yaakov was saying יאמר די לצרותי because the העלם in his personal life was too much for him to endure.
+
+This idea can be found in the Sfas Emes in Parshas Vayigash (תרל"ט). Yehuda says to Yosef והיה כראותו כי אין הנער ומת that Yaakov won’t be able to live if Binyamin is lost. The Sfas Emes writes the following:
+
+וקשה מנ"ל ליהודה שימות כשיראה שאין הנער. ונראה שלמד זה ממ"ש להם יעקב אע"ה ואל שדי יתן לכם רחמים ופרש"י מי שאמר לעולמו די יאמר די לצרותי. ויעקב אע"ה לא הי' אומר כן לולי שידע כי בנפשו הוא ואבות הקדושים מסרו נפשם בעבור תולדותיהם. וידעו כי כל העובר עליהם הוא בעבור דורות העתידים לבוא. ומה"ט לא קשה למה לא הודיע יוסף לאביו. וכמו שלא גילה יצחק ליעקב. אם כי גדלה רחמי האב על הבן יותר מבן על האב. רק כולם למדו מהבורא ית' כיון שהעלים הוא ית' ממנו ידעו שלטובתו הוא. ורק כשהגיע עד מיצוי הנפש ממש כמ"ש חז"ל ע"פ ואל שדי כו' ע"ש. לכן ידע יהודה כי בראותו כי אין הנער ומת. ולכן כיון ששמע יוסף כן הוכרח לגלות להם האמת כי ידע שהגיע העת לגלות להם כנ"ל:
+
+In Parshas Lech Lecha, the name שקי appears in the context of Milah. The Pasuk says וירא ה' אל אברם ויאמר אליו אני אל שדי התהלך לפני והיה תמים (יז,א). Rashi writesאני הוא שיש די באלהותי לכל בריה. According to this, the meaning of שדי is that Hashem has sufficient power to give whatever is necessary.
+
+According to the above two understandings, the word שדי has two meanings, just like the word די could have two meanings, depending of the context. It could either mean “enough” in the sense of sufficient and it could also mean “enough” in the context of not wanting more. These two meanings of the name שדי are the balance of Hashem’s perfect amount of concealment and revelation in the world.
+
+To answer the original question, when Hashem challenged Moshe by saying וארא אל אברהם אל יצחק ואל יעקב באל שדי ושמי ה' לא נודעתי להם, he was saying that to the Avos, he was able to have this balance of שקי- to be revealed with the שם שקי- the perfect balance of concealed and revealed in the world so that they were able to find and recognize him and still retain having בחירה, all without having to reveal himself with the Shem Havayeh. But Moshe, on behalf of Klal Yisrael, was questioning Hashems ways by saying למה הרעתה לעם הזה, meaning they weren’t able to live with the balance of שקי because it was too much concealment and therefore going forward it would be אני יקוק with the Shem Havayeh and not the שם of שקי. Moshe was saying on behalf of Klal Yisrael that at this point, they were too weak to live only with the revelation of the שם שקי and needed more revelation-the Shem Havayeh, in order to connect with the Ribbono Shel Oilam.
+ ### Hearing The Groan
+The Pasuk says וגם אני שמעתי את נאקת בני ישראל אשר מצרים מעבדים אתם ואזכר את בריתי. The simple understanding of this Pasuk is difficult because the beginning and end don’t seem to go together. If Hashem also is שמעתי את נאקת בני ישראל, then that should be the reason for Hashem to take the Jews out of Mitzrayim and not because ואזכר את בריתי. And if Hashem is ואזכר את בריתי, then the fact that there is a bond and covenant between Hashem and the Jews, that alone should be the reason why he should take the Jews out of Mitzrayim even if he wasn’t שמעתי את נאקת בני ישראל.
+
+על דרך דרוש, one way to understand this Pasuk is to read it slightly different. Hakadosh Boruch Hu was responding to Moshe saying that you aren’t the only one that hears the groans of Klal Yisrael, but I also do- וגם אני שמעתי את נאקת בני ישראל. And not only do I also hear the נאקת בני ישראל but I also remember the covenant ואזכר את בריתי.
+
+Another explanation is that Hashem was saying to Moshe, now that other Jews (Moshe) are hearing the נאקת בני ישראל, so then וגם אני שמעתי את נאקת בני ישראל. If Yidden listen to other Yidden when they are in distress and pain, then Hakadosh Boruch Hu will also listen.
+ ### Small Challenges are the Greater Challenge
+The Pasuk says וגם הקמתי את בריתי אתם לתת להם את ארץ כנען את ארץ מגריהם אשר גרו בה. On Pasuk ט, Rashi explains וגם הקמתי as follows:
+
+וכשבקש אברהם לקבור את שרה לא מצא קבר עד שקנה בדמים מרובים, וכן ביצחק ערערו עליו על הבארות אשר חפר, וכן ביעקב (בראשית לג יט) ויקן את חלקת השדה, לנטות אהלו, ולא הרהרו אחר מדותי, ואתה אמרת (ה כב) למה הרעותה.      
+
+When contrasting how Avraham wasn’t מהרהר אחר מדות הקב"ה as opposed to Moshe Rabbeinu, Rashi chooses the incident of haggling with Efron to buy a plot to burry Sarah even though Hashem had promised Avraham Eretz Yisrael. The obvious question is that the נסיון of the Akeidah would be a much better choice to express how Avraham wasn’t מהרהר אחר מדות הקב"ה because Hashem told him כי ביצחק יקרא לך זרע and now he is telling him to kill his only son. And yet, Rashi chose to bring the Nisayon of buying מערתת המכפילה from Efron when Hashem has promised him the land.
+
+Furthermore, in the end of Parshas Shemos, the Pasuk says ויאמר ה' אל משה עתה תראה and Rashi writes הרהרת על מדותי, לא כאברהם שאמרתי לו כי ביצחק יקרא לך זרע, ואחר כך אמרתי לו העלהו לעולה, ולא הרהר אחרי, לפיכך עתה תראה. So why now in Parshas Va’era does Rashi leave out the Akeidah and choose the Nisayon of buying מערתת המכפילה from Efron?
+
+An explanation to the second question could be that in the end of Shemos, Rashi was explaining the עונש that Moshe was getting that עתה תראה but not in the future. Chazal explain the חטא was the fact that Moshe was מהרהר אחר מידותיו by asking למה הרעותה, and therefore came the punishment of עתה תראה. So when Chazal choose the quintessential example to express how Avraham wasn’t מהרהר אחר מידותיו, the Akeidah is the most obvious Nisayon. However, in Parshas Va’era, Rashi is explaining specifically on the Pasuk וגם הקמתי את בריתי אתם לתת להם את ארץ כנען, that the רבותינו were דורש that even though the Avos never saw the הבטחות of getting Eretz Yisrael come into fruition, they nevertheless were not מהרהר אחר מידותיו as opposed to Moshe who said למה הרעותה. Because the וגם הקמתי את בריתי was specifically going on the concept of ירושת הארץ, therefore when giving an example of how the Avos were not מהרהר אחר מידותיו, it’s specifically regarding ירושת הארץ.
+
+But the first question still remains that when Hashem wanted to rebuke Moshe by contrasting him to Avraham Avinu that Avraham wasn’t מהרהר אחר מידותיו as opposed to Moshe who said למה הרעותה, why would the example be the Nisayon of buying מערתת המכפילה from Efron when Hashem has promised him the land and not the Nisayon of the Akeidah?
+
+Furthermore, according to Rabbeinu Yonah, the final and therefore most challenging of the עשר נסיונות was burying Sarah. How could the difficulty of burying Sarah even be considered a Nisayon if we are talking about a person who just passed the Nisayon of the Akeidah and not only is it nevertheless considered a Nisayon but it’s considered the greatest of Nisyonos?
+
+The Pasuk says ואהבת את ה' אלהיך בכל לבבך ובכל נפשך ובכל מאדך. On ובכל מאדך, Rashi writes a first explanation בכל ממונך יש לך אדם שממונו חביב עליו מגופו לכך נאמר ובכל מאדך. Meaning, even though a person would be willing to give up his life for Hashem, he wouldn’t necessarily give up his money for Hashem because his money is more חביב to him then he life. Therefore, after the Pasuk says ובכל נפשך, it still needs to add ובכל מאדך.   
+
+But Rashi writes a second explanation דבר אחר ובכל מאדך בכל מדה ומדה שמודד לך בין במדה טובה בין במדת פורענות. According to this explanation, it’s difficult to understand what is being added after the Pasuk already said ובכל נפשך because if a person has such an intense love for Hashem that he is willing to give up his life for Hashem, then certainly he’ll be able to withstand a test of מדה פורענות because the greatest of the פורענות is dying. Therefore, what is being added with ובכל מאדך according to the second explanation of Rashi?
+
+The answer to these questions is when a person is challenged with big and dramatic things, he can push himself to newer heights. The drama and excitement could keep him going. However, when a person deals with the simple day to day events, very often those can be more challenging for a person. The Nisayon being that he needed to buy it for a large sum of money even though Hashem had promised him the land. This Nisayon was following the Nisayon of the Akeidah. One would think that once Avraham passed the Nisayon of the Akeidah, this small difficulty of buying the land wouldn’t be so challenging and nevertheless we see it is an even greater Nisayon. The reason is because when a person is busy with his daily affairs, he can sometimes be caught off guard. The ability to move forward in the daily grind and not lose that excitement and drive is the challenge. Being able to stay on guard, alert, alive, and involved when things aren’t dramatic sometimes a greater challenge. Therefore, when the things happening are really big, the effort to stay on guard, be alert and alive is actually small and minimal as opposed to when small things are happening, then it requires more effort to stay on guard, alert, alive, and be involved and shows more about the person.   
+ ### Current Events
+(The following was said by the Rav at the end of the drashah about the recent events that came to light)
+
+Really Shabbos is a holy day, a יום מנוחה וקדושה, and it feels even more awkward to discuss the matter about to be discussed on Shabbos than during the week. But the Gemara in Shabbos 150b says הולכין לבתי כנסיות לפקח על עסקי רבים בשבת and is brought down in שו"ע או"ח ס' שו meaning that we have to look after and deal with the צרכי ציבור even on Shabbos. So since there has been a lot of turmoil this week, I feel that it needs to be addressed.  
+
+Also, the following was said by Reb Ahron Kotler in Mishnas Reb Ahron מאמרים ושיחות מוסר חלק ג titled קדושת ישראל (דף קנז) regarding the importance of speaking about these ideas in a public fashion.
+
+ומקום פה עמדי לעורר על ענין מכאיב ומבהיל שטועים בו רבים. כי למרות כל מה שנתבאר לעיל בגודל ענין הפצת קיום מצוה זו בכל ישראל, יש רבים הנמנעים מלדבר בזה מטעמי צניעות. שומו שמים! בודר פרוץ וירוד בכל הענינים, בהלבשה, במרחצאות, ובריקודים וכו' בריש גלי ולא יתבוששו, ולדבר בעניני קדושה וצניעות זהו נגד הצניעות! היש לך הטעיית היצר גדולה מזו. וחיוב מוחלט הוא לדבר בזה בפרהסיא בין מהבימה בין בשיעורים לחבורות ועם יחידים בכל מיני הסברה.
+
+The velt says that we say ואפילו כולנו חכמים כולנו נבונים כולנו יודעים את התורה, but a little bit of שכל-common sense, doesn’t hurt either. People could be חכמים, נבונים, and יודעים את התורה, but a little bit of common sense doesn’t hurt. Unfortunately, sometimes we disregard the obvious and we have to put the obvious on the table.
+
+I am talking from the point of a simple Jew which is a great advantage in this context. The Gemara in Baba Kama 52a says כדדרש ההוא גלילאה עליה דרב חסדא: כד רגיז רעיא על ענא, עביד לנגדא סמותא. When the shepherd gets angry at his sheep, he puts a blind sheep as the leading sheep in front of the rest and that blind sheep leads the rest into the wrong places and Rashi explains so to כשהמקום נפרע משונאי ישראל ממנה להן פרנסים שאינן מהוגנין. Sometimes, Chas Vshalom, Hakadosh Boruch Hu curses Klal Yisrael by blinding their leaders as the Pasuk in Yeshayahu 29:14 says ואבדה חכמת חכמיו ובינת נבניו תסתתר and as the Gemara in Gittin 66b says that at the time of the Churban Hamikdash, the Yidden experienced that which it says in Yeshayahu 44:25משיב חכמים אחור ודעתם ישכל. But since I am not in a position of leadership, nor am I a חכם, therefore maybe I have an advantage to be able to see this as is and the people who are so great and in a position of leadership lack the common sense to see this situation as is and press all the wrong buttons.
+
+So with a bit of common sense, it’s obvious to assume that if a person, especially someone who was most connected and who had the backing of many people, had any chance to prove his innocence, he would do so. He has the money to hire the best lawyers in the country and he would do so and sue the newspapers that reported these reports and prove his innocence. There was no reason for him to panic and take his own life. The fact that he chose to end his life seems to point to the direction of guilty. And on top of that, he decided to commit suicide in the most dramatic way possible, by his son’s grave. It was just to dig in the dagger in to his victims and somehow make them feel bad for him that he took his own life and to try to elicit some empathy. His suicide note shows no remorse and regret for what he did, and just blaming others and we handed him on a silver platter everything that he wanted, a nice levya with hespeidim.   
+
+We know that someone who commits suicide is not allowed to be buried in the cemetery rather he must be buried מאחורי הגדר. Today, we are lenient when a person is not well. But this individual was totally well and there was nothing wrong with him. For such a person, there are no הספדים and no sitting shivah.
+
+But the way our society dealt with this is a failure of the highest order. There is Rachmanus on the family but there is no Rachmanus on him. Chazal say המרחם על האכזרי is a אכזר. By having Rachmanus on אכזרים, you are promoting and encouraging אכזריות because it allows the אכזר to function and continue being a אכזר. If someone did a crime during the times of the Beis Hamikdash which needed to be punished by death, we wouldn’t tell him not to go in order to protect his family. Therefore, that which what this person did and how it affects his family is on him and nobody else’s fault. We have to do what needs to be done.
+
+Regarding the issue of Lashon Hara, there is absolutely no issue of Lashon Hara rather itsהצלת הנרדף. It is an obligation to talk about it as the Rambam says in Hilchos Deos 6:8 that someone who you were מוכיח בסתר but didn’t change his ways, there is a Mitzvah to embarrass him and be מפרסם his חטא ברבים.
+
+ואף על פי שהמכלים את חבירו אינו לוקה עליו עון גדול הוא, כך אמרו חכמים המלבין פני חבירו ברבים אין לו חלק לעולם הבא, לפיכך צריך אדם להזהר שלא לבייש חבירו ברבים בין קטן בין גדול, ולא יקרא לו בשם שהוא בוש ממנו, ולא יספר לפניו דבר שהוא בוש ממנו, במה דברים אמורים בדברים שבין אדם לחבירו, אבל בדברי שמים אם לא חזר בו בסתר מכלימין אותו ברבים ומפרסמים חטאו ומחרפים אותו בפניו ומבזין ומקללין אותו עד שיחזור למוטב כמו שעשו כל הנביאים בישראל.
+
+Additionally, in the Sefer Pischei Tshuvah written by ר' ישראל איסר איסערלין on שו"ע או"ח ס' קנו, he writes the following about Lashon Hara:
+
+וראיתי להזכיר פה ע"ד אשר כל הספרי מוסר הרעישו העולם על עון לה"ר ואנכי מרעיש העולם להיפך עון גדול מזה וגם הוא מצוי יותר והוא מניעת עצמו מלדבר במקום הנצרך להציל את העשוק מיד עושקו. דרך משל במי שראה באחד שהוא אורב על חבירו בערמה על הדרך במדבר להרגו או שראה חותר מחתרת בלילה בביתו או בחנותו היתכן שימנע מלהודיע לחבירו שיזהר ממנו משום איסור לשון הרע הלא עונו גדול מנשוא שעובר על לא תעמוד על דם רעיך וכן בענין ממון הוא בכלל השבת אבידה ועתה מה לי חותר מחתרת או שרואה וכו' וכן בעניני שידוך והוא יודע שהוא איש רע ובליעל ורע להתחתן עמו כולן בכלל השבת אבידת גופו וממונו ועתה איה לנו הגדר והגבול לומר עד פה תדבר ולא יותר והכלל בזה שהדבר מסור ללב אם כונתו לרעת האחד הוא לשון הרע אבל אם כוונתו לטובת השני להצילו ולשמרו הוא מצוה רבה.
+
+Also, on this point, the Sefer Chareidim 24:38 writes the following:
+
+לא תלך רכיל, וסמיך ליה לא תעמוד על דם רעך, פירש בספר מנחת יהודה בשם רבינו משה מקוצי, לא תלך ברכילות וכו' אבל אם שמעת אדם שאמר להרוג את חבירו אסור עליך להמנע מהיות רכיל מלהגיד לו וישמור נפשו ולא ימיתנו וכו' ע"ש.
+
+The Pasuk is saying לא תלך רכיל בעמך however לא תעמוד על דם רעך that when someone is in danger, then you have to tell them.
+
+Regarding reading his books, obviously there is no issur to read his books, but just like there is a מוקצה מחמת איסור, so too there is a מוקצה מחמת מיאוס. The most sensitive souls would feel totally uncomfortable to read books written by such a person. Especially for our children to read books written by such a person who committed such evil and despicable things, who would want to have such books in his house. There is no need to have a sif kattan in the Mishna Berurah to tell you what issur this falls under. Any normal healthy person wouldn’t want himself or his children to have anything to do with such a person.
+
+The silver lining for all of this is if we would mature to the point where we realize that the time has come to have programs for children in the schools, to teach the importance of protecting their bodies. Schools should have in their curriculum a method to deal with this. Additionally, there should be a call to all victims that they should report in order to at least minimize this phenomenon.
+
+It’s astounding to think that if this same person would change his allegiance and not line up hashkafically and begin writing for a different faction of Chareidi Judaism, he wouldn’t have had a minyan at his funeral and he would have been ostracized. But unfortunately, the reality is that as long as you belong to the right group, all else is forgiven. This comes to show how far we have strayed.
+
+Unfortunately, when such a thing happens, there is a tremendous breach of trust between people, children and educators. Because how could it be someone who wrote these books could do such despicable acts. But just too completely eliminate any remains of trust, the newspapers report that he died suddenly on the grave of his son. Basically, that is the newspaper announcing don’t trust anything we tell you and that we consider you stupid and we write whatever we decide is right to write. Because within the hour of what happened, every person and kid knew that he committed suicide and yet the newspaper still wrote that he died suddenly at the grave of his son. This episode and how it was dealt with and reported teaches us that you can’t trust anybody and that everybody is lying.  
  ## 5781
  ### Hashem as the maker or breaker of nature  
  וארא אל אברהם אל יצחק ואל יעקב באל שדי ושמי יקוק לא נודעתי להם
@@ -117,7 +221,9 @@ There was a great Gaon known as the Minsker Gadol and his name was Reb Yerucham 
 
 In a similar vein, the Ostrovtser Rebbe (Reb Meir Yechiel Halevi Halstock 1852-1928) who if one looks at his seforim could see what a genius, was once attending a gathering of Chassidish Rebbes. Each of them were saying over a vort from their father, the previous rebbes. But he, whose father was a baker, said over that his father used to say that fresh bread is better than stale bread.
  ## Videos
- ### Thursday Night Parsha Shiur
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/0YGrcUrsxuE/0.jpg)](http://www.youtube.com/watch?v=0YGrcUrsxuE "Video Title")
+ ### Thursday Night Parsha Shiur 5781
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/2CTf5f7zsLA/0.jpg)](http://www.youtube.com/watch?v=2CTf5f7zsLA "Video Title")
  ### 5772
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/nUCp5HDPknY/0.jpg)](http://www.youtube.com/watch?v=nUCp5HDPknY "Video Title")

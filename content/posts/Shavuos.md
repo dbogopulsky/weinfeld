@@ -1,6 +1,6 @@
 ---
 title: "Shavuos"
-date: 2020-05-29T11:30:03+00:00
+date: 2022-06-01T11:30:03+00:00
 weight: 1
 aliases: ["/shavuos"]
 tags: ["Shavuos"]
@@ -26,6 +26,8 @@ When אדם הראשון sinned and was punished, the ground was also punished b
 
 קבלת התורה was a תיקון for the חטא of אדם הראשון because the idea behind the sin was not wanting to take responsibility for ones actions, as we see from his response to Hashem האשה אשר נתתה עמדי הוא נתנה לי מן  העץ ואכל. However, when the Jews were מקבל the torah at הר סיני, it was an acceptance of responsibility that we understand that our actions have consequences and ramifications and we are willing to take אחריות for our actions. This idea is also reflected in the Zohar. The Zohar says that the זוהמא that came into the world by the חטא of אדם הראשון was פסק at הר סיני (temporarily) and it was a moment of אדם הראשון קודם החטא . Therefore we specifically put אילני סרק in shul on  שבועות because קבלת התורה was a תיקון for the חטא of אדם הראשון which also included the  חטא of the אדמה that it produced trees that didn’t have טעם פרי and trees that did not produce fruits. This also answers the second question because with the תיקון of for the חטא of the אדמה, trees will revert back to tasting like their פרי. Therefore we put trees in shuls even though עצרת has to do with fruits because with the תיקון, trees will be like the fruit itself.
  ## Videos
+ ### Thursday Night Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/sIdD4lx8Bxc/0.jpg)](http://www.youtube.com/watch?v=sIdD4lx8Bxc "Video Title")
  ### Thursday Night Shiur 1
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/yRw_KcYDGI8/0.jpg)](http://www.youtube.com/watch?v=yRw_KcYDGI8 "Video Title")
  ### Thursday Night Shiur 2

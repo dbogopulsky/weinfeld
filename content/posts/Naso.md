@@ -1,6 +1,6 @@
 ---
 title: "Naso"
-date: 2021-05-19T11:30:03+00:00
+date: 2022-05-31T11:30:03+00:00
 weight: 1
 aliases: ["/naso"]
 tags: ["Naso"]
@@ -165,6 +165,8 @@ However, the Rashash writes the following:
  ### כף אחת עשרה זהב
  If you don’t understand Yiddish it might not sound as good but the Pasuk say כף אחת עשרה זהב. A yid is עשרה because he is a yud. So with כף אחת, one כפיפה, one bending, a yid could become עשרה זהב.
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/gAtwVNUcP3U/0.jpg)](http://www.youtube.com/watch?v=gAtwVNUcP3U "Video Title")
  ### Thursday Night Parsha shiur
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/ycbiBIVGz9Y/0.jpg)](http://www.youtube.com/watch?v=ycbiBIVGz9Y "Video Title")
  ### Thursday Night Parsha Shiur

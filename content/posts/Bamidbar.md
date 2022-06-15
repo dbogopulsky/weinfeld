@@ -1,6 +1,6 @@
 ---
 title: "Bamidbar"
-date: 2021-05-12T11:30:03+00:00
+date: 2022-05-24T11:30:03+00:00
 weight: 1
 aliases: ["/Bamidbar"]
 tags: ["Bamidbar"]
@@ -117,5 +117,7 @@ The Gemara in Yevamos 77a has a discussion regarding if Dovid Hamelech was fit t
 
 So Shaul was saying to his son Yonason that if you weren’t בוחר בן ישי, then it’s as if to say that there isn’t anything wrong with women going out and it is דרכה של אישה לקדם and there was no issue with his mother seeking out Shaul and she wouldn’t be a נעות. But now that he was בוחר בן ישי saying that a descendent of a מואבית is כשר, so you (Yonason) are suggesting that it’s not the דרך for an אשה לקדם and that’s why there was no טענה on women from Moav, which was turning his mother into a נעות because now it was inappropriate that which Shauls wife went after him.
  ## Videos
- ### Video: Thursday Night Parsha Shiur
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/T6w1SdpZnK8/0.jpg)](http://www.youtube.com/watch?v=T6w1SdpZnK8 "Video Title")
+ ### Thursday Night Parsha Shiur 5781
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/CpOoW2tbWC4/0.jpg)](http://www.youtube.com/watch?v=CpOoW2tbWC4 "Video Title")

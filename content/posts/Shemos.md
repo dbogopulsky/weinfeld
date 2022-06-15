@@ -1,6 +1,6 @@
 ---
 title: "Shemos"
-date: 2021-01-11T11:30:03+00:00
+date: 2021-12-21T11:30:03+00:00
 weight: 1
 aliases: ["/Shemos"]
 tags: ["Shemos"]
@@ -19,6 +19,66 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5782
+ ### Importance of שנים מקרא ואחד תרגום
+ The Parshah begins ואלה שמות בני ישראל (א,א). The Levush in אורח חיים סימן רפה סע' א writes the following:
+
+חייבו חז"ל [ברכות ח ע"א] על כל אדם מישראל שישלים הפרשה בכל שבוע עם הציבור שנים מקרא ואחד תרגום, כדי שיהא בקי בתורה, וסימנך ואל"ה שמו"ת בני ישראל [שמות א, א], ו'חייב א'דם ל'קרות ה'פרשה, ש'נים מ'קרא ו'אחד ת'רגום, וזה חייבים כל בני ישראל.
+
+The obligation of שנים מקרא ואחד תרגום is in the Gemara Brachos 8a that says אמר רב הונא בר יהודה אמר רבי אמי: לעולם ישלים אדם פרשיותיו עם הצבור שנים מקרא ואחד תרגום. However the obvious question is why is this חיוב of שנים מקרא ואחד תרגום being hinted to specifically in the beginning of Sefer Shemos?
+
+Perhaps the explanation could be as follows. The Ramban writes in the beginning of Sefer Shemos that Sefer Breishis is known as the Sefer HaAvos and Sefer Shemos is known as the Sefer HaBanim. Sefer Breishis is mainly about the three Avos, the founding fathers of the Jewish People-the individuals-Avraham, Yitzchak, and Yaakov. But Sefer Shemos is about the multitude of children of Klal Yisrael and the rapid growth of the Jewish people- ובני ישראל פרו וישרצו וירבו ויעצמו במאד מאד ותמלא הארץ אתם.
+
+This is why this Sefer is called Shemos and the beginning Psukim discuss שמות בני ישראל because what naturally occurs when there is tremendous growth in population is that the individual is diminished, swallowed up, and not recognized. Therefore, it’s specifically at the beginning of the Sefer HaBanim that the Torah emphasizes the importance of שמות, the importance and recognition of each individual.
+
+It says in Tehillim 147:2-4
+
+בונה ירושלם ה' נדחי ישראל יכנס ,הרפא לשבורי לב ומחבש לעצבותם, מונה מספר לכוכבים לכלם שמות יקרא .
+
+The meaning of these Psukim is that Hashem is going to rebuild Yerushalayim, but not only in the physical sense but that it’ll be rebuilt and restored with Jews as the Pasuk says in Zechariah 8:4עד ישבו זקנים וזקנות ברחבות ירושלם and in Lecha Dodi it says קומי לבשי בגדי תפארתך עמי that we call on Yerushalayim to wear her בגדי תפארתך which is עמי. So the rebuilding of Yerushalayim is through the נדחי ישראל יכנס. But how do the נדחי ישראל come together? It’s only through the רפא לשבורי לב ומחבש לעצבותם because the נדחי ישראל are heartbroken because they don’t recognize their significance and they feel inconsequential and therefore they need healing in order for them to be redeemed. So therefore it continues and says מונה מספר לכוכבים לכלם שמות יקרא that in spite of the fact that there are so many כוכבים, nevertheless each one has a name, a mission, and a purpose. That is what the Ribbono Shel Oilam is saying that these people shouldn’t think and feel that they are just another person, another face, but that each of them as a unique name, mission, and purpose that only he could fulfill. This is how the שבורי לב are healed and that is how the נדחי ישראל will be brought back together.      
+
+This could be the meaning of what the the Gemara in Brachos 8a says לעולם ישלים אדם פרשיותיו עם הציבור. On the one hand the יחיד needs to be connected with the ציבור. But on the other hand, the individual must realize that the communal reading is not sufficient, but rather each person needs to complete פרשיותיו-“his” Parshiyos with the ציבור. Like it says in Avos 1:14 אם אין אני לי מי לי וכשאני לעצמי מה אני that it’s true וכשאני לעצמי מה אני that a person needs the ציבור. But first a person must know אם אין אני לי מי לי that he can’t rely on the ציבור. He must first have פרשיותיו-“his” Parshiyos and then it could be with the ציבור.    
+Therefore, it’s specifically at the beginning of the Sefer HaBanim where there is a concern of the individual getting lost that we hint to שנים מקרא ואחד תרגום which emphasizes the importance of the individual alongside the ציבור.
+
+The Zohar says that the Roshei Teivos of ישראל are יש ששים ריבוא אותיות לתורה that there are 600,000 letters in the Torah (not clear how to count it to get to that number because as we see it, there are much less) each letter corresponding to one of the 600,000 Jews. Each letter contributes to the kashrus of the Torah because if one letter is missing, the entire Torah is invalid. On the other hand, every letter has its own צורה and if any two letters are touching and each letter isn’t מוקף גויל, then the entire Torah is also invalid. We see that each letter needs to have its own individuality which contributes to the kedusha of the entire Sefer Torah.
+
+Additionally, there is the importance of ואחד תרגום because going into Galus is מחייב תרגום for the here and now. When going in to Galus, it’s now necessary for the Torah to be translated from לשון הקודש to ארמית, the language that could be understood by the people in Galus. Torah must be able to be understood by the people of the time and place. But being that Targum Onkeles is not only a translation but many times he offers an explanation, we see the necessity of Targum to make Torah applicable, accessible, and relevant to the people of that place and time. However, when making the message of Torah relevant, it’s important not in any way to deviate from the original meaning. Therefore there is an emphasis on the מקרא that it’s שנים מקרא and just אחד תרגום that the תרגום should not be treated as equal to the מקרא rather there should always be more מקרא.     
+
+Lastly, the Gemara in Pesachim 87b לא הגלה הקדוש ברוך הוא את ישראל לבין האומות אלא כדי שיתוספו עליהם גרים. The purpose of Galus is to get גרים and included in these גרים in Galus was אונקלוס הגר. Therefore, we see a connection between Targum and the idea of Galus.
+ ### Failure to learn from Yosef
+The Pasuk says ויקם מלך חדש על מצרים אשר לא ידע את יוסף (א,ח). The Rav suggested a novel explanation to the words אשר לא ידע את יוסף.
+
+Yosef’s brothers tried so hard to make sure that his dreams didn’t come true. First they threw him into the pit and then they sold him down to Mitzrayim. All their efforts were in order to prevent his dreams from coming true. However, in the end, it was specifically their actions which were the catalyst for the dreams to come true. It was because they sold him to the Midyanim who then sold him to the Yishamaelim etc. that he ended up in Mitzrayim where the dreams ended up being fulfilled.
+
+The same thing occurred with Pharaoh. He made all sorts of decrees in order to prevent the Jews from going out of Mitzrayim. And yet, he ended up playing a role in the Jews leaving Mitzrayim by having Moshe Rabbeinu raised in his own house! Pharaoh made decrees to kill all the Jewish boys to prevent the מושיע של ישראל from coming into existence and in the end, he raised the מושיע של ישראל.
+
+In order for the Jews to be redeemed, it was necessary for Hashem to arrange that Moshe Rabbeinu specifically grow up in the house of Pharaoh as the Ibn Ezra 2:3 writes the following:
+
+ומחשבות השם עמקו, ומי יוכל לעמוד בסודו, ולו לבד נתכנו עלילות. אולי סבב השם זה שיגדל משה בבית המלכות להיות נפשו על מדרגה העליונה בדרך הלימוד והרגילות, ולא תהיה שפלה ורגילה להיות בבית עבדים. הלא תראה, שהרג המצרי בעבור שהוא עשה חמס. והושיע בנות מדין מהרועים, בעבור שהיו עושים חמס להשקות צאנן מהמים שדלו. ועוד דבר אחר, כי אלו היה גדל בין אחיו ויכירוהו מנעוריו, לא היו יראים ממנו, כי יחשבוהו כאחד מהם.
+
+The Ibn Ezra is explaining that perhaps the reason why Hashem had it arranged for Moshe to be raised in the house of Pharaoh was in order for Moshe to have a high level of confidence and spirit. This נפשו על מדרגה העליונה בדרך הלימוד והרגילות enabled him to do things which he wouldn’t be able to do had he been raised in a lowly בית עבדים.
+
+So this that Moshe Rabbeinu ended up in the house of Pharaoh was only because of the decree of כל הבן הילוד היאורה תשליכוהו because they then put Moshe in the river which lead to Basya finding him. If not for that decree, Moshe would not have been raised in the house of Pharaoh and then he wouldn’t be able to redeem the Jews.  
+
+Therefore, When the Pasuk says there was a new king אשר לא ידע את יוסף, it means in the sense that he wasn’t aware of the fact that was clear from the story of Yosef and the brothers. The fact that a person can try to meddle and prevent something from happening, but in the end it’ll be those exact efforts that bring about the exact opposite of what you were trying to achieve.
+ ### Make us look bad
+It says in the הגדה של פסח the following: וירעו אותנו המצרים כמה שנאמר הבה נתחכמה לו פן ירבה. The literal meaning of וירעו אותנו המצרים is not clear but simply it means that they did bad to us. But it also sounds like they made us do bad. But however one would translate it, how does it connect to theהבה נתחכמה לו?
+
+An explanation could be as follows. The Ramban 1:10 explains in the beginning of the Parshah how it was possible for Pharaoh to decree all these cruel decrees especially against a people who came down at the request of the מלך הראשון and he writes the following:
+
+לא ראה פרעה וחכמי יועציו להכותם בחרב, כי תהיה בגידה גדולה להכות חנם העם אשר באו בארץ במצות המלך הראשון. וגם עם הארץ לא יתנו רשות למלך לעשות חמס כזה, כי עמהם הוא מתייעץ, ואף כי בני ישראל עם רב ועצום ויעשו עמהם מלחמה גדולה. אבל אמר שיעשו דרך חכמה שלא ירגישו ישראל כי באיבה יעשו בהם, ולכך הטיל בהם מס, כי דרך הגרים בארץ להעלות מס למלך כמו שבא בשלמה (מ"א ט כא). ואחרי כן צוה בסתר למילדות להרוג הזכרים על האבנים, ואפילו היולדות עצמן לא ידעו בהם וכו' וזה טעם מאמר האומרים למשה רבינו אשר הבאשתם את ריחנו לתת חרב בידם (להלן ה כא), כי עתה יוסיפו בשנאתם אותנו, וימצאו טענה כי אנחנו מורדים במלכות ויהרגו אותנו בחרב לעיני הכל, לא יצטרכו עוד לעשות במרמה.
+
+Pharaoh put a tax on the Jews which wasn’t something that appeared so terrible. But he thought that if he creates impossible conditions for the Jews, then they would rebel. As it says the people said to Moshe that his approaching Pharaoh to make things easier for the Jews seems like a rebellion and that will give Pharaoh the justification to kill the Jews.
+
+So when the הגדה של פסח says וירעו אותנו המצרים כמה שנאמר הבה נתחכמה לו, it could mean that the Mitzriim came up with a way to make us look bad. Meaning, the Jews were really innocent people but by putting the tax on the Jews and making them work under difficult conditions that they will have to beg for mercy, they made the Jews look bad and it gave them the תרץ to fight with them.
+ ### Difficulty Proves Importance
+The Pasuk says וכאשר יענו אתו כן ירבה וכן יפרץ (א,יב). Although it was כן ירבה וכן יפרץ, it wasn’t without effort. In Parshas Vayakhel, Rashi writes by the מראות הצובאת the following:
+
+בנות ישראל היו בידן מראות, שרואות בהן כשהן מתקשטות, ואף אותן לא עכבו מלהביא לנדבת המשכן, והיה מואס משה בהן, מפני שעשויים ליצר הרע, אמר לו הקדוש ברוך הוא קבל, כי אלו חביבין עלי מן הכל, שעל ידיהם העמידו הנשים צבאות רבות במצרים. כשהיו בעליהם יגעים בעבודת פרך, היו הולכות ומוליכות להם מאכל ומשתה ומאכילות אותם ונוטלות המראות, וכל אחת רואה עצמה עם בעלה במראה ומשדלתו בדברים, לומר אני נאה ממך, ומתוך כך מביאות לבעליהן לידי תאוה ונזקקות להם, ומתעברות ויולדות שם.
+
+It’s clear from here that there was an effort involved in the כן ירבה וכן יפרץ. But when it comes to עמרם, who was the גדול הדור, the Yetzer Hara worked extra hard against him to make sure he doesn’t have more children. As the Gemara in Sotah 11a says that he separated from his wife because he felt there was no point in having more children if they are going to be killed and it was only because his daughter convinced him that he remarried his wife and then had Moshe Rabbeinu.
+
+Perhaps we could see from here that the more important things are, the Yetzer Hara puts up a bigger fight. Therefore, specifically when it came to Moshe Rabbeinu, the Yetzer Hara worked hard to have עמרם separate from his wife. The lesson could be that when a person experiences difficulties and hardships, it’s actually a message that what he’s doing is most important because the more important what a person is doing, the more difficulty we will experience. עמרם who was about to bring the מושיען של ישראל into the world, specifically he was having a difficult time and was seeing things in a negative way as opposed to all the Jewish women who understood that it was important to continue to have children.
  ## 5781
  ### Yahrzeit of the Rambam
 This past week, כ טבת, was the Yahrzeit of the Rambam. He was born in the year 1138 and died in 1204. It’s befitting for his Yahrzeit to fall out the week of Parshas Shemos (the year he died was on the Monday of Shemos like this year) as this is the first Parsha to mention Moshe Rabbeinu. The חסיד יעב"ץ, who lived during the time of the Spanish Inquisition, in his Sefer Ohr HaChaim in the beginning of Perek ט writes אשר כבר נתפרסם על הרמב"ם ממשה עד משה לא קם כמשה. (The Chidah in the שם הגדולים מערכת מ אות קי talking about Reb Moshe Gaon who lived during the Gaonic period brings a כתב יד that says there wasn’t any Tana or Amora that was named Moshe והוא פלא וסוד והיינו דאמרי אנשי על הרמב"ם ממשה עד משה וכו' שלא היה תנא או אמורא שנקרא משה).Today, it is inscribed on the Matzeivah of the Rambam in Tiveria -ממשה עד משה לא קם כמשה.
@@ -99,5 +159,7 @@ This past week כד טבת, was the Yahrzeit of the Baal HaTanya. It’s interes
 It is told that the Baal HaTanya was by his Rebbe, the Magid M’Mezritch for Elul and the Magid needed a Baal Tokeah for Rosh Hashanah so the Baal HaTanya volunteered for the position. The entire Elul they learned together all the כונות האר"י on Tekias Shofer. On Erev Rosh Hashanah after they had learned through all these lofty things, the Baal HaTanya said to his Rebbe, it’s nice that I know all these כונות but I don’t know how to blow the Shofar. So the Magid asked him why he didn’t tell him in the first place.
 So the Baal HaTanya answered him that he learned from Moshe Rabbeinu who did the same thing. By the סנה, Moshe has a back and forth with Hashem learning the שמות. Moshe says to Hashem ואמרו לי מה שמו מה אמר אלהם to which Hashem answered him אהיה אשר אהיה. At the way end after the entire back and forth and Moshe learned everything, Moshe concludes ויאמר בי אדני שלח נא ביד תשלח, that he is not the right person to be the שליח.
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/udXoilMWfxY/0.jpg)](http://www.youtube.com/watch?v=udXoilMWfxY "Video Title")
  ### Thursday Night Parsha Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/OHksyjAp6Jc/0.jpg)](http://www.youtube.com/watch?v=OHksyjAp6Jc "Video Title")

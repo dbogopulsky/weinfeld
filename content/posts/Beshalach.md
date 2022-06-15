@@ -1,6 +1,6 @@
 ---
 title: "Beshalach"
-date: 2021-01-26T11:30:03+00:00
+date: 2022-01-11T11:30:03+00:00
 weight: 1
 aliases: ["/Beshalach"]
 tags: ["Beshalach"]
@@ -19,6 +19,68 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5782
+ ### The Real You
+The Parshah begins ויהי בשלח פרעה את העם ולא נחם אלהים דרך ארץ פלשתים כי קרוב הוא כי אמר אלהים פן ינחם העם בראתם מלחמה ושבו מצרימה. ויסב אלהים את העם דרך המדבר ים סוף וכו'. On this Pasuk, the Medrash Rabbah writes ויסב וכו' מכאן אמרו רבותינו אפי' עני שבישראל לא יאכל עד שיסב שכך עשה להם הקדוש ברוך הוא שנאמר ויסב אלהים.
+
+The simple meaning of the word of ויסב is as Rashi writes הסיבם מן הדרך הפשוטה לדרך העקומה that Hashem turned the Jews from the straight forwarded path and took them in a roundabout way. Therefore what the Medrash is saying that from here we see a source for הסיבה seems to be a play on words with the word ויסב. However, the word ויסב in the Pasuk means taking them in a roundabout way and הסיבה is about eating and drinking in a reclining position. So what is the connection between the two things? Furthermore, the Medrash seems to imply that we need a special source for the חיוב הסיבה of a עני. This is difficult to understand because all חיובים and מצות in the Torah apply to everyone equally, whether a person is עשיר or a עני so why would we need a special source to be מחייב a עני in הסיבה?   
+
+This Halacha of אפי' עני שבישראל seems to appear in the first Mishnah of ערבי פסחים דף צט: and it saysערב פסחים סמוך למנחה לא יאכל אדם עד שתחשך אפילו עני שבישראל לא יאכל עד שיסב . However, Tosfos there is bothered by the above mentioned question that why would we think that a עני wouldn’t be obligated in הסיבה. Therefore, Tosfos in one of his explanations writes that אפילו עני שבישראל is going on the beginning of the Mishna that says ערב פסחים סמוך למנחה לא יאכל אדם עד שתחשך. The Chiddush being even though the whole reason for not eating Erev Pesach is in order to eat the Matzah לתיאבון and a poor person who doesn’t eat often will still eat לתיאבון even if he eats during the day, nevertheless, he is still not supposed to eat on Erev Pesach.
+
+However, it’s clear from the Medrash Rabbah that אפילו עני שבישראל is going on the second part of the Mishnah that אפילו עני שבישראל לא יאכל עד שיסב. Therefore we must learn like the other explanation in Tosfos as to why one would have thought a עני is not מחוייב in הסיבה and he writes דסלקא דעתך דהסיבת עני לא חשיבא הסיבה דאין לו על מה להסב ואין זה דרך חירות. We would have thought that since a poor person doesn’t have what to lean on, so his reclining is not considered a leaning דרך חירות. Therefore the Mishnah teaches us אפילו עני שבישראל לא יאכל עד שיסב that he should lean.
+
+But if he doesn’t have what to lean on, then how does he lean? So the דרישה says that he should borrow a bed or a couch from his neighbor to recline on. According to this, the הוא אמינא of why a עני shouldn’t be obligated in reclining is because reclining on a borrow couch isn’t דרך חירות but we conclude that it nevertheless is דרך חירות even though he is being מיסב on a borrowed bed. It must be understood why we would’ve thought that reclining on a borrowed bed is not דרך חירות and why למסקנה, it is דרך חירות.  
+
+The Rav gave an explanation in the name of his father, Reb Avraham Weinfeld, based on the Gemara in the end of Kiddusin 82a. The Gemara says as follows:
+
+ תניא, ר"ש בן אלעזר אומר: מימי לא ראיתי צבי קייץ, וארי סבל, ושועל חנוני, והם מתפרנסים שלא בצער, והם לא נבראו אלא לשמשני, ואני נבראתי לשמש את קוני, מה אלו שלא נבראו אלא לשמשני מתפרנסים שלא בצער, ואני שנבראתי לשמש את קוני - אינו דין שאתפרנס שלא בצער אלא שהרעותי את מעשי וקיפחתי את פרנסתי, שנאמר: עונותיכם הטו.
+
+From this Braisa we learn a principle that in reality, every Jew should be able to have a פרנסה easily, שלא בצער, and everything should be set for him without a טרחה because he was created לשמש את קוני. It’s only because of the הרעותי את מעשי that we are in a state of קיפחתי את פרנסתי and therefore it’s a possibility to have a עני שבישראל.
+
+The Ramban in Hilchos Gerishin (end of chapter 2) writes:
+
+מי שתקפו יצרו הרע לבטל מצוה או לעשות עבירה והוכה עד שעשה דבר שחייב לעשותו או עד שנתרחק מדבר שאסור לעשותו אין זה אנוס ממנו אלא הוא אנס עצמו בדעתו הרעה. לפיכך זה שאינו רוצה לגרש מאחר שהוא רוצה להיות מישראל רוצה הוא לעשות כל המצות ולהתרחק מן העבירות ויצרו הוא שתקפו וכיון שהוכה עד שתשש יצרו ואמר רוצה אני כבר גרש לרצונו
+
+Based on this Rambam, it comes out that the הרעותי את מעשי is only on the external level, but on the internal level, we are on a level of חבוקה ודבוקה בך יחידה לייחדך (הושענות). Therefore, the קיפחתי את פרנסתי is also on the external level only, and in reality, internally, we are עשירים because if the סיבה is only external, then the מסובב is also only external.
+
+According to this, the reason why even a poor man  is מיסב is because since he is a ישראל, it’s not possible that he could be poor internally, and his state of poorness is only temporary and externally. Therefore, he can be מיסב on a borrowed bed and it is still considered דרך חירות and it’s not like נזם זהב באף חזיר, because his essence and internal self is that of a עשיר and he is שייך to בני חורין.
+
+The Parshah began ויהי בשלח פרעה את העם ולא נחם אלהים דרך ארץ פלשתים כי קרוב הוא כי אמר אלהים פן ינחם העם בראתם מלחמה ושבו מצרימה. If the Geulah was purely for the benefit of the Jews because of their pain and suffering, then if they want to go back to Mitzrayim, why does Hashem force them to a point of no return? Why was Hashem taking them out in a way to avoid פן ינחם, to prevent them from going back? It must be because Hashem is theבוחן כליות ולב and he knows are real desires and wants. So Hashem knew that the Jews wanting to return to Mitzrayim בראתם מלחמה was not a genuine and internal desire rather it would be from panic and confusion and their external conscious would temporarily take over and convince them to go back to Mitzrayim. But in reality, their deep down desire was not to go back but rather to receive the Torah at Har Sinai. Therefore, Hashem took them out in such a way in order to make sure that even when such feelings would surface, there wouldn’t be a possibility of ושבו מצרימה. He brought them to a point of no return once the Yam Suf turned back in to water.  
+
+We learn from the ויסב אלהים that Hashem really knows deep down what we desire which is to do his will and the ינחם is only because of the שאור שבעיסה, the יצר הרע. It is because of this that אפי' עני שבישראל צריך הסיבה because in reality, there is no עני שבישראל because the קיפחתי את פרנסתי is only because of the הרעותי את מעשי which is only on the external level. Therefore, we could learn from the ויסב אלהים that even a poor person requires הסיבה and that it’s דרך חירות.
+
+The Rav added a lesson for us is that every person, even once he is growing and heading in the right direction in his Avodas Hashem has struggles and challenges. There is a concern of בראתם מלחמה, the מלחמת היצר that he’ll want to be ושבו מצרימה and throw in the towel and give up. Therefore, a person needs the ויסב that he should take measures to put himself in a position of no return. He is able to apply certain things in his life that will guarantee his success and the leaving of his Mitzrayim. But before a person could do such a thing, he first must determine who he is and how he wants to define himself. Does he define himself by his peak moments when he is wanting to grow in his Avodas Hashem, or by his low moments? A person should really identify himself as the self in his high moments and then once he has that recognition, then we can begin to implement tools and strategies in his life, the ויסב, to prevent the ינחם.  
+ ### Bitachon
+The Pasuk says ויאמר ה' אל משה מה תצעק אלי דבר אל בני ישראל ויסעו (יד,טו). Rashi writes למדנו שהיה משה עומד ומתפלל, אמר לו הקדוש ברוך הוא לא עת עתה להאריך בתפלה שישראל נתונין בצרה. On מה תצעק אלי, the Or Hachaim asks who should the Jews cry out to if not for Hashem, and especially during a עת צרה as it says מן המצר קראתי וכו'. And if the problem was the excessive davening, so if a person davens and isn’t answered, he continues to daven until he sees that his Teffilos were accepted. So what was Hashem saying to Moshe מה תצעק אלי?
+
+The Or Hachaim answers as follows:
+
+אכן יתבאר הענין על פי מאמרם ז"ל (שמות רבה פכ"א) שישראל היו נתונין בדין מה אלו אף אלו, ודבר ידוע הוא כי כח הרחמים הוא מעשים טובים אשר יעשה האדם למטה יוסיפו כח במדת הרחמים ולהיפך ב"מ ימעיטו הכח, והוא אומרו (דברים לב יח) צור ילדך תשי, והנה לצד שראה אל עליון כי ישראל קטרגה עליהם מדת הדין, והן אמת כי חפץ ה' לצדק ישראל אבל אין כח ברחמים לצד מעשיהם כנזכר, אשר על כן אמר למשה תשובה נצחת מה תצעק אלי פירוש כי אין הדבר תלוי בידי הגם שאני חפץ עשות נס כיון שהם אינם ראוים מדת הדין מונעת ואין כח ברחמים כנגד מדת הדין המונעת, ואמר אליו דבר אל בני ישראל פירוש זאת העצה היעוצה להגביר צד החסד והרחמים דבר אל בני ישראל ויתעצמו באמונה בכל לבם ויסעו אל הים קודם שיחלק על סמך הבטחון כי אני אעשה להם נס ובאמצעות זה תתגבר הרחמים.
+
+The Or Hachaim explains that Hashem was telling Moshe that the Jews weren’t fit to be saved because מדת הדין was preventing the ישועה and there is no כח ברחמים against מדת הדין. Therefore, Hashem told Moshe the following עצה that in order to increase the חסד והרחמים, they should strengthen their Emunah as much as they could and just head towards the Yam before it splits and rely on their Bitachon and then Hashem would do the miracle for them.
+
+This idea is expressed in Tehillim 32:10 רבים מכאובים לרשע והבוטח בה' חסד יסובבנו. The simple explanation of this Pasuk is that it’s two different people, one being the רשע and the other being the בוטח בה'. However, the Medrash that is quoted by Yalkut Shimoni explains on this Pasuk that even the רשע who is deserving of רבים מכאובים and is not worthy of being saved, nevertheless if he is בוטח בה', then חסד יסובבנו.        
+ ### Integral Part of a Mitzvah
+The Pasuk says ויקח משה את עצמות יוסף. The Gemara in Sotah 13a says the following:
+
+ת"ר: בא וראה כמה חביבות מצות על משה רבינו, שכל ישראל כולן נתעסקו בביזה והוא נתעסק במצות, שנאמר: חכם לב יקח מצות וגו'
+
+But the question is that collecting ביזת הים was also a Mitzvah as the Pasuk says דבר נא באזני העם וכו' so why was the Mitzvah of taking the bones of Yosef looked at as a greater Mitzvah than the Mitzvah of being involved in the ביזה? Furthermore, the Pasuk quoted is חכם לב יקח מצות and it would make more sense for יקח מצות to be connected with צדקות so why does collecting Mitzvos have to do with חכמה?   
+
+The following answer was said over in the name of Rav Avraham Weinfeld. The Gemara in Baba Metziah 32b says even though the מצוה of פריקה comes before טעינה because of צער בעלי חיים, nevertheless by a אוהב לפרוק ושונא לטעון, there is a מצוה בשונא כדי לכוף את יצרו. We see from this Gemara that besides for the actual Mitzvah being performed and all that it contains, there is the idea of לכוף את יצרו and it’s so integral to the Mitzvah that it is מכריעה what the Halacha should be.
+
+Therefore, it’s true that being עוסק in ביזת הים was a Mitzvah, but it lacked the element of לכוף את יצרו. However, to leave the Mitzvah of being עוסק in ביזת הים and to be involved with the עצמות יוסף, not only was that a Mitzvah but it also had the element of לכוף את יצרו. This is also why the Pasuk says חכם לב יקח מצות because this was a חכמה.
+ ### ויצעקו בני ישראל
+The Pasuk says ויצעקו בני ישראל אל ה and Rashi writes תפשו אומנות אבותם seemingly indicating a high level of spirituality that they davened to Hashem. However, the immediate next Pasuk says ויאמרו אל משה המבלי אין קברים במצרים. How could it be that from one Pasuk to the next, the Yidden changed so drastically?
+
+A simple explanation could be that is the human condition, as strange as it may seem. The Alter from Kelm used to say “amol a Malach, amol a galach”, meaning a person is an embodiment of contradiction and therefore it’s possible that sometimes a person is like this and sometimes he is like this.   
+The Ramban deals with this difficulty and explains that there were actually different groups in Klal Yisrael and some were on the high level of ויצעקו בני ישראל אל ה and some were on the not so high level of המבלי אין קברים במצרים.
+
+But the Maharal in Gur Aryeh writes the following about what Rashi say תפשו אומנות אבותם as follows:
+
+דאין לומר שהיו צועקים כדרך הצדיקים שהם צועקים בעת צרה, דהא היו מתלוננים עכשיו לומר "הלא טוב לנו עבוד את מצרים" (ר' פסוק יב), אלא שהוא אומנות אבותם, שכך היה מנהג אבותם, ודבר שהוא מנהג אבותם נמשך האדם תמיד אחריו, אף על גב שאינו עושה בכוונת לבו ודעתו
+
+The Maharal explains that the Yidden weren’t davening like Tzadikim do בעת צרה rather it was by rote, out of habit. They were conditioned to cry out when bad things happened but it wasn’t done whole heartedly. But the Rav added that not being able to daven with the right כוונת is not a reason not to daven and therefore a must continue, even by habit, and eventually it’ll become genuine.        
  ## 5781
  ### The Daily Song
 In this week’s Parsha, we read the Shiras HaYam. The Shiras HaYam was said as a reaction to the extraordinary miracle of Krias Yam Suf which the Jews just experienced. The Shira begins with אז ישיר משה ובני ישראל את השירה הזאת ויאמרו לאמר. The word לאמר is difficult to understand because it usually means that which is about to be said should be said over to someone. But in the Pasuk, Moshe and the Bnei Yisrael are mentioned already so what is the purpose of the word לאמר?
@@ -62,6 +124,8 @@ In the beginning of the Shira, Rashi quotes the Medrash אמרו רבותינו 
 
 In his Hakdama to שב שמעתתא, the קצות writes that a person can only get Oilam Haba through learning Torah or by supporting Torah. He says this is the meaning of the Mishna in Sanhedrin אלו שאין להם חלק לעה"ב וכו' והאומר אין תחיית המתים מן תורה that even if a person believes in the idea of תחיית המתים but it’s not מסיבת התורה that the revival is not because of the Torah, he will not have a חלק in Oilam Haba. That is the meaning of לתחיית המתים מן התורה that it’s specifically because of תורה, the Torah is the כח for תחיית המתים and it’s not just saying a רמז form the Torah in the sense of where it can be found but that it’s the source, it’s what powers it.
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/3rjGP8WdFSU/0.jpg)](http://www.youtube.com/watch?v=3rjGP8WdFSU "Video Title")
  ### Thursday Night Parsha Shiur 5781
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ys-TNaFtDik/0.jpg)](http://www.youtube.com/watch?v=Ys-TNaFtDik "Video Title")
  ### Spiritual Growth through Material Affluence 5772

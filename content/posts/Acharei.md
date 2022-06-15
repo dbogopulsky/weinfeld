@@ -1,9 +1,9 @@
 ---
-title: "Acharei Kedoshim"
-date: 2021-04-22T11:30:03+00:00
+title: "Acharei"
+date: 2022-04-24T11:30:03+00:00
 weight: 1
-aliases: ["/AchareiKedoshim"]
-tags: ["Acharei Kedoshim"]
+aliases: ["/Acharei"]
+tags: ["Acharei"]
 categories: ["3. Vayikra"]
 author: "Dovid"
 # author: ["Me", "You"] # multiple authors
@@ -46,21 +46,9 @@ Based on the Ramban understanding of קדושים תהיו, a person could follo
 This Mitzvah of קדושים תהיו needed to be said in the situation of הקהל where the women and children as well were able to hear it directly from Moshe Rabbeinu without a middle man. Although גופי תורה are able to be transmitted from person to person, but the נשמת התורה needs to be heard directly from Moshe Rabbeinu, to see exactly how he said it, which is the idea of גדולה שימושה יותר מלימודה. This is why the Parsha of קדושים תהיו needed to be said specifically at הקהל.
 
 This could be an explanation of the Pasuk from ישעיהו (נט,כא) that is said in davening every dayואני זאת בריתי אותם אמר ה' רוחי אשר עליך ודברי אשר שמתי בפיך לא ימושו מפיך ומפי זרעך ומפי זרע זרעך אמר ה' מעתה ועד עולם. We are asking that not only should the דברי which is the גופי תורה be לא ימושו but the רוחי אשר עליך, the נשמת התורה, should be forgotten as well.
- ### ואהבת לרעך כמוך
-In Parshas Kedoshim the Pasuk says ואהבת לרעך כמוך. Rashi says אמר רבי עקיבא זה כלל גדול בתורה. This statement of Reb Akiva seemingly contradicts his ruling in the case of שנים שהיו מהלכין בדרך ואין בידם אלא קיתון אחד של מים that one person should drink the water and let the other die because of the rule חייך קודם. The one who disagrees with Reb Akiva is בן פטורא who holds that it’s better for both to drink the water and both die.  
-
-In the Toras Kohanim on the Pasuk ואהבת לרעך כמוך, Reb Akiva says זה כלל גדול בתורה and בן עזאי quotes the Pasuk in Breishis זה ספר תולדות האדם saying זה כלל גדול מזה. What is the meaning behind this Machlokes?
-
-The Malbim explains this Machlokes and connects it with the Machlokes above between Reb Akiva and בן פטורא. He explains that according to Reb Akiva, ואהבת לרעך כמוך is לטובת בני אדם ויישוב העולם and it is the foundational Mitzvah of all מצוות בין אדם לחבירו and therefore it is ככל גדול בתורה. But according the בן עזאי, the Pasuk זה ספר תולדות האדם is a greater כלל because it teaches the idea שכל בני אדם קשורים כגוף אחד וכולם נבראו בצלם אלקים להשלים הצלם ודמות העליון שכולל כל הנפשות וכו'.
-
-The Malbim continues that this Reb Akiva that ואהבת לרעך כמוך is זה כלל גדול בתורהis לשיטתו with what he rules in the case of קיתון של מים and בן פטורא is like בן עזאי. Regarding בין אדם לחבירו ותיקון יישוב העולם it comes out that חייך קודמין. However, regarding השלמת הצלם והדמות העליון, every person is considered like one and therefore no individual’s life takes precedence over another.
-
-The Chassam Sofer asks that if according to Reb Akiva חייך קודמין לחיי חבירך, how could one fulfil the Mitzvah of ואהבת לרעך כמוך? He answers that which we say חייך קודמין לחיי חבירך is only in עניני עולם הזה, in material things. But when it comes to חיי נצח, which is לימוד התורה, we say ואהבת לרעך כמוך and one is therefore obligated to teach others even at the expense of his own learning and growth. This is what Reb Akiva was stressing when he said זה כלל גדול בתורה meaning in תורה specifically one is commanded ואהבת לרעך כמוך.
-
-The above Chassam Sofer is connected to what he writes in the beginning Parshas Kedoshim. The Parsha begins דבר אל כל עדת בני ישראל ואמרת אלהם קדשים תהיו and Rashi says מלמד שנאמרה פרשה זו בהקהל מפני שרוב גופי תורה תלויין בה. He explains this with what the Chovos Halevavos writes about פרישות ובדידות that Hashem doesn’t want a person to isolate himself from people and society in order to ponder to himself the מעשי ה' because לא תהו בראה לשבת יצרה and really the רצון ה' is for a person to be אוהב את הבריות ולחבר עמהם to teach them Torah even to the point where it will prevent him from being משלים himself. Nevertheless, it is Hashems will to be אוהב הבריות because through that he can be מקרבן לתורה.
-
-He concludes this is the idea of this Parsha being said at הקהל because קדושים תהיו, that one should be פרוש is a mental state and not physically. The idea of קדושים תהיו which is all about פרישות being said in a state of הקהל is to show that a person could be פרוש but מעורב עם בני אדם.
  ## Videos
+ ### Thursday Night Parsha Shiur 5782
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/uczI1iv7wn8/0.jpg)](http://www.youtube.com/watch?v=uczI1iv7wn8 "Video Title")
  ### Thursday Night Parsha Shiur 5781
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/TetJYfehHyk/0.jpg)](http://www.youtube.com/watch?v=TetJYfehHyk "Video Title")
  ### Thursday Night Parsha Shiur 5780

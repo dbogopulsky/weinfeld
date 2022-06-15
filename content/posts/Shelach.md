@@ -1,6 +1,6 @@
 ---
 title: "Shelach"
-date: 2021-06-01T11:30:03+00:00
+date: 2022-06-14T11:30:03+00:00
 weight: 1
 aliases: ["/shelach"]
 tags: ["Shelach"]

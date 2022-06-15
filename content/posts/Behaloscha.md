@@ -1,6 +1,6 @@
 ---
 title: "Behaloscha"
-date: 2021-05-26T11:30:03+00:00
+date: 2022-06-07T11:30:03+00:00
 weight: 1
 aliases: ["/behaloscha5781"]
 tags: ["Behaloscha"]
@@ -19,6 +19,93 @@ cover:
     relative: false
 comments: false
 ---
+ ## 5782
+ ### Teshuvah
+The Kiddush this Shabbos was sponsored by Reb Yisrael (Roy) Neuberger in honor of his mother in laws Yahrzeit. She discovered the beauty of Yiddishkeit during the last years of her life through her children as Rashi says on the Pasuk in the end of Malachi 3:24 והשיב לב אבות על בנים ולב בנים על אבותם, Rashi says אבות ע"י בנים that children will bring their parents back at the end of days. This also connects with the עינינא דיומא of this Shabbos, יב סיון, which is the final day of the ימי התשלומין after Shavuos. Someone who wasn’t able to bring his קרבן ראיה on Shavuos had up until יב סיון to make it up. Additionally, this week’s Parshah contains the Mitzvah of Pesach Sheni. Both of these concepts express the idea that a person can make up for missed opportunities.  
+
+It’s important to remember that those who are generally referred to as Baalei Teshuva don’t have a monopoly on Teshuva rather all people can do Teshuva. Regarding Teshuva, the Mesilas Yesharim in Chapter four writes:
+
+כי הנה באמת, איך יתקן האדם את אשר עיות והחטא כבר נעשה? הרי שרצח האדם את חברו, הרי שנאף, איך יוכל לתקן הדבר הזה? היוכל להסיר המעשה העשוי מן המציאות? אמנם, מדת הרחמים היא הנותנת הפך השלשה דברים שזכרנו: דהינו, שיתן זמן לחוטא ולא יכחד מן הארץ מיד כשחטא, ושהעונש עצמו לא יהיה עד לכלה, ושהתשובה תנתן לחוטאים בחסד גמור, שתחשב עקירת הרצון כעקירת המעשה וכו'.
+
+The concept of Teshuva is a difficult thing to understand because how should a person be able to undo what he’s already done. A scrambled egg can’t be unscrambled. However, the chiddush of Teshuva is that it’s never too late and whatever he’s done in the past can always be corrected and he can redo his past.
+ ### Placement of the Cups
+The Parshah begins with Aharon being tasked with lighting the Menorah. The Pasuk says דבר אל אהרן ואמרת אליו בהעלתך את הנרת אל מול פני המנורה יאירו שבעת הנרות.
+
+On the words יאירו שבעת הנרות, Rashi writes the following:
+
+ששה שעל ששת הקנים, שלשה המזרחיים פונים למול האמצעי, הפתילות שבהן וכן שלשה המערביים ראשי הפתילות למול האמצעי. ולמה, כדי שלא יאמרו לאורה הוא צריך.
+
+According to Rashi, it’s clear that אל מול פני המנורה is only referring to the ששה נרות, three on each side, which is consistent with what Rashi says in the דיבור המתחיל before- אל מול נר אמצעי שאינו בקנים, אלא בגוף של מנורה. Meaning the אמצעי is not אל מול פני המנורה rather it’s only the ששה נרות on the ששה קנים which were facing the פני המנורה.
+
+But the great difficulty with this is that it’s explicitly against the Pasuk which says אל מול פני המנורה יאירו שבעת הנרות. The Pasuk clearly says that all seven נרות were אל מול פני המנורה so how could Rashi explain that אל מול פני המנורה was only going on ששה נרות שעל ששת הקנים?   
+
+The Rashbam writes אל מול פני המנורה - היה מטה ראשי הפתילות של כל שבעת הנרות להאיר אל השולחן. According to this understanding that אל מול פני המנורה is referring to the שולחן which was facing the Menorah, than it’s accurate to say אל מול פני המנורה יאירו שבעת הנרות because all seven נרות were facing the שולחן. But according to Rashi, the question remains.
+
+The Chizkuni writes יאירו שבעת הנרות הנרות שעל ששת הקנים ה"ג בפרש"י אלא שהסופרים גרעו בו תיבה אחת and the מושב זקנים says the word missing in Rashi was והאמצעי. Meaning, Rashi really wrote יאירו שבעת הנרות – ששה והאמצעי and therefore when the Pasuk says יאירו שבעת הנרות, it really is referring to all seven נרות. But the question still remains on Rashi because how could it be possible to say יאירו שבעת הנרות regarding the אל מול פני המנורה because it was only the ששה על ששת הקנים which were אל מול פני המנורה and not the אמצעי.
+
+It must be that according to Rashi, the Pasuk is read with a comma and its split in two parts. The beginning of the Pasuk says בהעלתך את הנרת אל מול פני המנורה and the end of the Pasuk is יאירו שבעת הנרות. Therefore, בהעלתך את הנרת אל מול פני המנורה could be referring to only the ששה על ששת הקנים, and the conclusion of the Pasuk יאירו שבעת הנרות means now as a result, there are seven lit candles. This could be read into the Rashi with the edit of the Chizkuni andמושב זקנים that יאירו שבעת הנרות – ששה והאמצעי, which is an independent statement from the אל מול פני המנורה. The Sforno reads the Pasuk like this as well: אל מול פני המנורה שהוא הקנה האמצעי וזה כשתפנה שלהבת כל אחד מהששה נרות אל הקנה האמצעי אז יאירו שבעת הנרות כל השבעה יאירו.
+
+But according to all this, what is the meaning and significance of the Torah writing יאירו שבעת הנרות. It’s obvious, that after you light the six and the אמצעי, it results in יאירו שבעת הנרות?
+
+The Rambam writes in Hilchos Beis HaBechira 3:8 ששת הנרות הקבועים בששת הקנים היוצאים מן המנורה כולן פניהם לנר האמצעי שעל קני המנורה וכו'. According to the Rambam, the פתילות themselves were not slanted towards the middle rather they we upright and it was the נרות-the cups, which were קבועה, slanted towards the middle. According to this, these are the two things being mentioned in the Pasuk. בהעלתך את הנרת אל מול פני המנורה means that the cups will be slanted towards the middle-אל מול פני המנורה and then יאירו שבעת הנרות is that all seven will cast light, upward. So in terms of the יאירו, all שבעה are the same because they are all lit, upwards. But when the Pasuk says בהעלתך את הנרת אל מול פני המנורה that is referring to the cups being slanted which was only said about the six, three on each side and not the middle.    
+
+However, the Chizkuni writes בהעלתך את הנרת כמשמעו לשון עליה כשתעלה את הנרות הן הלוצי"ש בלע"ז על הקנים למקומם, meaning the cups were not קבועה. But according to this that the נרות weren’t קבועה, then it comes out that this Halachah that the נרות needed to be tilted towards the middle isn’t a Halacha in the מעשה המנורה-in creating and fashioning in Hilchos Beis HaBechira, rather this is a Halacha in the מעשה הדלקה. Meaning, by slanting the cups, it’s considered that the אור of the three and the three is going towards the middle.
+
+But even according to the Rambam who says that the cups were קבועה which would indicate this is a Halacha in the מעשה המנורה, still the Brisker Rav Al HaTorah concludes that this Halachah that the cups need to be slanted is a דין in the הדלקה and not in the building of the חפצא of the Menorah. The reason is because since this Halacha appears in Hilchos Beis HaBechira and it was a ציווי to Aharon HaKohen and not Betzalel, it must be that it’s a Halacha in the מעשה הדלקה.
+
+(A נפ"מ would be regarding the איסור תבנית of making a Menorah, if the cups weren’t made slanted. According to the Brisker Rav, one would be עובר the איסור because the Halacha of the cups being slanted is only a Halacha in the lighting of the Menorah and not in the building of the Menorah.)
+
+According to all this, the meaning of יאירו שבעת הנרות means that all seven are מאיר as they are supposed to be. The middle one is מאיר upward and the three on each side will be מאיר towards the middle. So בהעלתך את הנרת is not the requirement that the cups should be slanted, rather the requirement of בהעלתך את הנרת is in order to affect the יאירו. The Pasuk is able to say יאירו שבעת הנרות because when the three on each side are slanted towards the middle and the middle is upward, then all the שבעה נרות will be מאיר the way they are supposed to be.
+
+(From here we can be reminded of the lesson not to judge a book by its cover because on the cover of the Brisker Rav’s Sefer Al HaRambam, it has a Menorah with non-slanted cups which is שלא כשיטת הרמב"ם)      
+
+Being that every individual is a מקדש מעט, all the above must have a deep and personal message which could be explained as follows. The Pasuk in Mishlei says כי נר מצוה ותורה אור (ו,כג) which expresses that the relationship between Torah and Mitzvos is that which a כלי has to אור. We say in Davening והאר עינינו בתורתך ודבק לבנו במצותיך which means the Torah enlightens the שכל, the mind, and Mitzvos purify the heart as the Gemara in Avoda Zara 28b says שורייני דעינא באובנתא דליבא תלו which also has the meaning of that which the mind understands through what it sees is dependent on the נטיית הלב. Therefore, נר מצוה ותורה אור is that the אור התורה is dependent on the כלי of מצוות because without the כלי of מצוות which purify the heart, the Torah could be a סם המות. It’s only through the כלי המצוות which is מזכך the לב that the אור התורה could be a סם החיים.
+
+Therefore, it is the slanting of the cups which define the הארה of the אור of the Menorah. It establishes the direction of the אור which is מאיר from the Menorah. This expresses this idea that the direction of the אור התורה is dependent on the direction of the כלי, because it’s only through the נר מצוה that there can be a תורה אור in the proper way.          
+ ### When to Blow
+At the end of the Parshah of the חצוצרת, the Psukim discuss when they should be used. The Psukim say וכי תבאו מלחמה בארצכם על הצר הצרר אתכם והרעתם בחצצרת ונזכרתם לפני ה' אלהיכם ונושעתם מאיביכם, וביום שמחתכם ובמועדיכם ובראשי חדשיכם ותקעתם בחצצרת על עלתיכם ועל זבחי שלמיכם. The first Pasuk says that the חצוצרת should be used during times of war and when Klal Yisrael is in danger. The second Pasuk says the חצוצרת should be used ביום שמחתכם ובמועדיכם ובראשי חדשיכם, during times of happiness. How could it be understood that the same blowing that is done at times of war and despair is the same blowing that is done ביום שמחתכם?   
+
+The Rambam in Sefer HaMitzvos מ"ע נט writes as follows:
+
+היא שצונו לתקוע בחצוצרות במקדש עם הקרבת כל קרבן מקרבני המועדים והוא אמרו ית' (שם י) וביום שמחתכם ובמועדיכם ובראשי חדשיכם ותקעתם בחצוצרות וכו' וכן אנחנו מצווים לתקוע בחצוצרות בעתות הצורך והצרות כשנצעק לפני השם יתעלה   
+
+The Rambam brings both these distinct times of blowing as one Mitzvah. But how could this be understood because these ציווים are from two separate Psukim and each situation requires תקיעות for its own unique purpose. So how could the Rambam count these two times for blowing as one Mitzvah?
+
+The Maggid Mishnah in the beginning of Hilchos Taanis asks this question on the Rambam as follows:
+
+וראיתי לרבינו בספר המצות שלו שמנה תרועה זו ותקיעה שבשעת הקרבנות במצוה אחת ותמה אני למה שהרי שני פסוקים הם בכתוב. ונראה שדעתו ז"ל שהמצוה היא אחת כללית לתקוע בחצוצרות במקדש בעת הקרבנות ובעת הצרות בין במקדש בין בגבולין ואין ראוי למנותן בשתי מצות ועוד צ"ע
+
+However, an answer could be based on the Chizkuni there who writes as follows:
+
+וכי תבאו מלחמה וכו' ונזכרתם לפני ה' הולך ומפרש היאך יהיו נזכרים וכו' שהרי ביום שמחתכם דהיינו במועדיכם ותקעתם על עולותיכם וכשתתקעו ותריעו למלחמה יזכור לכם זכות הקרבנות ונושעתם וכו' ע"ש.
+
+According to this, the reason why blowing the חצוצרת at each of these different situations is counted as one Mitzvah is because blowing the חצוצרת at times of war isn’t an independent act rather it’s to serve as a reminder to the Ribbono Shel Oilam of the תקיעות by the Korbanos.
+
+Based on this, it comes out that the עיקר תקיעות are really the ones blown ביום שמחתכם ובמועדיכם ובראשי חדשיכם and the ones blown בשעת מלחמה and על הצר הצרר אתכם are secondary, in the sense that they are to serve as a reminder to the Ribbono Shel Oilam of the תקיעות by the Korbanos. One could have said that the תקיעות blown in a situation of מלחמה בארצכם על הצר הצורר אתכם, in a moment of despair, is a much greater level and expression of connection than the תקיעות ביום שמחתכם, when everything is happy and secure. But we see it’s really the opposite because to turn to Hashem in times of difficulty and despair has less חשיבות than when we turn to Hashem ביום שמחתכם. Therefore it’s specifically remembering the Korbanos ביום שמחתכם during the times of war which bring out the ישועה.   
+ ### End to Singing
+Regarding the age that Leviim finish their service in the Mishkan, the Pasuk says ומבן חמשים שנה ישוב מצבא העבדה ולא יעבד עוד (ח:כה). Rashi writes עבודת משא בכתף אבל חוזר הוא לנעילת שערים ולשיר. According to Rashi, after fifty, the Levi only stops carrying parts of the Mishkan but he continues to lock up the gates and to sing. However, the Ramban disagrees and says that a fifty year old Levi would also stop singing.
+
+This opinion of the Ramban could be used to understand the following Pasuk at the end of Eicha 5:14: זקנים משער שבתו בחורים מנגינתם. The simple explanation of this Pasuk is referring to all זקנים and בחורים. However, this Pasuk could be read about Leviim that at the time of the חורבן הבית, the זקנים-Leviim above fifty, are משער שבתו because they are no longer locking up the gates and the בחורים-younger Leviim are שבת מנגינתם because they can no longer sing. This is consistent with the Rambans opinion that a Levi over fifty no longer sang and only locked up the gates. (See Ramban Hilchos Klei Hamikdash 3:8)
+ ### The Graves of Eldad and Meidad
+Regarding אלדד ומידד, the דעת זקנים מבעלי התוספות quote the following:
+
+ומצאתי קונטריס מר' עמרם מר' הלל שהיה מארץ ישראל אני הלל ראיתי קבר אלדד ומידד והיה כתוב עליהם אלדד ומידד אחי אהרן מן האב ולא מן האם
+
+(Side note, we see that when it comes to writing on a מציבה, one must be specific and not exaggerate. They were אחי אהרן but only מן האב and not מן האם.)
+
+The question is, if they were אחי אהרן מן האב, then they were also the brother of Moshe because Moshe and Aharon had the same father. If so, why would their מציבה only write they were אחי אהרן and not אחי משה?
+
+This question could be answered according to what was said over from the Ostrovtser Rebbe, Rav Meir Yechiel Halevi Halstcock (1852-1928).
+The Gemara in Zevachim 102a says the following:
+
+מרים מי הסגירה? א"ת משה הסגירה, משה זר הוא, ואין זר רואה את הנגעים! וא"ת אהרן הסגירה, אהרן קרוב הוא, ואין קרוב רואה את הנגעים
+
+The question is that being a קרוב was also a reason why Moshe Rabbeinu couldn’t rule on Miriams נגעים so why does the Gemara choose to say the reason is because משה זר הוא, ואין זר רואה את הנגעים?
+The Gemara Shabbos 88a says ויתיצבו בתחתית ההר, אמר רב אבדימי בר חמא בר חסא: מלמד שכפה הקדוש ברוך הוא עליהם את ההר כגיגית. The Maharal in Gur Aryeh, Parshas Vayigash 46:10, writes that although Matan Torah was a גירות and generally the rule is גר שנתגייר כקטן שנולד דמי, this only applies to a גירות without coercion. But by a forced גירות, we don’t say גר שנתגייר כקטן שנולד דמי. The Ostrovtser Rebbe said that since Moshe Rabbeinu wasn’t בתחתית ההר, so it wasn’t כפה עליו הר כגיגית and therefore his גירות wasn’t forced and he was גר שנתגייר כקטן שנולד דמי. But by Aharon it was כפה עליו הר כגיגית and therefore we don’t apply גר שנתגייר כקטן שנולד דמי.
+
+According to this, it’s understood why the Gemara in Zevachim says the reason why Moshe was פסול to rule on Miriams נגעים was because of זרות and not קרוב because being that גר שנתגייר כקטן שנולד דמי, there was no longer a יחס between Moshe and Miriam.
+
+According this vort from the Ostrovtser Rebbe, it can also be understood why on the מציבה of אלדד ומידד it only said אחי אהרן and not אחי משה because since by Moshe only we say גר שנתגייר כקטן שנולד דמי, so Moshe was no longer a קרוב to אלדד ומידד. 
  ## 5781
  ### Opportunity When Out of Place
 The Parsha begins with Ahron being commanded בהעלתך את הנרת. Rashi points out that this Parshas is out of place by asking למה נסמכה פרשת המנורה לפרשת הנשיאים because if these events occurred chronologically, then there would be no need for such a question. Therefore, the fact that Rashi asks למה נסמכה indicates that this event is not in the chronological order of event as we see in the Gemara in Gittin on 60b that the Parshah of the Menorah was one of the eight Parshiyos given on Rosh Chodesh Nissan before the Nesiim began to bring their Korbanos and it wasn’t said now, after the Nesiim concluded bringing their Korbanos, which was on the twelfth day of Nissan.
