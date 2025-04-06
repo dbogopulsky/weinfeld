@@ -14,3 +14,4 @@ help:
 	@echo "start": start the local server.
 	@echo "publish": publish your changes to AWS. Used to update the actual site.
 	@echo "backup": backup and save all your changes to Github.
+	@echo "old": 
